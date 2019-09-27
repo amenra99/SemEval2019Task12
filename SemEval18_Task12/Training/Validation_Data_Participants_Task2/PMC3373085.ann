@@ -1,0 +1,143 @@
+T1	Protein 51 58	Eleanor
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 323 324	*
+#2	AnnotatorNotes T2	END
+T3	Protein 4828 4838	DISPATCHES
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 5286 5289	315
+#4	AnnotatorNotes T4	END
+T5	Protein 9792 9802	DISPATCHES
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 9881 9885	2006
+#6	AnnotatorNotes T6	END
+T7	Protein 12531 12546	Acknowledgments
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 13426 13429	317
+#8	AnnotatorNotes T8	END
+T9	Protein 13932 13942	References
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 16811 16817	issues
+#10	AnnotatorNotes T10	END
+T11	Location 44 50	Mexico
+T12	Location 426 432	Mexico
+T13	Location 528 534	Mexico
+T14	Location 560 573	United States
+T15	Location 664 670	Mexico
+T16	Location 696 709	United States
+T17	Location 841 849	New York
+T18	Location 884 897	United States
+T19	Location 901 911	California
+T20	Location 1043 1056	United States
+T21	Location 1100 1106	Mexico
+T22	Location 1151 1164	United States
+T23	Location 1187 1193	Mexico
+T24	Location 1202 1207	Texas
+T25	Location 1274 1280	Mexico
+T26	Location 1336 1343	Tabasco
+T27	Location 1375 1381	Mexico
+T28	Location 1421 1427	Mexico
+T29	Location 1433 1438	Texas
+T31	Location 1883 1889	Mexico
+T32	Location 1925 1934	Caribbean
+T33	Location 1981 1994	United States
+T34	Location 2021 2028	Florida
+T35	Location 2193 2201	New York
+T36	Location 2206 2213	Florida
+T37	Location 2265 2274	Louisiana
+T38	Location 2283 2300	Yucatan Peninsula
+T39	Location 2304 2310	Mexico
+T30	Location 2458 2475	Yucatan Peninsula
+T40	Location 2566 2579	United States
+T41	Location 2585 2591	Mexico
+T42	Location 2624 2633	Caribbean
+T43	Location 2787 2793	Mexico
+T44	Location 2900 2910	Nuevo Leon
+T45	Location 3029 3039	California
+T46	Location 3045 3050	Texas
+T47	Location 3083 3098	Rocky Mountains
+T48	Location 3135 3141	Mexico
+T49	Location 3180 3195	Baja California
+T50	Location 3298 3308	California
+T52	Location 3398 3408	California
+T51	Location 3431 3446	Baja California
+T53	Location 3451 3457	Sonora
+T54	Location 3647 3653	Mexico
+T55	Location 3766 3773	Tabasco
+T56	Location 3880 3886	Mexico
+T57	Location 3896 3909	United States
+T58	Location 3927 3933	Mexico
+T59	Location 3989 3995;3996 4002	United States
+T60	Location 4049 4055	Mexico
+T61	Location 4064 4071	Florida
+T62	Location 4080 4089	Louisiana
+T63	Location 4098 4105	Arizona
+T64	Location 4118 4128	California
+T65	Location 4201 4207	Sonora
+T66	Location 4216 4226	Tamaulipas
+T67	Location 4239 4254	Baja California
+T68	Location 4467 4475	Valencia
+T69	Location 4477 4479	CA
+T70	Location 4481 4484	USA
+T71	Location 5363 5374	Foster City
+T72	Location 5376 5378	CA
+T73	Location 5380 5383	USA
+T74	Location 6365 6372	Florida
+T75	Location 6377 6386	Louisiana
+T76	Location 6678 6683	Texas
+T85	Location 7134 7144	Tamaulipas
+T86	Location 7165 7171	Sonora
+T87	Location 7149 7164	Baja California
+T88	Location 7208 7218	Tamaulipas
+T89	Location 7223 7228	Texas
+T90	Location 7296 7311	Baja California
+T91	Location 7316 7322	Sonora
+T92	Location 7344 7349	Texas
+T94	Location 8170 8175	China
+T95	Location 8180 8185	Egypt
+T97	Location 8534 8540	Mexico
+T98	Location 8670 8677	Tabasco
+T99	Location 8768 8781	United States
+T100	Location 8789 8803	Gulf of Mexico
+T101	Location 8811 8820	Caribbean
+T102	Location 8843 8849	Mexico
+T104	Location 8977 8983	Mexico
+T105	Location 9205 9218	United States
+T106	Location 9233 9239	Mexico
+T107	Location 9304 9310	Mexico
+T108	Location 9315 9325	California
+T109	Location 9329 9336	Arizona
+T110	Location 9380 9386	Mexico
+T111	Location 9538 9544	Mexico
+T112	Location 9625 9631	Mexico
+T113	Location 9967 9973	Mexico
+T114	Location 10293 10299	Mexico
+T115	Location 10541 10547	Mexico
+T116	Location 10445 10458	United States
+T117	Location 10493 10503	California
+T118	Location 10508 10515	Arizona
+T119	Location 10558 10573	Baja California
+T120	Location 10695 10701	Mexico
+T121	Location 10746 10755	Chihuahua
+T122	Location 10765 10771	Sonora
+T123	Location 10817 10823	Sonora
+T124	Location 10785 10795	Nuevo Leon
+T126	Location 11142 11148	Mexico
+T129	Location 11433 11446	United States
+T130	Location 11547 11553	Mexico
+T131	Location 11811 11824	United States
+T132	Location 11836 11846	California
+T133	Location 11949 11955	Mexico
+T134	Location 11971 11977	Sonora
+T135	Location 11985 11995	Nuevo Leon
+T136	Location 12003 12013	Tamaulipas
+T137	Location 12020 12028	Coahuila
+T138	Location 12035 12044	Chihuahua
+T139	Location 12055 12070	Baja California
+T140	Location 12147 12162	Baja California
+T141	Location 12167 12173	Sonora
+T142	Location 12315 12321	Mexico
+T143	Location 12479 12485	Mexico
+T144	Location 3394 3396	US
+T93	Location 10578 10584	Sonora
+T77	Location 8916 8925	Caribbean
+T78	Location 9475 9482	Tabasco

@@ -1,0 +1,80 @@
+T10	Protein 10859 10863	2532
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 10969 10973	from
+#11	AnnotatorNotes T11	END
+T12	Protein 13916 13919	VOL
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 14030 14034	from
+#13	AnnotatorNotes T13	END
+T14	Protein 14702 14704	We
+#14	AnnotatorNotes T14	BEGIN
+T15	Protein 17561 17565	from
+#15	AnnotatorNotes T15	END
+T16	Location 2220 2233	New York City
+T17	Location 2406 2419	United States
+T18	Location 2533 2541	New York
+T19	Location 2605 2611	Israel
+T20	Location 4241 4252	Foster City
+T21	Location 4254 4256	CA
+T22	Location 4350 4354;4355 4359	Mad- ison
+T23	Location 4361 4363	WI
+T24	Location 7557 7559	NY
+T25	Location 7618 7626	Columbia
+T26	Location 7671 7682	Cattaraugus
+T27	Location 7727 7734	Suffolk
+T28	Location 7780 7786	Albany
+T29	Location 7832 7840	New York
+T30	Location 7886 7894	Herkimer
+T31	Location 7940 7950	Chautauqua
+T32	Location 7996 8003	Niagara
+T33	Location 8049 8056	Suffolk
+T34	Location 8102 8111	Jefferson
+T35	Location 8157 8164	Ontario
+T36	Location 8210 8217	Genesee
+T37	Location 8263 8271	Richmond
+T38	Location 8317 8323	Monroe
+T39	Location 8370 8380	Chautauqua
+T40	Location 8427 8433	Ulster
+T41	Location 8480 8486	Oswego
+T42	Location 8533 8539	Nassau
+T43	Location 8586 8592	Queens
+T44	Location 8638 8646	Dutchess
+T45	Location 8687 8692	Bronx
+T46	Location 8744 8749	Kings
+T47	Location 8795 8800	Lewis
+T48	Location 8846 8852	Nassau
+T49	Location 8898 8906	Onondaga
+T50	Location 8952 8959	Suffolk
+T51	Location 9005 9011	Monroe
+T52	Location 9057 9063	Queens
+T53	Location 9109 9116	Niagara
+T54	Location 9162 9172	Chautauqua
+T55	Location 9213 9221	Rockland
+T56	Location 9267 9273	Albany
+T57	Location 9319 9323	Erie
+T58	Location 9369 9375	Broome
+T59	Location 9422 9428	Queens
+T60	Location 9470 9477	Ontario
+T61	Location 9522 9528	Nassau
+T62	Location 9574 9582	Onondaga
+T63	Location 9628 9636	Rockland
+T65	Location 225 238	North America
+T66	Location 1095 1108	North America
+T67	Location 2184 2197	North America
+T68	Location 1637 1650	North America
+T69	Location 3287 3300	North America
+T70	Location 7056 7069	North America
+T71	Location 14332 14345	North America
+T72	Location 14463 14476	North America
+T3	Protein 240 249	Katherine
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1025 1029	2006
+#4	AnnotatorNotes T4	END
+T1	Protein 0 7	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 179 180	.
+#2	AnnotatorNotes T2	END
+T5	Protein 5731 5732	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6130 6134	from
+#6	AnnotatorNotes T6	END

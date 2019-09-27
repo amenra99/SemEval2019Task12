@@ -1,0 +1,1539 @@
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/bync/3.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use,
+please contact journals.permissions@oup.com
+Published by Oxford University Press on behalf of the International Epidemiological Association
+International Journal of Epidemiology 2014;43:204–215
+ß The Author 2013. Advance Access publication 19 December 2013
+doi:10.1093/ije/dyt231
+
+Child mortality patterns in rural Tanzania: an
+observational study on the impact of malaria
+control interventions
+Sandra Alba,1* Rose Nathan,2 Alexander Schulze,3 Hassan Mshinda4 and Christian Lengeler5,6
+1
+
+Royal Tropical Institute (KIT), KIT Biomedical Research, Amsterdam, The Netherlands, 2Ifakara Health Institute, Dar es Salaam,
+Tanzania, 3Novartis Foundation for Sustainable Development, Basel, Switzerland, 4Tanzania Commission for Science and
+Technology, Dar es Salaam, Tanzania, 5Swiss Tropical and Public Health Institute, Department of Epidemiology and Public Health,
+Switzerland and 6Faculty of Science, University of Basel, Basel, Switzerland
+*Corresponding author. Royal Tropical Institute (KIT), KIT Biomedical Research, Meibergdreef 39, 1105 AZ Amsterdam, The
+Netherlands. E-mail: s.alba@kit.nl
+
+Accepted
+
+10 October 2013
+
+Background Between 1997 and 2009, a number of key malaria control interventions were implemented in the Kilombero and Ulanga Districts in
+south central Tanzania to increase insecticide-treated nets (ITN)
+coverage and improve access to effective malaria treatment. In
+this study we estimated the contribution of these interventions to
+observed decreases in child mortality.
+Methods
+
+The local Health and Demographic Surveillance Site (HDSS) provided monthly estimates of child mortality rates (age 1 to 5 years)
+expressed as cases per 1000 person-years (c/1000py) between 1997
+and 2009. We conducted a time series analysis of child mortality
+rates and explored the contribution of rainfall and household food
+security. We used Poisson regression with linear and segmented
+effects to explore the impact of malaria control interventions on
+mortality.
+
+Results
+
+Child mortality rates decreased by 42.5% from 14.6 c/1000py in
+1997 to 8.4 c/1000py in 2009. Analyses revealed the complexity of
+child mortality patterns and a strong association with rainfall and
+food security. All malaria control interventions were associated with
+decreases in child mortality, accounting for the effect of rainfall and
+food security.
+
+Conclusions Reaching the fourth Millenium Development Goal will require the
+contribution of many health interventions, as well as more general
+improvements in socio-environmental and nutritional conditions.
+Distinguishing between the effects of these multiple factors is difficult and represents a major challenge in assessing the effect of
+routine interventions. However, this study suggests that credible
+estimates can be obtained when high-quality data on the most
+important factors are available over a sufficiently long time period.
+Keywords
+
+Malaria, child mortality, malaria control interventions, rainfall, food
+security, mortality impact
+
+204
+
+CHILD MORTALITY PATTERNS IN RURAL TANZANIA
+
+Background
+Child mortality is a leading indicator of child health
+and overall development. In sub-Saharan Africa, malaria, diarrhoea and pneumonia are responsible for
+more than half the deaths of children under five
+years of age, whereas more than a third of all child
+deaths are attributed to undernutrition. Malaria control strategies are therefore instrumental in reaching
+the fourth Millennium Development Goal of reducing
+the under-five mortality rate by two-thirds worldwide
+between 1990 and 2015, in combination with targeted
+efforts to fight pneumonia and diarrhoea while bolstering nutrition.1
+The past 10 years have seen a steep rise in international funding for malaria, with disbursements reaching their highest ever levels in 2011 at US$ 2 billion.2
+Since the Abuja Declaration in 2000, malaria control
+strategies have focused on achieving high coverage of
+insecticide treated nets (ITNs), access to prompt and
+effective treatment for malaria and the protection of
+pregnant mothers with intermittent presumptive
+treatment.3 In recent years, the number of tools available to fight malaria has increased, and now includes
+long lasting insecticidal nets (LLINs), rapid diagnostic
+tests (RDTs) and a renewed faith in the feasibility of
+implementing indoor residual spraying (IRS) in some
+settings.4
+A number of key malaria control interventions have
+been implemented in the Kilombero and Ulanga districts in south central Tanzania to increase ITN coverage and improve access to effective malaria treatment.
+First, the KINET project5,6 was piloted to promote and
+subsidize ITNs between 1997 and 1999. The project
+was subsequently up-scaled nationwide within the
+frame of the Tanzania National Voucher Scheme
+(TNVS).7 There were two changes in the national
+policy for first-line treatment of malaria, from chloroquine to sulphadoxine-pyrimethamine (SP) in 2001
+and from SP to the artemisinin-combination therapy
+(ACT) artemether-lumefantrine (ALu) in 2007. In
+2002 the facility-based Integrated Management of
+Childhood Illness (IMCI) interventions for improved
+case management in health facilities and health
+system strengthening8,9 were introduced. Finally between 2004 and 2008 the ACCESS programme was implemented to improve access to prompt and effective
+malaria treatment by targeting both users and providers.10 Within the frame of the ACCESS programme, social marketing campaigns for improved
+treatment-seeking were conducted, nearly 200
+Accredited Drug Dispensing Outlets (ADDOs) were
+opened11,12 and the staff from health facilities attended a refresher training on IMCI case
+management.10,13
+A number of studies have been conducted on these
+malaria control interventions. Some studies used child
+mortality as an endpoint,6,8 some have focused on
+indicators of malaria transmission14–17 and others
+have assessed changes in treatment outcomes.18
+
+205
+
+However, no study to date has assessed the impact
+of all of these interventions on child mortality in
+the Kilombero and Ulanga Districts using a standardized methodology. In addition, other factors such as
+climatic conditions and agricultural production have
+not been considered as part of measuring impact on
+mortality. The availability of demographic time series
+and contextual data from the local Health and Demographic and Surveillance Site (HDSS)19 provides a
+unique opportunity to perform an interrupted time
+series analysis to assess the contribution of malaria
+interventions to decreases in child mortality.
+
+Methods
+Study setting
+This study was conducted using data collected in
+the frame of the Ifakara HDSS in the Kilombero
+and Ulanga Districts in south central Tanzania
+(Figure 1). The HDSS was established in 1996 and
+covers 25 villages (13 in Kilombero and 12 in
+Ulanga).20 The population under surveillance in
+1998 was just over 56 000 in 1997 and around
+98 000 in 2009. The area is characterized by a rainy
+season from November to May. Historically, malaria
+transmission was intense and perennial21 but it has
+decreased considerably in recent years.22
+Data collection and processing
+Mortality rates
+The HDSS provided all data on all-cause mortality by
+month from January 1997 to December 2009. We calculated estimates of child mortality rates as the
+number of deaths occurring between 1 and 5 years
+of age per 1000 person-years of exposure (c/1000py).
+Malaria control interventions
+The HDSS routinely collected data on ITN ownership
+(percentage of households owning at least one mosquito net) for the 13 years’ observation period. From
+2002, the majority of the nets were treated with insecticide. ITN household ownership increased steadily
+from 37% in 1997 to above 90% in 2005 and remained
+high thereafter. Dates for the two changes in first-line
+treatment policy for malaria were extracted from
+existing publications: August 2001 for the change
+from chloroquine to SP23 and January 2007 for the
+change from SP to ALu.24 The start date of the IMCI
+interventions was set in April 2002 (D. Maganga and
+M. Mawalla, Malaria and IMCI Focal Persons in 2002
+in Kilombero and Ulanga Districts, respectively). The
+start date of the ACCESS interventions was set in
+November 2004, which coincides with the start of
+the ACCESS social marketing campaigns and health
+facility refresher trainings, whereas the ADDOs were
+piloted (and subsequently rolled out) in 2006.11,12
+Figure 2 shows the coverage of these malaria control
+interventions over time.
+
+206
+
+INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+
+Figure 1 Location of the Ifakara Health and Demographic Surveillance System (HDSS) (source: INDEPTH Monograph19)
+
+(a) First-line treament policy for malaria
+Chloroquine
+
+SP
+
+ALu
+
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+(b) Malaria control projects/programmes
+IMCI
+ACCESS social markeng campaigns
+ACCESS HF refresher training
+ADDO
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+% households owning at least 1 ITN
+
+(c) Inseccide-treated net (ITN) ownership
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Figure 2 Major malaria control interventions in the Kilombero and Ulanga districts between 1997 and 2009
+
+CHILD MORTALITY PATTERNS IN RURAL TANZANIA
+
+Rainfall and household food security data
+The Kilombero Agricultural Training and Research
+Institute (KATRIN) provided monthly total rainfall
+data (mm) collected from gauges located just outside
+Ifakara town. We obtained yearly agricultural yield
+data (t/ha) of rice and maize from the Kilombero
+District Agricultural and Livestock Development
+Office (DALDO). Because of the proximity and environmental similarity of the districts, we extrapolated
+the values of the Kilombero District to the Ulanga
+District.
+We constructed a proxy for monthly household food
+security (kg/household) on the basis of agricultural
+yield data and information describing the local farmers’ agricultural practices. Over 95% of the HDSS
+population reported farming as their main activity.20
+Rice is the main staple food and the most important
+cash crop, but maize and other crops are also grown
+for household consumption.20 First we estimated
+average household agricultural production per year,
+as the sum of the products of a year’s crop yield
+times the average area dedicated to each crop per
+household, which is 1.5 hectare (ha) for rice and
+0.24 ha for maize25 (data on other crops were not
+available for these calculations). We then calculated
+a proxy for household food security based on the fact
+that rice availability peaks in June and maize in
+March, when they are harvested.25,26 Although rice
+harvest is completed in June, we assumed that 1/10
+of the rice harvest was available in May when harvesting starts. Given that, on average, farmers sell half
+of their rice crops,25,27 we applied a composite decay
+function for rice from June onwards. The half kept for
+personal consumption was assumed to decrease linearly every month (1/12 of half of the initial amount
+per month). The half sold was assumed to decrease at
+an exponential rate (1/2 of the amount in the previous month every month), to account for the fact that
+larger quantities are sold in the months immediately
+following harvest and most of the rice is sold by the
+beginning of the rainy season.26 We assumed that
+maize availability decreased linearly over time from
+March onwards (1/12 of the initial amount per
+month), given that it is primarily farmed for household consumption.26
+
+Statistical analysis
+First we graphed and described the time series of
+mortality, rainfall and agricultural yield to identify
+trends over time, interannual differences and correlations. Time series analyses were subsequently conducted on the monthly rates in two stages as
+described below. Intercooled Stata 12 (Stata Corp.,
+College Station, TX, USA) was used for all data management and analyses.
+Stage 1: Effect of rainfall and food security
+In the first stage of analysis we built a multivariate
+time series model of child mortality rates accounting
+
+207
+
+for the effects of rainfall and food security. We
+assumed that child deaths in month i arose from a
+Poisson distribution, and thus fitted the following
+multivariate model:
+logði Þ ¼ logðYi Þ þ
+
+þ
+
+1 x1i
+
+þ ... þ
+
+n xni
+
+þ ei
+ðModel 1Þ
+
+where i ¼ 1 to 156 and denotes the number of months
+from January 1997 to December 2009; mi is the expected value of the mortality rate at month i; Yi are
+the person-years exposed at month i; log(Yi) is an
+offset term that ensures that the log rate is being
+modelled on the log scale; a is the estimated baseline
+mortality rate at month i; the parameters 1 to n
+are the estimated regression coefficients for the independent covariates x1 to xn and ei denotes the error
+term, independently and normally distributed. As
+there was evidence of overdispersion in the data, we
+set the scale parameter to the Pearson 2 statistic
+divided by the residual degrees of freedom.
+Plots of rates over time revealed both a time trend
+and seasonal patterns. We accounted for the time
+trend by including a continuous variable denoting
+time at a certain month i, denoted as ti, as one of
+the covariates. To model seasonality, we included
+the following transformations of time: sin(2pt/T)
+and cos(2pt/T) with values T ¼ 3, 6 and 12.28 To
+model the effect of rainfall and food security, we
+first plotted mortality rates against the following
+transformations of rainfall and food security: raw
+values, values lagged by 1 month, values lagged by
+2 months, moving averages of the current and previous month and moving average of the current and 2
+previous months. The effect of rainfall was estimated
+for every 500 mm in mean total monthly rainfall and
+the effect of food security for every 500 kg increase in
+household food security. Since plots showed approximately linear relationships with the log-transformed
+mortality rate (albeit with potential curvatures) we
+explored the effect of each variable in univariate regression models. Non-linear relationships were
+explored for each variable by introducing quadratic
+and cubic terms (variable exponentiated to the
+second and third power, respectively) in the regression. Interactions between rainfall and food security
+were tested, whereby the effect of rainfall was
+allowed to differ between months of higher food security (June–November) and months of lower food
+security (December–May).
+Variables shown to have an effect on the mortality
+rates in the univariate analysis (Wald test probability
+values <0.05) were chosen as candidates for the
+multivariate model. If multiple transformations of
+the same variable were found to be associated with
+mortality rates, the variable with the strongest linear
+association (as estimated by the parameter) in the
+univariate model was entered in the multivariate
+model, along with any significant quadratic or cubic
+effect. Collinearity was checked by calculating the
+
+208
+
+INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+
+correlation coefficient between the candidate variables
+to decide which variables to include in the multivariate model. In addition, the best fit pair of sine and
+cosine functions for seasonality were entered in the
+multivariate model (Wald test probability values of
+either function <0.05). The multivariate model was
+built by backward elimination of variables (Wald
+test probability values <0.2).
+We performed various diagnostic tests to ensure that
+the model provided an adequate fit to the data. Serial
+autocorrelation of the residuals was checked by examining the autocorrelation function (ACF) plot and the
+partial autocorrelation (PACF) plot. In addition, a
+histogram of the residuals and scatterplots over time
+were examined. The goodness of fit of the models was
+tested using the Pearson’s 2 test statistic.
+Stage 2: Effect of malaria control interventions
+In the second stage of analysis, we built upon the
+multivariate time series model above to estimate
+the effect of the various malaria control interventions.
+The effect of mosquito net ownership was estimated
+by including the annual variable denoting mosquito
+net ownership in the multivariate Model 1. The variable denoting time in months (t) was not included in
+the model. The effects of the other health interventions (change in treatment policy, IMCI intervention
+and ACCESS interventions) were estimated by means
+of a segmented regression analysis, a statistical
+method developed to estimate intervention effects in
+interrupted time series.29 In segmented regression
+analysis each segment of a series before and after
+the start of an intervention is allowed to exhibit
+both a level and a trend. The level is the value of
+the series at the beginning of a given time interval.
+The trend is the rate of change of a measure (i.e. the
+slope) during a segment. The model to estimate the
+effect of a single intervention is defined as the following extension to Model 1:
+logði Þ ¼ logðYi Þ þ þ 1 x1i þ . . . þ
+þ 1 ti þ 2 ci þ 3 t0i þ ei
+
+n xni
+
+ðModel 2Þ
+
+where ti is now explicitly stated in the model as
+denoting time in months from January 1997, c is an
+indicator variable in a given month i occurring before
+(c ¼ 0) or after (c ¼ 1) the malaria control intervention and t’i denotes time after the intervention, a continuous variable counting the number of months after
+the intervention in a given month i. In this model, 1
+estimates the change in the mean mortality rate per
+month before the implementation of a given intervention, 2 estimates the level of change in the mean
+monthly rates after the intervention and 3 estimates
+the change in trend in the mean mortality rate after
+the intervention. The effect of each intervention was
+estimated in separate models. In addition, a model
+taking all interventions into account simultaneously
+was also fitted. The goodness of fit of the models
+was re-tested using the Pearson’s 2 test statistic.
+
+Results
+Between 1997 and 2009, child mortality rates
+decreased by 42.5% from 14.6 c/1000py to 8.4 c/
+1000py (Table 1 and Figure 3). Two peaks in mortality
+(in 2000 and 2003) coincided with below average
+rainfall and low agricultural yield (Figure 4).
+Average child mortality rates exhibited strong intraannual variation between 1997 and 2009. Child mortality rates were lower between June and September,
+which corresponds to the months with lower rainfall
+and higher food security (Table 2).
+Over the 13 years’ study period, the mean annual
+rice yield was 1.86 t/ha (SD ¼ 0.400) and the mean
+annual maize yield was 2.32 t/ha (SD ¼ 0.446),
+which corresponds to an estimated annual household
+agricultural production of 2.79 t of rice (SD ¼ 0.600)
+and 0.56 t of maize (SD ¼ 0.107). Agricultural production varied across the years but there was no secular
+trend (Figure 3). According to our proxy measure,
+household food security was at its maximum in
+June after the harvest and decreased constantly
+thereafter, reaching its minimum in January and
+February (Table 2). The rainy season was shown to
+last from November to May with peaks in March
+and April, but there was strong year on year variability in monthly rainfall (Table 2). Annual agricultural
+production and rainfall were highly positively correlated (r ¼ 0.718, P < 0.0001), with years of high
+production coinciding with years of high rainfall
+(Figure 4). However, the correlation between monthly
+values was lower, and negative, given that crops are
+usually harvested in the dry season (r ¼ 0.528,
+P < 0.0001).
+
+Effect of rainfall and food security
+Univariate analyses showed evidence of a decrease in
+mortality rates over time, and a seasonal pattern over
+12 months (Table 3). Rainfall in the same month and
+the moving average of rainfall in the current and previous month were shown to be strong risk factors and
+there was a slight but not significant evidence of a
+quadratic relationship (data not shown). There was
+no significant association with rainfall lagged by 1
+or 2 months, but the corresponding moving averages
+did emerge as risk factors. Food security at all lags
+and all its moving average transformations had a protective effect. The variables considered as candidates
+for the multivariate model were: time in months since
+January 1997 (t), sin(2pt/12), cos(2pt/12), rainfall
+and food security. Rainfall in the same month was
+chosen over the moving average of the current and
+previous month, with which it is highly correlated, as
+it showed a stronger effect in the univariate analysis.
+Food security in the same month was chosen over the
+other food security variables to minimize collinearity
+as it was less correlated with rainfall (r ¼ 0.528,
+
+CHILD MORTALITY PATTERNS IN RURAL TANZANIA
+
+P < 0.0001). There was no evidence of an interaction
+between rainfall and food security.
+The final multivariate model estimated a 0.4%
+decrease in child mortality rates per month, equivalent to a 5% decrease per year (Table 3). Although the
+cosine function best captured seasonality in the univariate model, the sine function remained the only
+predictor of seasonality in the multivariate model,
+albeit only borderline significant. Rainfall in the
+same month emerged as a statistically significant
+
+Table 1 Child mortality rates by year between 1997 and
+2009
+Year
+1997
+
+Cases (c)
+103
+
+Person-years (py)
+7075.8
+
+Rate
+(c/1000py)
+14.6
+
+1998
+
+80
+
+6848.0
+
+11.7
+
+1999
+
+100
+
+6958.2
+
+14.4
+
+2000
+
+122
+
+7901.5
+
+15.4
+
+2001
+
+106
+
+8699.3
+
+12.2
+
+2002
+
+162
+
+9607.2
+
+16.9
+
+2003
+
+163
+
+9695.4
+
+16.8
+
+2004
+
+123
+
+9889.5
+
+12.4
+
+2005
+
+113
+
+10 076.1
+
+11.2
+
+2006
+
+102
+
+10 806.0
+
+9.4
+
+2007
+
+120
+
+11 681.8
+
+10.3
+
+2008
+
+115
+
+12 889.2
+
+8.9
+
+2009
+
+112
+
+13 355.7
+
+8.4
+
+independent risk factor for child mortality, increasing
+rates by 36.4% for every 500-mm increase in rain.
+Food security, on the other hand, had a significant
+independent protective effect, with an estimated
+11.5% decrease in child mortality rates for every
+500 kg increase in household food security.
+The residuals were approximately normally distributed and there was no evidence of autocorrelation. The
+Pearson’s goodness of fit test was statistically significant (2 ¼ 189, P ¼ 0.019) suggesting that that there is
+still unexplained variance in mortality not accounted
+for by the factors in the model.
+Effect of malaria control interventions
+In the segmented regression analyses, all malaria control interventions were associated with decreases in
+child mortality (Table 4). There was an estimated
+5% decrease in mortality per year for every 10%
+increase in mosquito net ownership. In the three
+regression models fitted for the introduction of SP
+(August 2001), the introduction of IMCI (April
+2002) and the start of the ACCESS programme
+(November 2004), there was no evidence of a trend
+prior to the implementation of each intervention, but
+there was evidence of a significant change in trend
+after each intervention was implemented. The introduction of SP as a first-line treatment for malaria was
+associated with 0.8% significant change in trend per
+month, the introduction of IMCI was associated with
+a 0.9% significant change in trend and the start of the
+ACCESS interventions was associated with a 0.6% significant change in trend per month. In addition, the
+start of the ACCESS interventions was also associated
+with a 23.4% decrease in level of mortality rates.
+
+Rate (c/1000py)
+
+30
+
+20
+
+10
+
+0
+
+3
+4
+9
+0
+9
+0
+2
+6
+7
+7
+8
+8
+1
+5
+199 199 199 200 200 200 200 200 200 200 200 200 200 201
+Jan Jan Jan Jan Jan Jan Jan Jan Jan Jan Jan Jan Jan Jan
+Yearly mortality rate
+
+209
+
+Monthly mortality rate
+
+Figure 3 Child mortality rates in the Kilombero and Ulanga HDSS areas between 1997 and 2009
+
+INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+
+Average household agricultural production (t)
+
+4.5
+
+3000
+
+4
+2500
+3.5
+3
+
+2000
+
+2.5
+1500
+2
+1.5
+
+1000
+
+Total annual rainfall (mm)
+
+210
+
+1
+500
+.5
+0
+
+0
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Agricultural production
+
+Rainfall
+
+Figure 4 Annual rainfall and agricultural production in the Kilombero district between 1997 and 2009
+
+Table 2 Child mortality, rainfall and estimated food security by month between 1997 and 2009
+Month
+Jan
+
+Child mortality
+rate (c/1000py)
+11.0 (38/3.463)
+
+Total rainfall (mm)
+median (IQR)
+215.1 (110.0)
+
+Household food security
+(kg) median (IQR)
+525 (40)
+
+Feb
+
+12.0 (40/ 3.089)
+
+203.0 (136.1)
+
+360 (30)
+
+Mar
+
+13.9 (47/3.379)
+
+307.2 (228.5)
+
+730 (75)
+
+Apr
+
+12.3 (40/3.255)
+
+380.4 (289.0)
+
+570 (65)
+
+May
+
+10.7 (36/3.375)
+
+83.9 (88.5)
+
+980 (70)
+
+Jun
+
+8.9 (29/3.245)
+
+14.1 (22.3)
+
+1810 (130)
+
+Jul
+
+9.5 (31/3.263)
+
+1.1 (6.0)
+
+1860 (130)
+
+Aug
+
+9.4 (31/3.282)
+
+1.1 (24.8)
+
+1520 (110)
+
+Sep
+
+7.9 (25/3.148)
+
+0.2 (5.5)
+
+1260 (90)
+
+Oct
+
+12.4 (40/3.216)
+
+1.2 (14)
+
+1060 (80)
+
+Nov
+
+7.7 (24/3.098)
+
+27.6 (80)
+
+870 (60)
+
+Dec
+
+11.1 (36/3.229)
+
+In the model fitted to estimate the effect of ALu introduction (January 2007), there was evidence of a preintervention decreasing trend. The introduction of
+ALu was associated with both a change in level and
+a change in trend, but these were not statistically
+significant. In the model estimating the effect of all
+interventions simultaneously, none of the interventions were significant (results not shown).
+The Pearson’s goodness of fit test for the model
+estimating the effect of mosquito nets was highly statistically significant (2 ¼ 213, P < 0.001), but it was
+not significant for the models estimating the effect of
+
+159.1 (206.8)
+
+690 (40)
+
+the other interventions (SP: 2 ¼ 163, P ¼ 0.199; IMCI:
+2 ¼ 161, P ¼ 0.232; ACCESS: 2 ¼ 163, P ¼ 0.204; ALu:
+2 ¼ 176, P ¼ 0.066). There was only a negligible difference in the estimated effect of rainfall and food
+security when fitting Model 1 compared with Model
+2 (data not shown).
+
+Discussion
+Between 1997 and 2009, child mortality decreased by
+42.5% in the Kilombero and Ulanga HDSS. Our time
+
+CHILD MORTALITY PATTERNS IN RURAL TANZANIA
+
+211
+
+Table 3 Estimated effect of rainfall and food security on child mortality rates (Model 1)
+Multivariate model
+(n ¼ 156)
+
+Univariate model
+n
+156
+
+IRR (95% CI)
+0.996 (0.994 to 0.997)
+
+Sin(2pt/12)
+
+156
+
+Cos(2pt/12)
+
+156
+
+Rainfall
+Rainfall Lag 1
+
+Time in months since
+January 1997 (t)
+
+P-value
+<0.001
+
+IRR (95% CI)
+0.996 (0.995 to 0.998)
+
+P-value
+<0.001
+
+1.021 (0.927 to 1.125)
+
+0.670
+
+0.916 (0.835 to 1.001)
+
+0.066
+
+1.269 (1.158 to 1.390)
+
+<0.001
+
+156
+
+1.470 (1.122 to 1.774)
+
+<0.001
+
+1.364 (1.087 to 1.712)
+
+0.007
+
+155
+
+1.093 (0.887 to 1.348)
+
+0.404
+
+0.885 (0.830 to 0.944)
+
+<0.001
+
+Rainfall Lag 2
+
+154
+
+0.921 (0.740 to 1.146)
+
+0.460
+
+Rainfall MA(2)
+
+156
+
+1.363 (1.089 to 1.708)
+
+0.007
+
+Rainfall MA(3)
+
+156
+
+1.244 (0.962 to 1.612)
+
+0.098
+
+Food security
+
+156
+
+0.826 (0.779 to 0.875)
+
+<0.001
+
+Food security Lag 1
+
+155
+
+0.853 (0.804 to 0.904)
+
+<0.001
+
+Food security Lag 2
+
+154
+
+0.891 (0.839 to 0.945)
+
+<0.001
+
+Food security MA(2)
+
+156
+
+0.812 (0.763 to 0.865)
+
+<0.001
+
+Food security MA(3)
+
+156
+
+0.805 (0.753 to 0.861)
+
+<0.001
+
+IRR, incidence rate ratio.
+The effect of rain was estimated for every 500-mm increase in mean total monthly rainfall, and the effect of food security for every
+500-kg increase in household food security.
+Lag(x) refers to the value of the variable lagged by x months; MA(2) refers to the moving average of the variable in the given
+month and the month before; MA(3) refers to the moving average of the variable in the given month and the previous 2 months.
+
+Table 4 Estimated effect of individual malaria control interventions on child mortality rates (Model 2) [n ¼ 156]
+IRR (95% CI)
+
+P-value
+
+0.950 (0.917 to 0.984)
+
+0.004
+
+Trend before the intervention
+
+1.001 (0.995 to 1.007)
+
+0.766
+
+Change in level
+
+1.169 (0.942 to 1.449)
+
+0.156
+
+Change in trend
+
+0.992 (0.986 to 0.998)
+
+0.009
+
+Trend before the intervention
+
+1.001 (0.996 to 1.005)
+
+0.764
+
+Change in level
+
+1.179 (0.960 to 1.449)
+
+0.116
+
+Change in trend
+
+0.991 (0.986 to 0.996)
+
+0.001
+
+Trend before the intervention
+
+1.000 (0.998 to 1.003)
+
+0.502
+
+Change in level
+
+0.766 (0.619 to 0.948)
+
+0.014
+
+Change in trend
+
+0.994 (0.988 to 0.999)
+
+0.031
+
+Trend before the intervention
+
+0.997 (0.996 to 0.999)
+
+0.010
+
+Change in level
+
+0.876 (0.672 to 1.141)
+
+0.326
+
+Change in trend
+
+0.998 (0.986 to 1.010)
+
+0.692
+
+ITN ownership
+Effect of every 10% increase per year
+Introduction of SP (August 2001)
+
+Introduction of IMCI (April 2002)
+
+Start of ACCESS programme (November 2004)
+
+Introduction of ALu (January 2007)
+
+IRR, incidence rate ratio.
+The effects of the interventions are estimated in separate models. The effect of each intervention is adjusted for Sin(2pt/12), rainfall
+and food security.
+
+212
+
+INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+
+series modelling suggests that rainfall is a strong risk
+factor of child mortality whereas household food
+security has a strong protective effect. The increase
+in mosquito net coverage was significantly associated
+with decreases in mortality. The segmented regression
+analyses suggest that the other malaria control interventions implemented in the study area were also
+associated with statistically significant decreases in
+child mortality. The switch to SP, the introduction
+of IMCI and the start of the ACCESS interventions
+had effects on the trend above and beyond decreasing
+pre-intervention secular trends. In addition, the
+ACCESS interventions were associated with a
+decrease in the level of the mortality rates. Although
+we did observe a change in both trend and level after
+the introduction of ALu, neither were statistically significant (at a 5% level).
+Although the endpoint of these analyses was allcause child mortality, a concurrent decrease in
+malaria morbidity and transmission indicators in the
+same area provide an independent argument that the
+decrease in child mortality is at least in part driven by
+a decrease in the malaria burden. The incidence of
+fever in all ages in the area decreased from 47 cases
+per 1000 weeks (c/1000pw) in 2005 to 34 c/1000pw in
+2008 and the incidence of convulsions in young children decreased from 4263 to 2320 cases for every
+100 000 children per year.30 An older study reported
+an entomological inoculation rate (EIR) of 349 infective bites per person per year (ib/p/y) between 2001
+and 2003,21 but by 2008 it had declined to 81 ib/p/y.22
+Similarly, data from two other projects documented a
+decrease in parasitaemia in children under the age of
+5 years from 25% in 200431,32 to 10% in 2008.33
+However, it is important to acknowledge that this
+decrease had started already in the mid 90ss when
+an EIR of up to 1400 ib/p/y was recorded34 and parasitaemia in infants and children under the age of 2
+years was over 60%.35,36
+Any attribution of the observed mortality decreases
+to specific interventions should be interpreted with
+caution, given the observational nature of our study,
+the multiple potential drivers of child mortality and
+the lack of yearly data documenting the coverage of
+malaria control interventions. Observational study
+designs are often the only feasible way to assess the
+impact of health interventions at population level, but
+they do not provide a strong argument for causality.
+The main concern is that there may be other secular
+factors explaining the observed decrease in mortality
+which were neither identified nor measured and
+hence that could not be factored into the analyses.
+For example, between 1999 and 2004 there were
+important improvements in Tanzania’s health
+system, including: doubled public expenditure on
+health; decentralization and sector-wide basket funding; and increased vitamin A supplementation, immunization and exclusive breastfeeding.37 Unfortunately
+
+annual serial data on these changes were not available from HDSS household surveys nor from other
+surveys such as the Tanzanian Household Budget
+Survey,38 the Demographic and Health Survey39 and
+the Malaria Indicator Surveys.40 Similarly, verbal
+autopsy data collected by the HDSS on malariarelated mortality were not available for all the years
+between 1997 and 2009.
+Furthermore, although the application of segmented
+regression analysis of interrupted times series is a
+validated approach to evaluate the effect of health
+interventions,29,41 it is not without limitations. In
+this study we were unable to estimate the effect of
+all interventions simultaneously, which would ensure
+that effect of each intervention would be corrected for
+the effect of the previous interventions. Indeed, the
+model fitted with all the variables necessary for
+that (all ci, and t’i variables) gave inconclusive results
+since none of the interventions had a significant
+effect any more. A possible reason may be the high
+collinearity between the various time variables and
+the resulting model instability. Despite this limitation,
+it is important to bear in mind that the effect of
+each intervention, as reported here, assesses the
+change in trend adjusted for prior trend, and thus
+to a certain extent does take prior interventions (or
+better, their effect on the time trend) into account.
+However, a more general limitation about time
+series analyses for biological data is that methodologies to deal with the presence of potential unmeasured time-varying confounders, to model harvesting
+and delayed non-linear effects, are still in development and typically require a larger time series of
+observations than was available for this study. The
+fact that the Pearson’s goodness of fit test of some
+of our models was significant confirms that the
+models we fitted did not capture all the variability
+in the data.
+The results of our analyses should therefore be interpreted as part as the existing body of evidence on
+malaria control.42 The 5% decrease in mortality
+observed for every 10% increase in mosquito net ownership is in line with Cochrane review on ITNs which
+documented a nearly 20% reduction in child mortality
+at high ITN use.43 The impact of the change of treatment policy from chloroquine to SP is credible given
+the much higher treatment efficacy of SP upon its
+introduction14 and the high resistance to chloroquine
+before it was replaced.16 Likewise the efficacy of the
+IMCI interventions has been extensively documented.8,9 As far as ACCESS is concerned, two studies
+suggest that the combination of social marketing
+campaigns and the roll-out of ADDOs resulted in
+improved availability and accessibility of malaria
+treatment24 as well as very high treatment outcomes.18 Although the lack of impact of the introduction of ALu is surprising given the much higher
+treatment efficacies of ALu upon its introduction15
+
+CHILD MORTALITY PATTERNS IN RURAL TANZANIA
+
+and the high resistance to and SP before it was
+replaced,17 it may be explained by the low access to
+ALu in the years following the change in treatment
+policy.18 An alternative explanation is that analyses
+based on only 2 years post-intervention may not
+have sufficient power to show an effect.
+Our time series analyses confirmed that child mortality patterns are complex and multifactorial. Rainfall
+(in the same month) and household food security
+(in the same month) were both found to be independent predictors of child mortality. Various studies
+have linked intra-annual differences in malaria to
+rainfall patterns.22,44–47 A 1 month lag is considered
+the absolute minimum for a biologically plausible link
+between creating suitable breeding conditions for
+mosquito development and the onset of disease symptoms in humans.45,47 However, we could not observe
+an independent effect of rainfall lagged by 1 or 2
+months (or moving averages including these values)
+on child mortality despite the fact that, according to
+verbal autopsies conducted in the HDSS, confirmed
+malaria is the leading cause of under-five mortality.48,49 This unexpected finding may be the result
+of some un-measured confounder but it is also possible that rainfall alone does not adequately capture
+variations in malaria transmission in our study
+setting.
+The fact that child deaths are more likely to occur in
+months of high rainfall and low food security rather
+than in months of high malaria risk, despite malaria
+being a leading cause of mortality, can be argued in
+different ways. On one hand, low food security
+and high rainfall are risk factors for what are considered to be the two most important causes of mortality
+in the study area after malaria, namely acute respiratory infections and anaemia.50–53 On the other hand,
+it cannot be excluded that malaria deaths also occur
+in months of high rainfall and low food security.
+Children who are malnourished are more susceptible
+to malaria morbidity and mortality54,55 and, in a cash
+crop society, household food security is strongly
+related to the ability to mobilize resources to afford
+treatment.56 In addition, excess rainfall is known to
+create considerable flooding which limits access to
+care and increases the risk of diarrhoea, which in
+turn makes children weaker and more prone to succumb to deadly diseases such as malaria.57,58
+
+Conclusions
+Between 1997 and 2009, childhood mortality
+decreased substantially in the Kilombero and Ulanga
+Districts. Our analyses support the existing body of
+evidence suggesting that malaria control interventions
+contribute to substantial decreases in child mortality
+and are essential to reach the fourth Millenium
+Development Goal. Given the observational nature
+of our study, it is difficult to quantify the individual
+
+213
+
+contribution of any given malaria control intervention, as well as the contribution of the other major
+determinants of child mortality (mainly environmental and nutritional, but also more generally
+socio-economic). This represents a major challenge
+when attempting to assess the effect of routine interventions as well as the cost effectiveness of public
+health programmes and other development interventions. However, this study suggests that credible estimates can be obtained when high-quality data on the
+most important factors are available over a sufficiently long time period.
+
+Funding
+All authors participated in the implementation or
+monitoring and evaluation activities of the ACCESS
+Programme, which was funded by the Novartis
+Foundation for Sustainable Development (NFSD).
+The Foundation works independently from the company’s
+business
+and
+supports
+not-for-profit
+health programmes in developing countries. A.S. is
+employed by NFSD and contributed to the study
+design, decision to publish and preparation of the
+manuscript.
+
+Acknowledgements
+This article is dedicated to the memory of our colleague
+Mathew Alexander, whose hard work and good spirits,
+as well as a strong commitment to the Ifakara HDSS,
+made it possible for us to have these data and to conduct all other ACCESS-related surveys. We thank the
+communities of the Kilombero and Ulanga districts for
+their time and patient collaboration, and for providing
+informed consent allowing us to use their data for
+research. We are also very grateful to the staff of the
+Kilombero DALDO and KATRIN for providing agricultural production and rainfall data, respectively. Special
+thanks to Tom Smith, Blaise Genton, Ente Rood, Neva
+Coello, Federica Giardina, Manuel Hetzel, Iddy
+Mayumana and Ashley Warren and the three anonymous IJE reviewers for the various inputs provided
+during data collection, analysis or manuscript preparation/revision. S.A. analysed the data, drafted and finalized the manuscript. R.N. headed the Ifakara HDSS
+and oversaw the collection and entry of all HDSSrelated data between 1996 and 2008, contributed
+to the study design and reviewed the manuscript. C.L.
+conceptualized the study design and contributed to the
+data analysis as well as to the writing of the manuscript.
+A.S. and H.M. contributed to the design of the study
+and the interpretation of findings. The final manuscript
+was approved by all authors.
+Conflict of interest: None declared.
+
+214
+
+INTERNATIONAL JOURNAL OF EPIDEMIOLOGY
+
+KEY MESSAGES
+ Between 1997 and 2009, a number of key malaria control interventions were implemented in the
+Kilombero and Ulanga Districts in south central Tanzania.
+ Child mortality decreased by 42.5% from 14.6 c/1000py in 1997 to 8.4 c/1000py in 2009.
+ All malaria control interventions were associated with decreases in child mortality, accounting for the
+effect of rainfall and food security.
+ Reaching the fourth Millenium Development Goal will require the contribution of many health
+interventions, as well as more general improvements in socio-environmental and nutritional
+conditions.
+
+References
+1
+2
+3
+4
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+United Nations. The Millenium Development Goals Report
+2011. New York: UNO, 2011.
+World Health Organization. World Malaria Report 2011.
+Geneva: WHO, 2011.
+Roll Back Malaria. The African Summit on Roll Back Malaria.
+Geneva: WHO, 2000.
+Roll Back Malaria. The Global Malaria Action Plan. Geneva:
+WHO, 2008.
+Armstrong Schellenberg JRM, Abdulla S, Minja H et al.
+KINET: a social marketing programme of treated nets and
+net treatment for malaria control in Tanzania, with evaluation of child health and long-term survival. Trans R Soci
+TropMed Hyg 1999;93:225–31.
+Armstrong Schellenberg JRM, Abdulla S, Nathan R et al.
+2001) Effect of large-scale social marketing of insecticidetreated nets on child survival in rural Tanzania. Lancet
+2001;357:1241–47.
+Magesa SM, Lengeler C, deSavigny D et al. Creating an
+‘‘enabling environment’’ for taking insecticide treated
+nets to national scale: the Tanzanian experience. Malar J
+2005;4:34.
+Armstrong Schellenberg JRM, Adam T, Mshinda H et al.
+Effectiveness and cost of facility-based Integrated
+Management of Childhood Illness (IMCI) in Tanzania.
+Lancet 2004;364:1583–94.
+Tanzania IMCI Multi-Country Evaluation Health Facility
+Survey Study Group. The effect of Integrated
+Management of Childhood Illness on observed quality
+of care of under-fives in rural Tanzania. Health Pol Plan
+2004;19:1–10.
+Hetzel MW, Iteba N, Makemba A et al. Understanding
+and improving access to prompt and effective malaria
+treatment and care in rural Tanzania: the ACCESS
+Programme. Malar J 2007;6:83.
+Rutta Edmund, Senauer Katie, Johnson Keith et al.
+Creating a New Class of Pharmaceutical Services
+Provider for Underserved Areas: The Tanzania
+Accredited Drug Dispensing Outlet Experience. Progress
+in Community Health Partnerships. Res Edu Action 2009;
+3:145–53.
+Rutta E, Kibassa B, McKinnon B et al. Increasing Access
+to Subsidized Artemisinin-based Combination Therapy
+through Accredited Drug Dispensing Outlets in
+Tanzania. Health Res Policy Syst 2011;9:22.
+Alba S. An evaluation of integrated interventions to improve access to malaria treatment in Tanzania (ACCESS
+programme). PhD Thesis. Swiss Tropical Institute,
+University of Basel, Switzerland, 2010.
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+Mugittu K, Ndejembi M, Malisa A et al. Therapeutic efficacy of sulfadoxine-pyrimethamine and prevalence of resistance markers in Tanzania prior to revision of malaria
+treatment policy: Plasmodium falciparum dihydrofolate
+reductase and dihydropteroate synthase mutations in
+monitoring in vivo resistance. Am J Trop Med Hyg 2004;
+71:696–702.
+Kabanywanyi AM, Mwita A, Sumari D et al. Efficacy and
+safety of artemisinin-based antimalarial in the treatment
+of uncomplicated malaria in children in southern
+Tanzania. Malar J 2007;6:146.
+Hatz C, Abdulla S, Mull R et al. Efficacy and safety of
+CGP 56697 (artemether and benflumetol) compared with
+chloroquine to treat acute falciparum malaria in
+Tanzanian children aged 1-5 years. Trop Med Int Health
+1998;3:498–504.
+Mugittu K, Abdulla S, Falk N et al. Efficacy of sulfadoxinepyrimethamine in Tanzania after two years as first-line drug
+for uncomplicated malaria: assessment protocol and implication for treatment policy strategies. Malar J 2005;4:55.
+Alba S, Dillip A, Hetzel M et al. Improvements in access to
+malaria treatment in Tanzania following community,
+retail sector and health facility interventions – a user perspective. Malar 2010;9:163.
+Network I. Population and Health in Developing Countries. Vol 1.
+Population, Health, and Survival at INDEPTH Sites. Ottawa:
+International Development Research Centre, 2002.
+Armstrong Schellenberg J, Mukasa O et al. Ifakara DSS,
+Tanzania. In: Population and Health in Developing Countries.
+Vol 1: Population, Health, and Survival in INDEPTH Sites.
+Ottawa: International Development Research Centre, 2002.
+Killeen GF, Tami A, Kihonda J et al. Cost-sharing strategies combining targeted public subsidies with privatesector delivery achieve high bednet coverage and reduced
+malaria transmission in Kilombero Valley, southern
+Tanzania. BMC Infect Dis 2007;7:121.
+Russell T, Lwetoijera D, Maliti D et al. Impact of promoting longer-lasting insecticide treatment of bed nets upon
+malaria transmission in a rural Tanzanian setting with
+pre-existing high coverage of untreated nets. Malar J
+2010;9:187.
+Mulligan J-A, Mandike R, Palmer N et al. The costs of
+changing national policy: lessons from malaria treatment
+policy guidelines in Tanzania. Trop Med Int Health 2006;11:
+452–61.
+Alba S, Hetzel M, Goodman C et al. Improvements in
+access to malaria treatment in Tanzania after switch to
+artemisinin combination therapy and the introduction of
+accredited drug dispensing outlets - a provider perspective. Malar J 2010;9:164.
+
+CHILD MORTALITY PATTERNS IN RURAL TANZANIA
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+39
+
+40
+
+41
+
+Mbapila JC. Crop Protection Programme – Development and
+Promotion of Wild Rice Management Strategy for the Lowlands
+of Southern Tanzania. Ifakara, Tanzania: Ministry of
+Agriculture and Food Security, Kilombero Agricultural
+Training and Research Institute (KATRIN), 2005.
+Kato F. Development of a major rice cultivation area in
+the Kilombero Valley, Tanzania. Afr Stud Monog Suppl
+2007;36:3–18.
+Ashimogo GC, Isinika AC, Mlangwa JED. Africa in
+Transition – Micro Study Tanzania Research Report. Lund,
+Sweden: Lund University, 2003.
+Stolwijk AM, Straatman H, Zielhuis GA. Studying seasonality by using sine and cosine functions in regression
+analysis. J Epidemiol Community Health 1999;53:235–38.
+Wagner AK, Soumerai SB, Zhang F, Ross-Degnan D.
+Segmented regression analysis of interrupted time series
+studies in medication use research. J Clin Pharm Ther
+2002;27:299–309.
+Alba S, Hetzel MW, Nathan R, Alexander M, Lengeler C.
+Assessing the impact of malaria interventions on morbidity through a community-based surveillance system. Int J
+Epidemiol 2011;40:405–16.
+Khatib R. Malaria control dynamics in rural Tanzania:
+evaluation of implementation of artemisinin based antimalarial combination therapy. PhD Thesis. Swiss Tropical
+Institute, University of Basel, Switzerland, 2009.
+Khatib RA, Skarbinski J, Njau JD et al. Routine delivery of
+artemisinin-based combination treatment at fixed health
+facilities reduces malaria prevalence in Tanzania: an observational study. Malar J 2012;11:140.
+Mulokozi A. Pharmaco-epidemiology of artemisinin-based
+combination therapy in the context of impact evaluation
+of artemether-lumefantrine on malaria morbidity and
+mortality during programmatic implementation in rural
+Tanzania. PhD Thesis. Swiss Tropical Institute,
+University of Basel, Switzerland, 2010.
+Smith T, Charlwood JD, Kihonda J et al. Absence of seasonal variation in malaria parasitaemia in an area of intense seasonal transmission. Acta Trop 1993;54:55–72.
+Kitua AY, Smith T, Alonso PL et al. Plasmodium falciparum
+malaria in the first year of life in an area of intense and
+perennial transmission. Trop Med Int Health 1996;1:475–84.
+Abdulla S, Schellenberg JA, Nathan R et al. Impact on
+malaria morbidity of a programme supplying insecticide
+treated nets in children aged under 2 years in Tanzania:
+community cross sectional study. BMJ 2001;322:270–73.
+Masanja H, De Savigny D, Smithson P et al. Child survival
+gains in Tanzania: analysis of data from demographic and
+health surveys. Lancet 2008;371:1276–83.
+National Bureau of Statistics. 2000/01 Tanzanian Household
+Budget Survey. Dar es Salaam, Tanzania: NBS, 2002.
+National Bureau of Statistics, Dar es Salaam, Tanzania
+and ORC Macro, Calverton, MDd. Tanzania Demographic
+and Health Survey 2004-2005. Dar es Salaam, Tanzania:
+NBS, 2005.
+Tanzania Commission for AIDS, National Bureau of
+Statistics, Tanzania and ORC Macro. (2005). Tanzania
+HIV/AIDS Indicator Survey 2003-04. Calverton, MD: ORC
+Macro, 2005.
+Ramsay CR, Matowe L, Grilli R, Grimshaw JM,
+Thomas RE. Interrupted time series designs in health
+technology assessment: lessons from two systematic
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+56
+57
+
+58
+
+215
+
+reviews of behavior change strategies. Int J Technol Assess
+Health Care 2003;19:613–23.
+Habicht JP, Victora CG, Vaughan JP. Evaluation designs
+for adequacy, plausibility and probability of public health
+programme performance and impact. Int Epidemiol 1999;
+28:10–18.
+Lengeler C. Insecticide-treated bednets and curtains for
+preventing malaria. Cochrane Database of Systematic Reviews
+2000: CD000363.
+Craig MH, Kleinschmidt I, Nawn JB, Le Sueur D,
+Sharp BL. Exploring 30 years of malaria case data in
+KwaZulu-Natal, South Africa: part I. The impact of climatic factors. Trop Med Int Health 2004;9:1247–57.
+Briet O, Vounatsou P, Gunawardena D, Galappaththy G,
+Amerasinghe P. Temporal correlation between malaria
+and rainfall in Sri Lanka. Malar J 2008;7:77.
+Worrall E, Connor SJ, Thomson MC. A model to simulate
+the impact of timing, coverage and transmission intensity
+on the effectiveness of indoor residual spraying (IRS) for
+malaria control. Trop Med Int Health 2007;12:75–88.
+Teklehaimanot H, Lipsitch M, Teklehaimanot A,
+Schwartz J. Weather-based prediction of Plasmodium falciparum malaria in epidemic-prone regions of Ethiopia I.
+Patterns of lagged weather effects reflect biological mechanisms. Malar J 2004;3:41.
+Ministry of Health and Social Welfare. District Health
+Services Profile 2005 for Kilombero and Ulanga Districts,
+Morogoro Region, Tanzania. Ifakara, Tanzania: Ministry of
+Health and Social Welfare, 2005.
+Ministry of Health and Social Welfare. District Health
+Services Profile 2010 for Ulanga and Kilombero Districts,
+Morogoro Region, Tanzania. Ifakara, Tanzania: Ministry of
+Health and Social Welfare, 2010.
+Armstrong JR, Campbell H. Indoor air pollution exposure
+and lower respiratory infections in young Gambian children. Int J Epidemiol 1991;20:424–29.
+Armstrong Schellenberg JR, Nathan R, Abdulla S,
+Mukasa O, Marchant TJ et al. Risk factors for child mortality in rural Tanzania. Tropical Medicine & International
+Health. 2002;7:506–11.
+Azizi BH, Zulkifli HI, Kasim MS. Protective and risk factors for acute respiratory infections in hospitalized urban
+Malaysian children: a case control study. Southeast Asian J
+Trop Med Public Health 1995;26:280–85.
+Morris CR, Singer ST, Walters MC. Clinical hemoglobinopathies: iron, lungs and new blood. Curr Opin Hematol
+2006;13:407–18.
+Caulfield LE, De Onis M, Blössner M, Black RE.
+Undernutrition as an underlying cause of child deaths
+associated with diarrhea, pneumonia, malaria, and measles. Am J Clin Nutr 2004;80:193–98.
+Shankar AH. Nutritional modulation of malaria morbidity
+and mortality. J Infect Dis 2000;182(Suppl 1):S37–53.
+Obrist B, Mayumana I, Kessy F. Livelihood, malaria and
+resilience. Prog Dev Stud 2010;10:325–43.
+Wang L, Kanji S, Bandyopadhyay S. The Health Impact of
+Extreme Weather Events in Sub-Saharan Africa. New York:
+World Bank, 2009.
+Checkley W, Epstein LD, Gilman RH, Cabrera L,
+Black RE. Effects of Acute Diarrhea on Linear Growth
+in Peruvian Children. Am J Epidemiol 2003;157:166–75.
+

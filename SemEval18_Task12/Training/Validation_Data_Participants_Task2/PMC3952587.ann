@@ -1,0 +1,89 @@
+T1	Protein 99 103	Jean
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 272 281	Lavergne3
+#2	AnnotatorNotes T2	END
+T3	Protein 3567 3568	1
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4198 4199	.
+#4	AnnotatorNotes T4	END
+T5	Protein 7336 7346	HANTAVIRUS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 7474 7475	.
+#6	AnnotatorNotes T6	END
+T7	Protein 12163 12166	214
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 12277 12278	.
+#8	AnnotatorNotes T8	END
+T9	Protein 13311 13321	HANTAVIRUS
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 13449 13450	.
+#10	AnnotatorNotes T10	END
+T11	Protein 13956 13959	216
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14056 14057	.
+#12	AnnotatorNotes T12	END
+T13	Protein 16716 16726	HANTAVIRUS
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16854 16855	.
+#14	AnnotatorNotes T14	END
+T15	Protein 20829 20844	Acknowledgments
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 27272 27273	.
+#16	AnnotatorNotes T16	END
+T17	Location 88 98	Madagascar
+T18	Location 410 420	Madagascar
+T19	Location 573 590	Anjozorobe-Angavo
+T21	Location 2893 2898	China
+T22	Location 2903 2914	South Korea
+T23	Location 3324 3334	Madagascar
+T24	Location 3555 3565	Madagascar
+T25	Location 4344 4349;4350 4356	Mada- gascar
+T26	Location 4442 4452	Anjozorobe
+T28	Location 4407 4424	Anjozorobe-Angavo
+T29	Location 5141 5153	Antananarivo
+T30	Location 5571 5579	Carlsbad
+T31	Location 5581 5583	CA
+T32	Location 5984 5986	UK
+T33	Location 5977 5982	Essex
+T34	Location 6370 6384	Marcy l’Etoile
+T35	Location 6386 6392	France
+T36	Location 6525 6529;6530 6535	Man- nheim
+T37	Location 6537 6544	Germany
+T38	Location 6716 6721	Essex
+T39	Location 6723 6725	UK
+T40	Location 7249 7259	Madagascar
+T42	Location 7317 7334	Anjozorobe-Angavo
+T43	Location 7577 7587	Madagascar
+T44	Location 8453 8463	Madagascar
+T45	Location 15015 15025	Madagascar
+T46	Location 15531 15539	Thailand
+T47	Location 15638 15647	Indonesia
+T48	Location 15649 15658	Singapore
+T49	Location 15664 15672	Cambodia
+T50	Location 15831 15841	Madagascar
+T51	Location 16006 16016	Madagascar
+T52	Location 16030 16036;16037 16046	Arabic Peninsula
+T53	Location 15961 15977	Indian Peninsula
+T54	Location 16941 16948	Myanmar
+T55	Location 17252 17262	Madagascar
+T56	Location 18916 18926	Madagascar
+T57	Location 19141 19151	Madagascar
+T58	Location 20345 20355	Madagascar
+T59	Location 20775 20785	Madagascar
+T60	Location 1056 1060	Asia
+T61	Protein 1250 1253	Key
+#61	AnnotatorNotes T61	BEGIN
+T62	Protein 1311 1312	.
+#62	AnnotatorNotes T62	END
+T63	Location 9264 9268	Asia
+T64	Location 15882 15886	Asia
+T65	Location 16572 16578	Africa
+T66	Location 16911 16915	Asia
+T67	Location 16963 16967	Asia
+T68	Location 19025 19031	Africa
+T69	Location 19245 19251	Africa
+T70	Location 19415 19419	Asia
+T71	Location 19865 19871	Africa
+T27	Location 3041 3047	Africa
+T72	Location 13169 13175	Africa
+T73	Location 13814 13820	Africa

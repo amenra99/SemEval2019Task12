@@ -1,0 +1,56 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 155 162	article
+#2	AnnotatorNotes T2	END
+T3	Protein 272 279	Inácio
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 992 996	2014
+#4	AnnotatorNotes T4	END
+T5	Protein 2459 2464	C The
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2924 2925	6
+#6	AnnotatorNotes T6	END
+T7	Protein 7201 7214	International
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7262 7266	1961
+#8	AnnotatorNotes T8	END
+T9	Protein 11868 11872	1962
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 11932 11933	6
+#10	AnnotatorNotes T10	END
+T11	Protein 15905 15918	International
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15966 15970	1963
+#12	AnnotatorNotes T12	END
+T13	Protein 20677 20681	1964
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20741 20742	6
+#14	AnnotatorNotes T14	END
+T15	Protein 23504 23517	International
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23565 23569	1965
+#16	AnnotatorNotes T16	END
+T17	Protein 28294 28307	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 28352 28353	6
+#18	AnnotatorNotes T18	END
+T19	Protein 31233 31246	International
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 31291 31292	6
+#20	AnnotatorNotes T20	END
+T21	Protein 34337 34350	Supplementary
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 40579 40580	.
+#22	AnnotatorNotes T22	END
+T23	Location 1462 1469	Pelotas
+T24	Location 1471 1477	Brazil
+T25	Location 3372 3378	Brazil
+T26	Location 5063 5069	Brazil
+T27	Location 5054 5061	Pelotas
+T28	Location 5858 5865	Pelotas
+T29	Location 5998 6005	Pelotas
+T30	Location 5888 5894	Brazil
+T31	Location 8486 8488	UK
+T32	Location 8475 8484	Kimbolton
+T33	Location 25721 25727	Brazil
+T34	Location 25712 25719	Pelotas

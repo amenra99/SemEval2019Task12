@@ -1,0 +1,94 @@
+T1	Protein 0 8	American
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 542 554	Contribution
+#2	AnnotatorNotes T2	END
+T3	Protein 654 659	Renee
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1061 1062	.
+#4	AnnotatorNotes T4	END
+T5	Protein 4339 4343	1356
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4434 4438	1357
+#6	AnnotatorNotes T6	END
+T7	Protein 7430 7432	Am
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7464 7468	1367
+#8	AnnotatorNotes T8	END
+T9	Protein 9373 9377	1358
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9391 9392	.
+#10	AnnotatorNotes T10	END
+T11	Protein 10536 10538	Am
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 10625 10629	1359
+#12	AnnotatorNotes T12	END
+T13	Protein 14814 14818	1360
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 14832 14833	.
+#14	AnnotatorNotes T14	END
+T15	Protein 19241 19243	Am
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 19330 19334	1361
+#16	AnnotatorNotes T16	END
+T17	Protein 22634 22636	Am
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 22668 22672	1367
+#18	AnnotatorNotes T18	END
+T19	Protein 23867 23871	1362
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 23885 23886	.
+#20	AnnotatorNotes T20	END
+T21	Protein 26980 26982	Am
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 27069 27073	1363
+#22	AnnotatorNotes T22	END
+T23	Protein 29239 29241	Am
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 29273 29277	1367
+#24	AnnotatorNotes T24	END
+T25	Protein 30223 30227	1364
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 30241 30242	.
+#26	AnnotatorNotes T26	END
+T27	Protein 36062 36064	Am
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 36151 36155	1365
+#28	AnnotatorNotes T28	END
+T29	Protein 39058 39073	ACKNOWLEDGMENTS
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 52006 52007	.
+#30	AnnotatorNotes T30	END
+T31	Location 1142 1152	Bangladesh
+T32	Location 5489 5499	Bangladesh
+T33	Location 5676 5686	Bangladesh
+T34	Location 5668 5674	Matlab
+T35	Location 5882 5888	Matlab
+T36	Location 6744 6749	Dhaka
+T37	Location 6751 6761	Bangladesh
+T38	Location 6630 6636	Sweden
+T39	Location 6619 6628	Stockholm
+T40	Location 7560 7566	Matlab
+T41	Location 7647 7653	Matlab
+T42	Location 7568 7578	Bangladesh
+T43	Location 8642 8649	Germany
+T44	Location 8631 8640	Waldbronn
+T45	Location 9572 9578	Matlab
+T46	Location 9580 9590	Bangladesh
+T47	Location 10776 10786	Bangladesh
+T48	Location 10768 10774	Matlab
+T49	Location 13003 13014	Netherlands
+T50	Location 12991 12997	Arnhem
+T51	Location 13461 13466	Texas
+T52	Location 13444 13459	College Station
+T53	Protein 13704 13706	Am
+#53	AnnotatorNotes T53	BEGIN
+T54	Protein 13738 13742	1367
+#54	AnnotatorNotes T54	END
+T55	Location 15000 15006	Matlab
+T56	Location 15008 15018	Bangladesh
+T57	Location 24110 24120	Bangladesh
+T58	Location 24102 24108	Matlab
+T59	Location 27290 27296	Matlab
+T60	Location 27298 27308	Bangladesh
+T61	Location 30412 30422	Bangladesh
+T62	Location 30404 30410	Matlab

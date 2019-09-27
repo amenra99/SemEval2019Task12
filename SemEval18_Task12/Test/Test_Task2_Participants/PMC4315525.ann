@@ -1,0 +1,56 @@
+T1	Protein 165 169	Anna
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 379 382	com
+#2	AnnotatorNotes T2	END
+T3	Protein 3833 3834	A
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4081 4082	y
+#4	AnnotatorNotes T4	END
+T5	Protein 6493 6496	510
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6530 6533	123
+#6	AnnotatorNotes T6	END
+T7	Protein 13268 13271	512
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 13305 13308	123
+#8	AnnotatorNotes T8	END
+T9	Protein 8158 8165	Genetic
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 8219 8222	123
+#10	AnnotatorNotes T10	END
+T11	Protein 16165 16172	Genetic
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 16226 16229	123
+#12	AnnotatorNotes T12	END
+T13	Protein 18482 18485	514
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 18519 18522	123
+#14	AnnotatorNotes T14	END
+T15	Protein 20382 20390	Conflict
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 24915 24918	123
+#16	AnnotatorNotes T16	END
+T17	Location 113 119	Poland
+T18	Location 430 436	Poland
+T19	Location 1046 1052	Poland
+T20	Location 2041 2047	Poland
+T21	Location 2822 2828	Poland
+T22	Location 3682 3688	Poland
+T23	Location 8444 8449	Paris
+T24	Location 8451 8457	France
+T25	Location 10430 10436	Poland
+T26	Location 11868 11874	Poland
+T27	Location 12497 12503	Poland
+T28	Location 12508 12518	Malopolska
+T29	Location 12640 12650	Malopolska
+T30	Location 13679 13689	Malopolska
+T31	Location 14065 14075	Malopolska
+T32	Location 14708 14718	Malopolska
+T33	Location 19669 19675	Poland
+T34	Location 19954 19960	Poland
+T35	Location 20244 20250	Poland
+T36	Location 20287 20293	Poland
+T37	Location 18698 18704	Europe
+T38	Location 19102 19108	Europe
+T39	Location 1293 1299	Europe
+T40	Location 2006 2019	North America

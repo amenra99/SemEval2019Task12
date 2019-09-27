@@ -1,0 +1,37 @@
+T1	Protein 38 42	Mira
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 165 166	§
+#2	AnnotatorNotes T2	END
+T3	Protein 3159 3169	DISPATCHES
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3580 3583	USA
+#4	AnnotatorNotes T4	END
+T5	Protein 6646 6654	Emerging
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6723 6727	1275
+#6	AnnotatorNotes T6	END
+T7	Protein 10670 10685	Acknowledgments
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 14715 14716	.
+#8	AnnotatorNotes T8	END
+T9	Location 227 234	Arizona
+T10	Location 295 304	Flagstaff
+T11	Location 697 704	Arizona
+T12	Location 976 983	Arizona
+T13	Location 1333 1340	Arizona
+T14	Location 1080 1093	United States
+T16	Location 2882 2891	Flagstaff
+T17	Location 3653 3662	Flagstaff
+T18	Location 3664 3671	Arizona
+T19	Location 4280 4287	Arizona
+T20	Location 4896 4905	Flagstaff
+T21	Location 5055 5064	Flagstaff
+T23	Location 5330 5343	United States
+T24	Location 5399 5406	Arizona
+T27	Location 6861 6868	Arizona
+T28	Location 7194 7204	Sunderland
+T29	Location 7206 7208	MA
+T30	Location 545 558	North America
+T15	Location 7210 7213	USA
+T22	Location 6389 6397	Coconino
+T25	Location 6422 6430	Maricopa

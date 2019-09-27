@@ -1,0 +1,121 @@
+T1	Protein 0 8	Clinical
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 111 118	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 224 228	This
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 467 474	Denmark
+#4	AnnotatorNotes T4	END
+T5	Protein 2474 2482	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2548 2555	outcome
+#6	AnnotatorNotes T6	END
+T7	Protein 2571 2585	Correspondence
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 2852 2858	S12190
+#8	AnnotatorNotes T8	END
+T9	Protein 3603 3611	Clinical
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 3844 3857	Langagergaard
+#10	AnnotatorNotes T10	END
+T11	Protein 6237 6238	8
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 6284 6293	Dovepress
+#12	AnnotatorNotes T12	END
+T13	Protein 8424 8432	Clinical
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 8454 8463	Dovepress
+#14	AnnotatorNotes T14	END
+T15	Protein 10887 10895	Clinical
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 10914 10915	3
+#16	AnnotatorNotes T16	END
+T17	Protein 13588 13594	submit
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 13646 13648	10
+#18	AnnotatorNotes T18	END
+T19	Protein 16868 16881	Langagergaard
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 16950 16951	3
+#20	AnnotatorNotes T20	END
+T21	Protein 20225 20231	submit
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 20284 20286	12
+#22	AnnotatorNotes T22	END
+T23	Protein 20316 20322	submit
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 20360 20369	Dovepress
+#24	AnnotatorNotes T24	END
+T25	Protein 23476 23489	Langagergaard
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 23558 23559	3
+#26	AnnotatorNotes T26	END
+T27	Protein 25478 25484	submit
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 25543 25544	)
+#28	AnnotatorNotes T28	END
+T29	Protein 26716 26725	Dovepress
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 26814 26823	Dovepress
+#30	AnnotatorNotes T30	END
+T31	Protein 28768 28781	Langagergaard
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 28823 28832	Dovepress
+#32	AnnotatorNotes T32	END
+T33	Protein 31372 31380	Clinical
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 31430 31436	cancer
+#34	AnnotatorNotes T34	END
+T35	Protein 34019 34025	submit
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 34078 34091	Langagergaard
+#36	AnnotatorNotes T36	END
+T37	Protein 36553 36555	16
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 36612 36621	Dovepress
+#38	AnnotatorNotes T38	END
+T39	Protein 39194 39202	Clinical
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 39224 39233	Dovepress
+#40	AnnotatorNotes T40	END
+T41	Protein 41607 41615	Clinical
+#41	AnnotatorNotes T41	BEGIN
+T42	Protein 41665 41671	cancer
+#42	AnnotatorNotes T42	END
+T43	Protein 44235 44241	submit
+#43	AnnotatorNotes T43	BEGIN
+T44	Protein 44294 44307	Langagergaard
+#44	AnnotatorNotes T44	END
+T45	Protein 45860 45870	Disclosure
+#45	AnnotatorNotes T45	BEGIN
+T46	Protein 58169 58171	19
+#46	AnnotatorNotes T46	END
+T47	Location 3284 3291	Denmark
+T48	Location 6543 6550	Denmark
+T49	Location 7905 7912	Denmark
+T50	Location 8768 8775	Denmark
+T51	Location 11652 11658	Sweden
+T52	Location 14037 14043	Canada
+T53	Location 14306 14309	USA
+T54	Location 14534 14541	Denmark
+T55	Location 14727 14733	Sweden
+T56	Location 14826 14833	Denmark
+T57	Location 20642 20649	Denmark
+T58	Location 23120 23123	USA
+T59	Location 23221 23227	Canada
+T60	Location 23364 23371	Denmark
+T61	Location 23787 23793	Canada
+T62	Location 23907 23914	Denmark
+T63	Location 23946 23949	USA
+T64	Location 23974 23977	USA
+T65	Location 24126 24128	UK
+T66	Location 24753 24756	USA
+T67	Location 24958 24961	USA
+T68	Location 26872 26875	USA
+T69	Location 26896 26899	USA
+T70	Location 26928 26935	Denmark
+T71	Location 31014 31024	California
+T72	Location 5621 5628	Denmark
+T73	Location 5022 5028	Denmar
+T74	Location 18510 18520	California
+T75	Location 29242 29249	Denmark

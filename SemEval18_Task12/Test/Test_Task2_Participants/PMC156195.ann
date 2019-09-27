@@ -1,0 +1,90 @@
+T1	Protein 0 7	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 193 194	.
+#2	AnnotatorNotes T2	END
+T3	Protein 333 334	K
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 991 995	2003
+#4	AnnotatorNotes T4	END
+T5	Protein 5510 5511	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5789 5793	6988
+#6	AnnotatorNotes T6	END
+T7	Protein 12094 12097	VOL
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 12163 12167	6989
+#8	AnnotatorNotes T8	END
+T9	Protein 15242 15246	6990
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 15265 15266	.
+#10	AnnotatorNotes T10	END
+T11	Protein 18142 18145	VOL
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 18211 18215	6991
+#12	AnnotatorNotes T12	END
+T13	Protein 21638 21642	6992
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 21661 21662	.
+#14	AnnotatorNotes T14	END
+T15	Protein 26416 26431	ACKNOWLEDGMENTS
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 33265 33266	.
+#16	AnnotatorNotes T16	END
+T17	Location 271 276	China
+T18	Location 1245 1254	Hong Kong
+T19	Location 1476 1481	China
+T20	Location 2030 2039	Hong Kong
+T21	Location 2791 2796	China
+T22	Location 3060 3065	China
+T23	Location 3204 3213	Hong Kong
+T24	Location 3398 3407	Hong Kong
+T25	Location 3485 3494	Hong Kong
+T26	Location 4354 4359	China
+T27	Location 4899 4904	China
+T28	Location 4877 4884	Shantou
+T29	Location 5360 5369	Hong Kong
+T30	Location 5503 5508	China
+T31	Location 6285 6290	China
+T32	Location 6619 6626	Shantou
+T33	Location 6634 6643	Guangdong
+T34	Location 6690 6697	Shantou
+T35	Location 6795 6802	Jiangxi
+T36	Location 6804 6809	Hunan
+T37	Location 6815 6822	Zejiang
+T38	Location 7295 7305	Chatsworth
+T39	Location 7307 7312	Calif
+T40	Location 7698 7705	Madison
+T41	Location 7707 7710	Wis
+T42	Location 7926 7931	China
+T43	Location 8088 8097	Hong Kong
+T44	Location 8239 8248	Hong Kong
+T45	Location 8683 8690	Shantou
+T46	Location 9880 9889	Guangdong
+T47	Location 10349 10354	China
+T48	Location 10635 10640	China
+T49	Location 11949 11958	Hong Kong
+T50	Location 12204 12209	Korea
+T51	Location 12726 12733	Shantou
+T52	Location 13115 13122	Shantou
+T53	Location 13538 13545	Shantou
+T54	Location 13665 13674	Hong Kong
+T55	Location 14381 14386	China
+T56	Location 15163 15172	Hong Kong
+T57	Location 15178 15185	Shantou
+T58	Location 15192 15199	Beijing
+T59	Location 15206 15211	Korea
+T60	Location 15218 15225	Germany
+T61	Location 15231 15240	Guangdong
+T62	Location 15686 15693	Shantou
+T63	Location 16332 16339	Shantou
+T64	Location 17065 17074	Hong Kong
+T65	Location 17567 17574	Shantou
+T66	Location 18538 18543	China
+T67	Location 19640 19645	China
+T68	Location 20413 20418	China
+T69	Location 20717 20722	China
+T70	Location 20847 20852	China
+T71	Location 21415 21422	Shantou
+T72	Location 21544 21549	China
+T73	Location 21815 21824	Hong Kong
+T74	Location 22949 22954	China

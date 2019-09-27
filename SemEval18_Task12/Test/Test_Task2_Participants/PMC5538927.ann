@@ -1,0 +1,164 @@
+T1	Protein 0 8	ORIGINAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 9 16	ARTICLE
+#2	AnnotatorNotes T2	END
+T3	Protein 126 130	Jade
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 288 289	a
+#4	AnnotatorNotes T4	END
+T5	Location 770 780	California
+T6	Location 782 789	Alabama
+T7	Location 795 800;801 807	Rhode Island
+T8	Protein 1406 1415	Submitted
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 3211 3214	com
+#9	AnnotatorNotes T9	END
+T10	Protein 5508 5520	Epidemiology
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 5606 5610	2017
+#11	AnnotatorNotes T11	END
+T12	Protein 8526 8527	©
+#12	AnnotatorNotes T12	BEGIN
+T13	Protein 8622 8627	Water
+#13	AnnotatorNotes T13	END
+T14	Location 8507 8514	Alabama
+T15	Location 8495 8505	California
+T17	Location 8637 8655	Doheny State Beach
+T18	Location 8659 8669	Dana Point
+T19	Location 8671 8687;8688 8699	Malibu Surfrider State Beach
+T20	Location 8701 8712	Mission Bay
+T21	Location 8716 8725	San Diego
+T22	Location 8731 8743	Avalon Beach
+T23	Location 8747 8762	Catalina Island
+T24	Location 8775 8785	California
+T25	Location 8787 8805;8806 8811	Fairhope Municipal Beach
+T26	Location 8815 8822	Alabama
+T27	Location 8828 8861	Goddard Memorial State Park Beach
+T28	Location 8865 8877	Rhode Island
+T29	Location 10622 10628	Avalon
+T30	Location 10630 10636	Doheny
+T31	Location 10642 10653	Mission Bay
+T32	Location 10690 10696	Avalon
+T33	Location 10701 10707	Doheny
+T34	Location 10808 10814	Avalon
+T35	Location 10819 10825	Doheny
+T36	Protein 11518 11521	www
+#18	AnnotatorNotes T36	BEGIN
+T37	Protein 11560 11561	.
+#19	AnnotatorNotes T37	END
+T38	Protein 14405 14408	646
+#20	AnnotatorNotes T38	BEGIN
+T39	Protein 14473 14477	2017
+#21	AnnotatorNotes T39	END
+T40	Protein 17576 17582	© 2017
+#22	AnnotatorNotes T40	BEGIN
+T41	Protein 17679 17683	2017
+#23	AnnotatorNotes T41	END
+T42	Protein 23614 23617	www
+#24	AnnotatorNotes T42	BEGIN
+T43	Protein 23682 23686	2017
+#25	AnnotatorNotes T43	END
+T44	Protein 28736 28737	©
+#26	AnnotatorNotes T44	BEGIN
+T45	Protein 28839 28843	2017
+#27	AnnotatorNotes T45	END
+T46	Protein 32535 32536	©
+#28	AnnotatorNotes T46	BEGIN
+T47	Protein 32686 32687	.
+#29	AnnotatorNotes T47	END
+T48	Protein 38494 38509	ACKNOWLEDGMENTS
+#30	AnnotatorNotes T48	BEGIN
+T49	Protein 51828 51829	.
+#31	AnnotatorNotes T49	END
+T50	Location 10217 10228	Mission Bay
+T51	Location 10238 10246	Fairhope
+T52	Location 10251 10258	Goddard
+T53	Location 11005 11016	Mission Bay
+T54	Location 11876 11887	Mission Bay
+T55	Location 11698 11704	Avalon
+T56	Location 11706 11712	Doheny
+T57	Location 12068 12076	Fairhope
+T58	Location 12081 12088	Goddard
+T59	Location 13105 13112	Goddard
+T60	Location 13092 13100	Fairhope
+T61	Location 13259 13265	Doheny
+T62	Location 13345 13359	San Juan Creek
+T63	Location 13445 13457	Avalon Beach
+T64	Location 18749 18755	Avalon
+T65	Location 18767 18773	Doheny
+T66	Location 18802 18813	Mission Bay
+T67	Location 18784 18790	Malibu
+T68	Location 18846 18860	Fairhope Beach
+T69	Location 18824 18831	Goddard
+T70	Location 19624 19630	Avalon
+T71	Location 19848 19854	Avalon
+T72	Location 19635 19641	Doheny
+T73	Location 19859 19865	Doheny
+T74	Protein 20532 20533	©
+#74	AnnotatorNotes T74	BEGIN
+T75	Protein 20628 20633	Water
+#75	AnnotatorNotes T75	END
+T76	Location 20896 20902	Doheny
+T77	Location 20967 20978	Mission Bay
+T78	Location 20825 20831	Avalon
+T79	Location 21073 21079	Avalon
+T80	Location 21250 21256	Avalon
+T81	Location 21392 21398	Malibu
+T82	Location 21144 21150	Doheny
+T83	Location 21321 21327	Doheny
+T84	Location 21463 21474	Mission Bay
+T85	Location 21539 21547	Fairhope
+T86	Location 21612 21619	Goddard
+T87	Location 21720 21726	Avalon
+T88	Location 21791 21797	Doheny
+T89	Location 13767 13773	Malibu
+T90	Location 13778 13789	Mission Bay
+T91	Location 11718 11724	Malibu
+T92	Location 22241 22247	Malibu
+T93	Location 22249 22257	Fairhope
+T94	Location 22349 22355	Malibu
+T95	Location 22457 22463	Malibu
+T96	Location 22330 22338	Fairhope
+T97	Location 22438 22446	Fairhope
+T98	Location 22262 22269	Goddard
+T99	Location 22340 22347	Goddard
+T100	Location 22448 22455	Goddard
+T101	Location 22468 22479	Mission Bay
+T102	Location 23415 23426	Mission Bay
+T103	Location 23328 23334	Avalon
+T104	Location 23344 23350	Doheny
+T105	Location 23360 23368	Fairhope
+T106	Location 23378 23385	Goddard
+T107	Location 23395 23401	Malibu
+T108	Location 29132 29144	Avalon beach
+T109	Location 29149 29161	Doheny beach
+T110	Location 29167 29179	Malibu beach
+T111	Location 29185 29196	Mission Bay
+T112	Location 29207 29221	Fairhope beach
+T113	Location 29226 29239	Goddard beach
+T114	Location 29444 29455	Mission Bay
+T115	Location 29460 29466	Malibu
+T117	Location 29582 29594	Avalon beach
+T118	Location 29667 29675	Fairhope
+T119	Location 29680 29687	Goddard
+T116	Location 29296 29308	Doheny beach
+T120	Location 29525 29537	Doheny beach
+T121	Location 29357 29369	Avalon beach
+T122	Location 31866 31878	Avalon beach
+T123	Location 32069 32081	Avalon beach
+T124	Location 32222 32228	Avalon
+T125	Location 32515 32527	Avalon beach
+T126	Location 31805 31817	Doheny beach
+T127	Location 32012 32024	Doheny beach
+T128	Location 32230 32236	Doheny
+T129	Location 32402 32408	Doheny
+T130	Location 31930 31941	Mission Bay
+T131	Location 32242 32253	Mission Bay
+T132	Location 32308 32319	Mission Bay
+T133	Location 31946 31952	Malibu
+T134	Location 32134 32142	Fairhope
+T135	Location 32147 32154	Goddard
+T136	Protein 35899 35902	650
+#136	AnnotatorNotes T136	BEGIN
+T137	Protein 35916 35919	com
+#137	AnnotatorNotes T137	END

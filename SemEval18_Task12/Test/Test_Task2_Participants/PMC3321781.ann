@@ -1,0 +1,66 @@
+T1	Protein 68 73	Giada
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 235 241	Sambri
+#2	AnnotatorNotes T2	END
+T3	Protein 4613 4621	Emerging
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 5021 5035	eid1705.101569
+#4	AnnotatorNotes T4	END
+T5	Protein 8005 8015	DISPATCHES
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 8089 8093	2011
+#6	AnnotatorNotes T6	END
+T7	Protein 9845 9849	This
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 12960 12963	905
+#8	AnnotatorNotes T8	END
+T9	Protein 13948 13950	14
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 14684 14688	2011
+#10	AnnotatorNotes T10	END
+T11	Location 51 56	Italy
+T12	Location 311 316	Italy
+T13	Location 935 941	Israel
+T14	Location 943 948	India
+T15	Location 954 963	Australia
+T16	Location 1432 1437	Italy
+T17	Location 1439 1453	Emilia-Romagna
+T18	Location 1455 1461	Veneto
+T19	Location 1463 1471	Lombardy
+T20	Location 1573 1578	Italy
+T21	Location 1830 1835	Italy
+T22	Location 2167 2174	Ferrara
+T23	Location 2189 2195	Modena
+T24	Location 2205 2211	Mantua
+T25	Location 2290 2297	Ferrara
+T26	Location 2555 2562	Ferrara
+T27	Location 2573 2580	Ferrara
+T28	Location 2646 2653	Ferrara
+T29	Location 2591 2597	Mantua
+T30	Location 2608 2614	Mantua
+T31	Location 2625 2631	Modena
+T32	Location 3784 3789	Italy
+T33	Location 4428 4434;4435 4442	Emilia Romagna
+T34	Location 4029 4034	Italy
+T35	Location 4307 4312	Italy
+T36	Location 4561 4566	Italy
+T37	Location 4593 4599	Veneto
+T38	Location 5126 5131	Italy
+T39	Location 6277 6282	Italy
+T40	Location 6665 6670	Italy
+T41	Location 7121 7126	Italy
+T42	Location 7446 7451	Italy
+T43	Location 8179 8184	Italy
+T44	Location 9120 9125	Italy
+T45	Location 9213 9218	Italy
+T46	Location 13913 13918	Italy
+T47	Location 878 884	Africa
+T48	Location 927 933	Africa
+T49	Location 1125 1131	Europe
+T50	Location 6765 6771	Europe
+T51	Location 7957 7970	North America
+T52	Location 1004 1012	Americas
+T53	Location 3530 3535	Italy
+T54	Location 4216 4221	Italy
+T55	Location 7830 7835	Italy
+T56	Location 9427 9432	Italy

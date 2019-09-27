@@ -1,0 +1,93 @@
+T401	Protein 144 149	Elena
+#401	AnnotatorNotes T401	BEGIN
+T402	Protein 588 593	China
+#402	AnnotatorNotes T402	END
+T1	Location 4437 4451	Southeast Asia
+T20	Location 4457 4468	Middle East
+T30	Location 4470 4476	Europe
+T31	Location 4482 4488	Africa
+T32	Location 4838 4845	Vietnam
+T33	Location 4850 4858	Cambodia
+T34	Location 4997 5006	Indonesia
+T35	Location 5034 5039	India
+T36	Location 5044 5054	Bangladesh
+T37	Location 5083 5088	Egypt
+T41	Location 5206 5213	Vietnam
+T42	Location 5215 5219	Laos
+T43	Location 5221 5229	Thailand
+T44	Location 5235 5240	China
+T45	Location 5353 5358	China
+T46	Location 5473 5480	Vietnam
+T47	Location 5485 5490	China
+T50	Location 7323 7332	Indonesia
+T51	Location 7456 7463	Vietnam
+T21	Protein 7767 7776	Govorkova
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 7929 7939	Manuscript
+#22	AnnotatorNotes T22	END
+T57	Location 10723 10735	Saudi Arabia
+T58	Location 10738 10746	Thailand
+T59	Location 10748 10755	Vietnam
+T60	Location 10757 10765	Cambodia
+T61	Location 10767 10775	Malaysia
+T62	Location 10777 10786	Indonesia
+T63	Location 10788 10793	China
+T64	Location 10799 10804	India
+T66	Location 12644 12649	Basel
+T67	Location 12651 12662	Switzerland
+T68	Location 13016 13025	St. Louis
+T69	Location 13167 13175	Winooski
+T71	Location 14193 14201	La Jolla
+T73	Location 14876 14884	La Jolla
+T74	Location 15862 15870	Valencia
+T79	Location 16172 16180	Carlsbad
+T83	Location 16464 16471	Madison
+T85	Location 16570 16578	Carlsbad
+T87	Location 17199 17207	Carlsbad
+T96	Location 33700 33705	China
+T2	Location 5142 5154	Central Asia
+T3	Location 5158 5172	Eastern Europe
+T5	Location 9157 9173	Republic of Laos
+T23	Protein 11965 11974	Govorkova
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 12127 12137	Manuscript
+#24	AnnotatorNotes T24	END
+T6	Location 13027 13029	MO
+T7	Location 13177 13179	VT
+T8	Location 13540 13542	NY
+T9	Location 14203 14205	CA
+T10	Location 14886 14888	CA
+T11	Location 15872 15874	CA
+T25	Protein 15929 15938	Govorkova
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 16091 16101	Manuscript
+#26	AnnotatorNotes T26	END
+T12	Location 16182 16184	CA
+T13	Location 16473 16475	WI
+T14	Location 16580 16582	CA
+T15	Location 17209 17211	CA
+T27	Protein 19714 19723	Govorkova
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 19876 19886	Manuscript
+#28	AnnotatorNotes T28	END
+T16	Location 21783 21797	Southeast Asia
+T39	Protein 28184 28193	Govorkova
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 28346 28356	Manuscript
+#40	AnnotatorNotes T40	END
+T48	Protein 32892 32901	Govorkova
+#48	AnnotatorNotes T48	BEGIN
+T49	Protein 33054 33064	Manuscript
+#49	AnnotatorNotes T49	END
+T17	Protein 35402 35417	Acknowledgments
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 57546 57547	.
+#18	AnnotatorNotes T18	END
+T403	Protein 2619 2620	©
+#403	AnnotatorNotes T403	BEGIN
+T404	Protein 3946 3955	zanamivir
+#404	AnnotatorNotes T404	END
+T405	Protein 23810 23819	Govorkova
+#405	AnnotatorNotes T405	BEGIN
+T406	Protein 23972 23982	Manuscript
+#406	AnnotatorNotes T406	END

@@ -1,0 +1,196 @@
+T1	Protein 0 2	Am
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 146 153	Hygiene
+#2	AnnotatorNotes T2	END
+T3	Protein 297 302	Sonia
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 865 871	Brazil
+#4	AnnotatorNotes T4	END
+T5	Protein 6218 6219	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6415 6418	371
+#6	AnnotatorNotes T6	END
+T7	Protein 10418 10421	372
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10433 10439	OTHERS
+#8	AnnotatorNotes T8	END
+T9	Protein 20056 20059	374
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 20071 20077	OTHERS
+#10	AnnotatorNotes T10	END
+T11	Protein 26081 26084	376
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 26096 26102	OTHERS
+#12	AnnotatorNotes T12	END
+T13	Protein 31697 31705	Received
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 39692 39698	OTHERS
+#14	AnnotatorNotes T14	END
+T15	Location 290 296	Brazil
+T16	Location 988 994	Brazil
+T17	Location 1862 1868	Brazil
+T18	Location 2767 2773	Brazil
+T19	Location 2953 2959	Brazil
+T20	Location 3014 3020	Brazil
+T21	Location 3073 3080	Paraná
+T22	Location 3252 3259	Paraná
+T23	Location 3273 3279	Brazil
+T24	Location 3357 3371	Santa Catarina
+T25	Location 3304 3312	Paraguay
+T26	Location 3317 3326	Argentina
+T27	Location 3384 3394	São Paulo
+T28	Location 3551 3558	Paraná
+T29	Location 3880 3886	Brazil
+T30	Location 4154 4161	Fiocruz
+T31	Location 4163 4177	Rio de Janeiro
+T32	Location 4303 4310	Paraná
+T33	Location 5581 5589	Tomahawk
+T34	Location 5591 5593	WI
+T35	Location 5635 5646	Tallahassee
+T36	Location 5648 5650	FL
+T37	Location 6746 6754	Curitiba
+T38	Location 6756 6763	Paraná
+T39	Location 6765 6771	Brazil
+T40	Location 8023 8031	Mannheim
+T41	Location 8033 8040	Germany
+T42	Location 8118 8135	Republic of Korea
+T43	Location 8111 8116	Seoul
+T44	Location 10325 10332	Paraná
+T45	Location 10334 10340	Brazil
+T46	Location 10739 10755	General Carneiro
+T47	Location 10796 10803	Paraná
+T48	Location 11122 11138	General Carneiro
+T49	Location 11556 11572	General Carneiro
+T50	Location 11782 11789	Paraná
+T51	Location 11800 11806	Brazil
+T52	Location 11896 11912	General Carneiro
+T53	Location 12195 12211	General Carneiro
+T54	Location 12437 12453	General Carneiro
+T55	Location 12726 12737	Itambaracá
+T56	Location 12929 12941	Jaguariaı́va
+T57	Location 13176 13186	Porto Rico
+T58	Location 13397 13411	Foz do Iguaçu
+T59	Location 13752 13760	Palmital
+T60	Location 13743 13751	Laranjal
+T61	Location 13919 13929	Paranaguá
+T62	Location 14205 14213	Curitiba
+T63	Location 14401 14411	Araucária
+T64	Location 14560 14581	Campina Grande do Sul
+T66	Location 14962 14973	Itambaracá
+T67	Location 14978 14990	Jaguariaı́va
+T68	Location 15031 15038	Paraná
+T69	Location 15193 15204	Itambaracá
+T70	Location 15209 15221	Jaguariaı́va
+T71	Location 15418 15429	Itambaracá
+T72	Location 15465 15477	Jaguariaı́va
+T73	Location 15493 15503	Porto Rico
+T74	Location 15545 15552	Paraná
+T75	Location 15567 15585	Mato Grosso do Sul
+T76	Location 15764 15778	Foz do Iguaçu
+T77	Location 15935 15943	Paraguay
+T78	Location 15948 15957	Argentina
+T79	Location 16221 16229	Palmital
+T80	Location 16234 16242	Laranjal
+T81	Location 16295 16301	Parana
+T82	Location 16533 16543	Paranaguá
+T83	Location 16566 16573	Paraná
+T84	Location 16659 16669	Paranaguá
+T85	Location 16905 16912	Paraná
+T86	Location 16874 16882	Curitiba
+T87	Location 16943 16953	Araucária
+T88	Location 16958 16979	Campina Grande do Sul
+T89	Location 17061 17069	Curitiba
+T90	Location 17846 17853	Paraná
+T91	Location 18097 18107	Paranaguá
+T92	Location 18211 18227	General Carneiro
+T93	Location 18302 18313	Jaguariaiva
+T94	Location 18326 18337	Itambaracá
+T95	Location 18443 18459	General Carneiro
+T96	Location 18706 18722	General Carneiro
+T97	Location 18758 18770	Jaguariaı́va
+T98	Location 18974 18980	Brazil
+T99	Location 19000 19007	Paraná
+T100	Location 19167 19183	General Carneiro
+T101	Location 19234 19243	Araucaria
+T102	Location 19276 19285	Araucaria
+T103	Location 19291 19298	Jaborá
+T104	Location 19326 19333	Jaborá
+T105	Location 19339 19345	Palmas
+T106	Location 19370 19379	Araucaria
+T107	Location 19439 19450	Itambaracá
+T108	Location 19481 19491	Araucária
+T109	Location 19603 19613	Araucária
+T110	Location 19695 19705	Araucária
+T111	Location 19930 19940	Araucária
+T112	Location 19978 19988	Araucária
+T113	Location 19500 19512	Jaguariaı́va
+T114	Location 19558 19565	Jaborá
+T115	Location 19632 19642	Porto Rico
+T116	Location 19733 19747	Foz do Iguaçu
+T117	Location 19794 19802	Palmital
+T118	Location 19803 19811	Laranjal
+T119	Location 19835 19845	Paranaguá
+T120	Location 19946 19954	Curitiba
+T121	Location 20011 20032	Campina Grande do Sul
+T122	Location 20145 20151	Brazil
+T123	Location 20156 20164	Paraguay
+T124	Location 20241 20257	General Carneiro
+T125	Location 20717 20724	Paraná
+T126	Location 20965 20972	Paraná
+T127	Location 21331 21337	Brazil
+T128	Location 21713 21720	Uruguay
+T129	Location 21959 21966	Paraná
+T130	Location 22059 22065	Brazil
+T131	Protein 22558 22562	ANTI
+#130	AnnotatorNotes T131	BEGIN
+T132	Protein 22611 22614	375
+#131	AnnotatorNotes T132	END
+T133	Location 23151 23157	Mexico
+T134	Location 23169 23174	Chile
+T135	Location 23186 23195	Argentina
+T136	Location 23210 23218	Colombia
+T137	Location 23397 23404	Panamá
+T138	Location 23473 23480	Paraná
+T139	Location 23723 23729	Brazil
+T140	Location 23822 23828	Panama
+T141	Location 23839 23847	Colombia
+T142	Location 23859 23868	Venezuela
+T143	Location 23884 23893	Anajatuba
+T144	Location 23917 23926	Maranhão
+T145	Location 23928 23934	Brazil
+T146	Location 23970 23979	Anajatuba
+T147	Location 24011 24024	Jardinópolis
+T148	Location 24039 24045	Brazil
+T149	Location 24356 24362	Panama
+T150	Location 25447 25453	Brazil
+T151	Location 25458 25466	Paraguay
+T152	Location 25637 25644	Paraná
+T153	Location 25737 25743	Brazil
+T154	Location 25745 25752	Paraná
+T155	Location 25758 25766	Paraguay
+T157	Location 26414 26421	Paraná
+T158	Location 26485 26493	Paraguay
+T159	Location 26498 26504	Brazil
+T160	Location 26506 26520	Santa Catarina
+T161	Location 26971 26987	General Carneiro
+T162	Location 27057 27069	Jaguariaı́va
+T163	Location 27424 27428;27429 27442	Gen- eral Carneiro
+T164	Location 27761 27767	Brazil
+T165	Location 28976 28992	General Carneiro
+T166	Location 29350 29357	Paraná
+T167	Location 29462 29469	Paraná
+T168	Location 30619 30626	Paraná
+T169	Location 31438 31445	Paraná
+T181	Protein 14883 14887	ANTI
+#169	AnnotatorNotes T181	BEGIN
+T182	Protein 14936 14939	373
+#170	AnnotatorNotes T182	END
+T65	Location 22067 22080	South America
+T183	Location 22082 22095	North America
+T156	Location 21797 21810	South America
+T184	Location 22101 22108	Eurasia
+T185	Location 2182 2189	Eurasia
+T186	Location 2241 2249	Americas
+T187	Location 2694 2702	Americas
+T188	Location 8429 8436	Eurasia
+T189	Location 882 889	Paraná

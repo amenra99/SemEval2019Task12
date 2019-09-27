@@ -1,0 +1,276 @@
+T1	Protein 139 147	Liudmila
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 800 801	A
+#2	AnnotatorNotes T2	END
+T3	Protein 2378 2379	*
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3296 3306	Manuscript
+#4	AnnotatorNotes T4	END
+T5	Protein 3452 3460	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3502 3509	Siberia
+#6	AnnotatorNotes T6	END
+T7	Protein 6391 6398	Yashina
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 6543 6553	Manuscript
+#8	AnnotatorNotes T8	END
+T9	Protein 9617 9624	Yashina
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9769 9779	Manuscript
+#10	AnnotatorNotes T10	END
+T11	Protein 12950 12957	Yashina
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 13102 13112	Manuscript
+#12	AnnotatorNotes T12	END
+T13	Protein 16479 16486	Yashina
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16631 16641	Manuscript
+#14	AnnotatorNotes T14	END
+T15	Protein 19633 19640	Yashina
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 19785 19795	Manuscript
+#16	AnnotatorNotes T16	END
+T17	Protein 23257 23264	Yashina
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 23409 23419	Manuscript
+#18	AnnotatorNotes T18	END
+T19	Protein 26694 26709	Acknowledgments
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 39372 39382	Manuscript
+#20	AnnotatorNotes T20	END
+T21	Protein 39642 39649	Yashina
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 39795 39805	Manuscript
+#22	AnnotatorNotes T22	END
+T23	Protein 40327 40334	Yashina
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 40808 40818	Manuscript
+#24	AnnotatorNotes T24	END
+T25	Protein 41973 41980	Yashina
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 42126 42136	Manuscript
+#26	AnnotatorNotes T26	END
+T27	Protein 44723 44730	Yashina
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 44979 44981	18
+#28	AnnotatorNotes T28	END
+T29	Protein 46083 46089	Infect
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 46244 46246	19
+#30	AnnotatorNotes T30	END
+T31	Protein 46599 46605	Infect
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 46760 46762	20
+#32	AnnotatorNotes T32	END
+T33	Protein 47665 47671	Infect
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 47826 47828	21
+#34	AnnotatorNotes T34	END
+T35	Protein 48771 48777	Infect
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 48932 48934	22
+#36	AnnotatorNotes T36	END
+T37	Protein 49988 49994	Infect
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 50149 50151	23
+#38	AnnotatorNotes T38	END
+T39	Protein 50496 50502	Infect
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 50563 50564	.
+#40	AnnotatorNotes T40	END
+T41	Location 131 138	Siberia
+T42	Location 1483 1490	Siberia
+T43	Location 2099 2112	Tiumen Oblast
+T44	Location 4585 4600	Sayan Mountains
+T45	Location 4614 4624	Kazakhstan
+T46	Location 4888 4895	Siberia
+T47	Location 5396 5408	Fennoscandia
+T48	Location 5426 5432	Russia
+T49	Location 5436 5445	Kamchatka
+T50	Location 5473 5478	Korea
+T51	Location 5480 5488	Mongolia
+T52	Location 5490 5495	China
+T53	Location 5497 5505	Sakhalin
+T54	Location 5507 5513	Russia
+T55	Location 5519 5527	Hokkaido
+T56	Location 5529 5534	Japan
+T57	Location 5619 5625	Alaska
+T58	Location 5630 5636	Canada
+T59	Location 5730 5746	Korean Peninsula
+T60	Location 5848 5854	Russia
+T61	Location 6043 6051	Hokkaido
+T62	Location 6053 6058	Japan
+T63	Location 6133 6150	Buryatia Republic
+T64	Location 6154 6160	Russia
+T65	Location 6218 6223	Jilin
+T66	Location 6234 6239	China
+T67	Location 6385 6390	Korea
+T68	Location 6736 6742	Alaska
+T69	Location 6801 6807	Russia
+T70	Location 7095 7102	Siberia
+T71	Location 7707 7714	Siberia
+T72	Location 7716 7730	Altai Republic
+T73	Location 7732 7737	Altai
+T74	Location 7742 7759	Krasnoyarsk Krais
+T75	Location 7765 7771	Tiumen
+T76	Location 7773 7777	Omsk
+T77	Location 7779 7787	Kemerovo
+T78	Location 7792 7805	Tomsk Oblasts
+T79	Location 9385 9391	Hilden
+T80	Location 9393 9400	Germany
+T81	Location 12093 12104	Omsk
+Oblast
+T82	Location 13308 13313	Altai
+T83	Location 13327 13342	Teletskoye Lake
+T84	Location 13344 13352	Artybash
+T85	Location 13362 13376	Altai Republic
+T86	Location 13379 13387	Pokrovka
+T87	Location 13392 13398	Solton
+T88	Location 13409 13414;13415 13419	Altai Krai
+T89	Location 13444 13457	Tiumen Oblast
+T90	Location 13463 13474	Kuchuk Lake
+T91	Location 13520 13535	Teletskoye Lake
+T92	Location 14422 14428	Solton
+T93	Location 14449 14457	Pokrovka
+T94	Location 14501 14516	Teletskoye Lake
+T95	Location 14547 14562	Teletskoye Lake
+T96	Location 14536 14542	Solton
+T97	Location 15778 15791	Tiumen Oblast
+T98	Location 16002 16009	Siberia
+T99	Location 16011 16022	Omsk Oblast
+T100	Location 17184 17189	Japan
+T101	Location 17264 17270	Russia
+T102	Location 17286 17303	Republic Buryatia
+T103	Location 17397 17403	Russia
+T104	Location 17965 17970	Altai
+T105	Location 18094 18099	Olhon
+T106	Location 18112 18126	Irkutsk Oblast
+T107	Location 18196 18207	Baikal Lake
+T108	Location 17333 17339	Russia
+T109	Location 17340 17345	China
+T110	Location 18283 18291	Pokrovka
+T111	Location 18301 18311	Altai Krai
+T112	Location 18379 18394	Teletskoye Lake
+T113	Location 18399 18405	Solton
+T114	Location 18745 18752	Siberia
+T115	Location 18961 18967	Russia
+T116	Location 19057 19072	Teletskoye Lake
+T117	Location 19077 19083	Solton
+T118	Location 19102 19110	Pokrovka
+T119	Location 19534 19540	Solton
+T120	Location 19545 19560	Teletskoye Lake
+T121	Location 21842 21850	Pokrovka
+T122	Location 21855 21870	Teletskoye Lake
+T123	Location 22432 22439	Siberia
+T124	Location 22516 22526;22527 22531	Teletskoye Lake
+T125	Location 22634 22640	Kuchuk
+T126	Location 22644 22657	Tiumen Oblast
+T127	Location 23773 23779	Russia
+T128	Location 23815 23822	Siberia
+T129	Location 24255 24260	Altai
+T130	Location 25974 25980	Russia
+T131	Location 26326 26333	Siberia
+T132	Location 26362 26367;26368 26376	Altai Republic
+T133	Location 26381 26391	Altai Krai
+T134	Location 26531 26538	Siberia
+T135	Location 39462 39469	Siberia
+T136	Location 39514 39521	Siberia
+T137	Location 39634 39641	Siberia
+T138	Location 39821 39827	Russia
+T139	Location 39885 39891	Kuchuk
+T140	Location 39897 39901;39902 39907	Ust- Ishim
+T141	Location 39913 39924	Sukhorechie
+T142	Location 39930 39940	Balakhnino
+T143	Location 39946 39953	Parnaya
+T144	Location 39959 39968	Khmelevka
+T145	Location 39974 39981	Kolyvan
+T146	Location 39987 39995	Pokrovka
+T147	Location 40001 40007	Solton
+T148	Location 40014 40024	Kuzedeyevo
+T149	Location 40031 40046	Teletskoye Lake
+T150	Location 40057 40072	Srednyaya Shush
+T151	Location 40090 40094	Omsk
+T152	Location 40137 40142	Olhon
+T153	Location 41435 41442	Siberia
+T154	Location 44224 44230	Balkan
+T155	Location 44238 44245	Belgium
+T158	Location 44253 44261	Buryatia
+T161	Location 44273 44278	China
+T162	Location 44279 44285	Russia
+T164	Location 44293 44300	Denmark
+T167	Location 44308 44315	Finland
+T169	Location 44327 44332	Japan
+T171	Location 44333 44339	Russia
+T173	Location 44347 44352	Korea
+T175	Location 44361 44369;44370 44381	Northern Scandinavia
+T177	Location 44390 44394	Omsk
+T179	Location 44402 44408	Russia
+T180	Location 44418 44425	Siberia
+T181	Location 44435 44442	Siberia
+T182	Location 44464 44475	Scandinavia
+T156	Location 44692 44699	Siberia
+T157	Location 45112 45119	Siberia
+T159	Location 45227 45232;45233 45237	Altai Krai
+T160	Location 45238 45247	Khmelevka
+T163	Location 45366 45374	Pokrovka
+T165	Location 45313 45320	Kolyvan
+T166	Location 45421 45427	Solton
+T168	Location 45495 45500;45501 45509	Altai Republic
+T170	Location 45510 45520;45521 45525	Teletskoye Lake
+T172	Location 45599 45614	Kemerovo
+Oblast
+T174	Location 45615 45625	Balakhnino
+T176	Location 45689 45699	Kuzedeyevo
+T178	Location 45765 45781	Krasnoyarsk
+Krai
+T183	Location 45782 45789	Parnaya
+T184	Location 45835 45844;45845 45850	Srednyaya Shush
+T185	Location 45910 45919	Ust-Ishim
+T186	Location 45898 45902;45903 45909	Omsk Oblast
+T187	Location 45966 45972;45973 45979	Tiumen Oblast
+T188	Location 45980 45986	Kuchuk
+T189	Location 46034 46039;46040 46046	Tomsk Oblast
+T190	Location 46047 46058	Sukhorechie
+T191	Location 47975 47982	Siberia
+T192	Location 48088 48096	Pokrovka
+T193	Location 48167 48173	Solton
+T194	Location 48239 48249	Teletskoye
+T195	Location 48392 48398	Kuchuk
+T196	Location 49082 49091	Khmelevka
+T197	Location 49113 49120	Kolyvan
+T198	Location 49141 49149	Pokrovka
+T199	Location 49322 49328	Solton
+T200	Location 49383 49398	Teletskoye Lake
+T201	Location 49586 49596	Kuzedeyevo
+T202	Location 49619 49626	Parnaya
+T203	Location 49648 49663	Srednyaya Shush
+T204	Location 49963 49969	Kuchuk
+T205	Location 49911 49920	Ust-Ishim
+T206	Location 50302 50313	Sukhorechie
+T207	Location 26165 26169	Omsk
+T208	Location 26191 26197	Tiumen
+T209	Location 5605 5611	Europe
+T210	Location 5613 5617	Asia
+T211	Location 24034 24039	Altai
+T212	Location 24051 24062	Baikal Lake
+T213	Location 44219 44222	BAL
+T214	Location 44233 44236	BEL
+T215	Location 44248 44251	BUR
+T216	Location 44268 44271	RUS
+T217	Location 44322 44325	RUS
+T218	Location 44397 44400	RUS
+T219	Location 44264 44267	CHN
+T220	Location 44288 44291	DAN
+T221	Location 44318 44321	JPN
+T222	Location 44303 44306	FIN
+T223	Location 44342 44345	KOR
+T224	Location 44355 44359	NSCA
+T225	Location 44384 44388	OMSK
+T226	Location 44411 44414	SIB
+T227	Location 44428 44431	SIB
+T228	Location 44449 44453	SSCA
+T229	Location 4384 4390	Europe
+T230	Location 21713 21719	Kuchuk
+T231	Location 1076 1082	Europe
+T232	Location 5254 5260	Europe
+T233	Location 5265 5269	Asia

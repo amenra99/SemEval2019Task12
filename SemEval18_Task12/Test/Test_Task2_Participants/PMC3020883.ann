@@ -1,0 +1,75 @@
+T1	Protein 0 7	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 191 192	.
+#2	AnnotatorNotes T2	END
+T3	Protein 303 308	David
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 610 614	2010
+#4	AnnotatorNotes T4	END
+T5	Protein 5530 5531	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6033 6037	from
+#6	AnnotatorNotes T6	END
+T7	Protein 15314 15317	VOL
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 15472 15476	from
+#8	AnnotatorNotes T8	END
+T9	Protein 22296 22300	4230
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 22425 22429	from
+#10	AnnotatorNotes T10	END
+T11	Protein 28724 28727	VOL
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 28882 28886	from
+#12	AnnotatorNotes T12	END
+T13	Protein 31008 31012	4232
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 31137 31141	from
+#14	AnnotatorNotes T14	END
+T15	Protein 36035 36038	VOL
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 36193 36197	from
+#16	AnnotatorNotes T16	END
+T17	Protein 37452 37467	ACKNOWLEDGMENTS
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 44753 44757	from
+#18	AnnotatorNotes T18	END
+T19	Location 720 728;729 739	Southern California
+T20	Location 1579 1581	CA
+T21	Location 1568 1577	San Diego
+T23	Location 2577 2587	California
+T24	Location 3024 3033	San Diego
+T25	Location 3042 3044	CA
+T26	Location 4937 4945	Carlsbad
+T27	Location 4947 4949	CA
+T28	Location 8565 8574	San Diego
+T29	Location 8579 8587	Imperial
+T31	Location 10740 10742	CA
+T32	Location 10730 10738	Valencia
+T33	Location 11237 11243	Athens
+T34	Location 11245 11247	OH
+T35	Location 11459 11468	Billerica
+T36	Location 11470 11472	MA
+T37	Location 11613 11615	GA
+T38	Location 11604 11611	Atlanta
+T39	Location 11750 11752	CA
+T40	Location 11737 11748	Santa Maria
+T41	Location 11880 11891	Switzerland
+T42	Location 11873 11878	Basel
+T43	Location 12381 12389	Carlsbad
+T44	Location 12391 12393	CA
+T45	Location 13097 13099	KS
+T46	Location 13089 13095	Lenexa
+T47	Location 15767 15774	Waltham
+T48	Location 15776 15778	MA
+T49	Location 15986 15998	Indianapolis
+T50	Location 16000 16002	IN
+T51	Location 16311 16319	Hercules
+T52	Location 16321 16323	CA
+T53	Location 18750 18758	Imperial
+T54	Location 23076 23078	MD
+T55	Location 23062 23074	Gaithersburg
+T56	Location 33118 33132	Southeast Asia
+T57	Location 36953 36967	Southeast Asia
+T22	Location 2560 2568	Imperial
+T30	Location 8728 8731;8732 8737	San Diego

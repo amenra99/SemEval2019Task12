@@ -1,0 +1,161 @@
+T1	Protein 99 105	Philip
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 595 600	02142
+#2	AnnotatorNotes T2	END
+T3	Protein 2067 2075	Keywords
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 2570 2571	.
+#4	AnnotatorNotes T4	END
+T5	Protein 2572 2574	As
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3233 3243	Manuscript
+#6	AnnotatorNotes T6	END
+T7	Protein 7343 7352	Armstrong
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7493 7503	Manuscript
+#8	AnnotatorNotes T8	END
+T9	Protein 11381 11390	Armstrong
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 11531 11541	Manuscript
+#10	AnnotatorNotes T10	END
+T11	Protein 15402 15411	Armstrong
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15552 15562	Manuscript
+#12	AnnotatorNotes T12	END
+T13	Protein 19658 19667	Armstrong
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 19808 19818	Manuscript
+#14	AnnotatorNotes T14	END
+T15	Protein 24066 24075	Armstrong
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 24216 24226	Manuscript
+#16	AnnotatorNotes T16	END
+T17	Protein 28195 28204	Armstrong
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 28345 28355	Manuscript
+#18	AnnotatorNotes T18	END
+T19	Protein 32133 32142	Armstrong
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 32283 32293	Manuscript
+#20	AnnotatorNotes T20	END
+T21	Protein 33134 33149	Acknowledgments
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 44401 44411	Manuscript
+#22	AnnotatorNotes T22	END
+T23	Protein 44634 44643	Armstrong
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 44785 44795	Manuscript
+#24	AnnotatorNotes T24	END
+T25	Protein 45273 45282	Armstrong
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 45424 45434	Manuscript
+#26	AnnotatorNotes T26	END
+T27	Protein 45865 45874	Armstrong
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 46124 46126	15
+#28	AnnotatorNotes T28	END
+T29	Protein 46348 46356	Virology
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 46507 46509	16
+#30	AnnotatorNotes T30	END
+T31	Protein 47525 47533	Virology
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 47585 47586	.
+#32	AnnotatorNotes T32	END
+T33	Location 71 82	CONNECTICUT
+T34	Location 902 913	Connecticut
+T35	Location 1140 1151	Connecticut
+T36	Location 3622 3624	US
+T38	Location 4192 4205	New York City
+T39	Location 4966 4972	Israel
+T40	Location 5060 5071	Connecticut
+T41	Location 5637 5645	New York
+T42	Location 5650 5662	Pennsylvania
+T43	Location 5688 5698	California
+T44	Location 6373 6378	Texas
+T45	Location 6434 6436	US
+T46	Location 6672 6680	Illinois
+T47	Location 6664 6671	Chicago
+T48	Location 6846 6848	US
+T49	Location 7756 7767	Connecticut
+T50	Location 8328 8339	Connecticut
+T51	Location 8355 8357	US
+T52	Location 8383 8389	Mexico
+T53	Location 8403 8409	Israel
+T54	Location 8440 8451	Connecticut
+T55	Location 8790 8801	Connecticut
+T56	Location 8498 8507	Stratford
+T57	Location 8630 8639	Greenwich
+T58	Location 8652 8659	Milford
+T59	Location 8676 8683	Shelton
+T60	Location 8803 8812	Stratford
+T61	Location 8946 8955	Stratford
+T62	Location 9012 9019	Milford
+T63	Location 9024 9031	Shelton
+T64	Location 9986 9988	US
+T65	Location 10296 10298	US
+T66	Location 10022 10027	Texas
+T67	Location 10121 10132	Connecticut
+T68	Location 10134 10141	Florida
+T69	Location 10143 10147	Ohio
+T70	Location 10149 10157	New York
+T71	Location 10163 10169	Mexico
+T72	Location 10520 10529	Stratford
+T73	Location 10531 10542	Connecticut
+T74	Location 10871 10880	Stratford
+T77	Location 11068 11079	Connecticut
+T78	Location 11921 11930	Stratford
+T79	Location 11948 11959	Connecticut
+T80	Location 12043 12054	Connecticut
+T81	Location 11891 11897	Darien
+T82	Location 11899 11908	Fairfield
+T83	Location 11910 11919	New Haven
+T84	Location 11936 11946	West Haven
+T86	Location 12989 12994	Texas
+T87	Location 16604 16615	Connecticut
+T88	Location 16751 16760	Stratford
+T89	Location 16837 16846	Stratford
+T90	Location 17109 17120	Connecticut
+T91	Location 17435 17446	Connecticut
+T92	Location 17889 17900	Connecticut
+T93	Location 18386 18397	Connecticut
+T94	Location 18242 18255	New York City
+T95	Location 18682 18693	Connecticut
+T96	Location 19066 19081	Central America
+T97	Location 19414 19423	Stratford
+T98	Location 19534 19541	Chicago
+T99	Location 19543 19551	Illinois
+T100	Location 20467 20471	U.S.
+T101	Location 20786 20788	US
+T102	Location 21288 21299	Connecticut
+T103	Location 21788 21797	Stratford
+T104	Location 22258 22267	Stratford
+T106	Location 23814 23825	Connecticut
+T107	Location 24826 24837	Connecticut
+T108	Location 24845 24850	Texas
+T109	Location 26022 26027	Texas
+T110	Location 27732 27743	Connecticut
+T111	Location 27828 27839	Connecticut
+T112	Location 28159 28170	Connecticut
+T113	Location 27817 27826	Stratford
+T114	Location 27960 27969	Stratford
+T115	Location 28024 28031	Milford
+T116	Location 28036 28043	Shelton
+T117	Location 84 87	USA
+T118	Location 678 682	U.S.
+T119	Location 736 749	North America
+T120	Location 3443 3456	North America
+T121	Location 5315 5328	North America
+T122	Location 6003 6016	North America
+T123	Location 17400 17413	North America
+T124	Location 19042 19044	US
+T125	Location 19046 19061	Caribbean Basin
+T126	Location 20631 20644	North America
+T127	Location 25244 25257	North America
+T128	Location 25497 25510	North America
+T129	Location 25945 25958	North America
+T130	Location 27323 27336	North America
+T131	Location 44429 44440	Connecticut
+T85	Location 12975 12981	Harris
+T37	Location 3745 3749	U.S.
+T132	Location 45562 45573	Connecticut

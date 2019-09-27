@@ -1,0 +1,1383 @@
+ORIGINAL ARTICLE
+Spatiotemporal dynamics of Puumala hantavirus associated
+with its rodent host, Myodes glareolus
+Vanessa Weber de Melo,1,†
+Hanan Sheikh Ali,2,3,†
+Jona Freise,4
+Denise K€
+uhnert,5
+Sandra Essbauer,6
+Marc Mertens,2
+Konrad M. Wanka,2
+Stephan Drewes,2
+Rainer G. Ulrich2
+and Gerald Heckel1,7
+1 Computational and Molecular Population Genetics (CMPG), Institute of Ecology and Evolution, University of Bern, Bern, Switzerland
+2 Institute for Novel and Emerging Infectious Diseases, Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, Greifswald-Insel
+Riems, Germany
+3 College of Veterinary Medicine, Sudan University of Science and Technology, Khartoum, Sudan
+4 Fachbereich Sch€
+adlingsbek€
+ampfung, Nieders€
+achsisches Landesamt f€
+ur Verbraucherschutz und Lebensmittelsicherheit, Wardenburg, Germany
+5 Department of Environmental Systems Science, Eidgen€
+ossische Technische Hochschule Z€
+urich, Z€
+urich, Switzerland
+6 Department of Virology & Rickettsiology, Bundeswehr Institute of Microbiology, Munich, Germany
+7 Swiss Institute of Bioinformatics, Lausanne, Switzerland
+Keywords
+bank vole, genetic structure, hantavirus, host–
+parasite evolution, nephropathia epidemica,
+population dynamics, rodent-borne disease,
+zoonosis.
+Correspondence
+Gerald Heckel, Computational and Molecular
+Population Genetics (CMPG), Institute of
+Ecology and Evolution, University of Bern,
+Bern, Switzerland.
+Tel.: +41-31-6313029;
+Fax: +41-31-6314888
+e-mail: gerald.heckel@iee.unibe.ch
+†
+These authors contributed equally to this
+work.
+Received: 27 November 2014
+Accepted: 23 March 2015
+doi:10.1111/eva.12263
+Abstract
+Many viruses significantly impact human and animal health. Understanding the
+population dynamics of these viruses and their hosts can provide important
+insights for epidemiology and virus evolution. Puumala virus (PUUV) is a Euro-
+pean hantavirus that may cause regional outbreaks of hemorrhagic fever with
+renal syndrome in humans. Here, we analyzed the spatiotemporal dynamics of
+PUUV circulating in local populations of its rodent reservoir host, the bank vole
+(Myodes glareolus) during eight years. Phylogenetic and population genetic analy-
+ses of all three genome segments of PUUV showed strong geographical structur-
+ing at a very local scale. There was a high temporal turnover of virus strains in
+the local bank vole populations, but several virus strains persisted through multi-
+ple years. Phylodynamic analyses showed no significant changes in the local effec-
+tive population sizes of PUUV, although vole numbers and virus prevalence
+fluctuated widely. Microsatellite data demonstrated also a temporally persisting
+subdivision between local vole populations, but these groups did not correspond
+to the subdivision in the virus strains. We conclude that restricted transmission
+between vole populations and genetic drift play important roles in shaping the
+genetic structure and temporal dynamics of PUUV in its natural host which has
+several implications for zoonotic risks of the human population.
+Introduction
+The evolution of pathogens is profoundly influenced by the
+evolutionary history and geographical distribution of their
+hosts. Connectivity between host populations and their
+local sizes determine to a large extent the transmission and
+infection rates and geographical distribution of a pathogen.
+However, pathogens may evolve specific strategies or use
+windows of opportunity to overcome the limitations of
+particular host species, resulting in host-switch events and
+the (re-)emergence of infectious diseases (e.g., malaria,
+influenza, AIDS, and Ebola). Emerging infectious diseases
+may thus be examples where pathogens escape the evolu-
+tionary constraints of particular hosts and enter different
+evolutionary backgrounds (Cox-Singh 2012; Morse et al.
+2012).
+The number of emerging infectious diseases is increasing,
+and these pathogens have a profound impact on public and
+animal health as well as on the economy (Jones et al.
+2008). A large proportion of the emerging diseases repre-
+sent zoonoses caused by RNA viruses that are transmitted
+to humans from their natural reservoir species (Cleaveland
+et al. 2001; Holmes 2009). Understanding the population
+dynamics and interactions between viruses and their natu-
+ral hosts is essential for resolving epidemiological processes
+and their evolutionary trajectories (Gire et al. 2014).
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd. This is an open access article under the terms of the Creative
+Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+545
+Evolutionary Applications ISSN 1752-4571
+Evolutionary Applications
+Hantaviruses, segmented negative stranded RNA viruses
+from the Bunyaviridae family, are among the most impor-
+tant emerging infectious pathogens with often enigmatic
+epidemiology and transmission pathways (Vaheri et al.
+2013b). In the Americas, they are responsible for hantavi-
+rus cardiopulmonary syndrome with relatively high case
+fatality rate in humans. Hantaviruses in Asia, Europe, and
+most likely also Africa can cause hemorrhagic fever with
+renal syndrome (HFRS) (Vaheri et al. 2013a). The natural
+hosts of hantaviruses are mostly small rodents (families
+Muridae and Cricetidae), but also insectivores from the
+order Soricomorpha (families Talpidae and Soricidae),
+and bats (Guo et al. 2013; Schlegel et al. 2014). To date,
+only hantaviruses harbored by rodents have been identi-
+fied as pathogenic to humans. Transmission of the viruses
+to humans occurs mainly through inhalation of virus-
+contaminated aerosols of excreta from infected rodents
+(Vaheri et al. 2013a).
+Puumala virus (PUUV) is a hantavirus that causes a
+mild to moderate form of HFRS in humans. The natural
+reservoir host of PUUV is the bank vole, Myodes glareolus,
+a small rodent species that occupies forested and wooded
+areas throughout most of Europe. PUUV causes a chronic
+infection in bank voles and may somewhat reduce survival
+particularly in winter (Kallio et al. 2007; Tersago et al.
+2012). The prevalence of PUUV in bank vole populations
+ranges from absent to very high depending on the region
+of Europe, the local population, and the year (Razzauti
+et al. 2013). It has been suggested that PUUV outbreaks in
+humans are associated with high densities of bank voles
+caused by high tree seed production in the preceding year,
+but there is considerable geographical variation in these
+associations (Olsson et al. 2003; Kallio et al. 2009; Tersago
+et al. 2009, 2011).
+Phylogenetic analyses of PUUV typically detect differ-
+ences between sequences even at relatively small geographi-
+cal distances (Escutenaire et al. 2001; Sironen et al. 2002;
+Razzauti et al. 2008; Mertens et al. 2011). This may be
+explained by the very high evolutionary rates of these RNA
+viruses, leading to divergent strains at different localities
+over short periods and/or the lack of effective transmission
+between bank vole populations. In central Europe, bank
+voles belong generally to the same phylogeographic lineage
+with no or very little substructure in mitochondrial DNA
+(W
+ojcik et al. 2010; Mertens et al. 2011). Autosomal mark-
+ers can resolve population structures in bank voles at larger
+geographical scales (White et al. 2013), but populations
+may undergo very specific processes at the local level, for
+example, source–sink dynamics (Guivier et al. 2011) per-
+turbing spatial patterns. Investigations directly linking the
+genetic structure of host populations with the genetic struc-
+ture and molecular diversity of PUUV (or any other hanta-
+virus) populations are lacking to date.
+In this study, the following hypotheses were investigated:
+(i) Genetic substructure in Puumala virus populations
+reflects potential substructure in the host; (ii) the PUUV
+strains in local rodent populations change rapidly through
+time due to their high evolutionary rates and/or genetic
+drift; and (iii) temporal dynamics of PUUV in natural
+hosts and in human populations are related. To test these
+hypotheses, we combine population genetic analyses of
+PUUV and its natural host in an endemic area in central
+Europe. Molecular data from bank vole populations col-
+lected over eight years spanning several disease outbreaks
+in human populations in the region together with sequence
+information from all three segments of the virus genome
+provide in unprecedented detail insight into the processes
+of PUUV persistence and microevolution in its natural
+rodent host. Such information is pivotal for the establish-
+ment of targeted risk assessment and prevention measures
+for the human population particularly in PUUV endemic
+areas.
+Materials and methods
+Ethics statement
+Rodent trapping was performed by the Lower Saxony State
+Office for Consumer Protection and Food Safety (JF) as
+part of the pest control measures against bank voles imple-
+mented and authorized by the health authorities of the dis-
+trict Osnabr€
+uck (https://www.landkreis-osnabrueck.de/
+veterinaer-gesundheit/infektionsschutz/mrsa) according to
+German federal law (§ 18, Gesetz zur Verh€
+utung und
+Bek€
+ampfung von Infektionskrankheiten beim Menschen).
+These measures were implemented after ethical review by
+the commission for infection protection of the district Os-
+nabr€
+uck after repeated hantavirus infections in the human
+population in the district following the recommendations
+of the Robert Koch-Institut for disease control
+(www.rki.de; latest version: 10/2010).
+Sampling procedure and sample preservation
+Beginning in 2005, voles were trapped in a PUUV endemic
+area using mouse snap traps baited with raisins as part of a
+pest control and wildlife disease monitoring program. The
+five trapping sites in the district Osnabr€
+uck in northwest-
+ern Germany (Fig. 1) can be characterized as broad-leaved
+forests dominated by the common beech (Fagus sylvatica)
+with scarce to no understory. After trapping, bank voles
+were immediately frozen. Carcasses were thawed overnight,
+and lungs and hearts were sampled under biosafety level 3
+conditions. Chest cavity fluid (CCF) was collected by wash-
+ing the chest cavity with 1 mL phosphate-buffered saline
+(Essbauer et al. 2006; Mertens et al. 2011), and samples
+were stored at 20°C until investigation.
+546 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+Serology, hantavirus RT-PCR, and sequencing
+Serological screening of CCF was performed by IgG ELISA
+using yeast-expressed PUUV Vranica/H€
+alln€
+as and Bavaria
+nucleocapsid proteins (Essbauer et al. 2006; Mertens et al.
+2011). RNA was extracted from lung and heart tissue using
+Qiazol solution (Qiagen, Hilden, Germany). The genome of
+PUUV consists of three segments, small (S), medium (M),
+and large (L), which encode the nucleocapsid protein, two
+surface glycoproteins, and a viral RNA-dependent RNA
+polymerase, respectively. An initial screening RT-PCR tar-
+geting the S segment was performed using a One Step pro-
+tocol as described in Essbauer et al. (2006). The screening
+was repeated with modified primers (Table S1) for samples
+that were negative in the initial screen. Finally, a nested
+PCR protocol was used for the remaining negative samples
+(Essbauer et al. 2006). For S segment-positive samples, M-
+and L-segment-specific RT-PCRs were performed (Pilaski
+et al. 1994; Klempa et al. 2006; Mertens et al. 2011). For
+sequencing, amplicons were purified using QIAquick PCR
+purification kit according to the manufacturer’s instructions
+(Qiagen). The products were sequenced at least three times
+using the BigDye terminator sequencing kit (Perkin-Elmer,
+Waltham, MA, USA) on an ABI 310 Genetic Analyzer
+(Applied Biosystems, Foster City, CA, USA).
+PUUV population structure and phylogenetic
+relationships
+PUUV sequences were aligned manually using BioEdit
+7.1.9 (Hall 1999). DnaSP version 5 (Librado and Rozas
+2009) was used to determine the number of synonymous
+and nonsynonymous substitutions and to estimate nucleo-
+tide diversity in the PUUV sequences. Median-joining net-
+works were produced with Network 4.6 (Bandelt et al.
+1999), and genetic population structure was inferred with
+an analysis of molecular variance (AMOVA) implemented in
+Arlequin 3.5 (Excoffier and Lischer 2010). Pairwise FST val-
+ues were calculated for each PUUV segment separately and
+also for the three segments concatenated with 10 000 per-
+mutations to assess the level of statistical significance. BaTS
+(Parker et al. 2008) was used to determine the association
+between the phylogeny and the geographical location of the
+samples, by estimating the association index (AI), the parsi-
+mony score (PS) and the maximum clade (MC) size statis-
+tics. We tested for recombination and reassortment
+between the PUUV segments with RDP4 (Martin et al.
+2010) analogous to the analyses in Fink et al. (2010).
+Phylogenetic analyses were performed with the concate-
+nated segments including four published PUUV sequences
+from the sampling sites (S segment: schle_05_001,
+varus_09_024, astrup_07_003; M segment: schle_05_015)
+and prototype strain Sotkamo as outgroup (accession num-
+bers NC_005224, NC_005223, and NC_005225 for S, M,
+and L segments, respectively). Mega 5.1 (Tamura et al.
+2011) was used to reconstruct phylogenetic trees based on
+neighbor-joining (NJ) algorithms. The HKY+G substitu-
+tion model showed the best fit to our data based on the
+Bayesian Information Criterion tested in jModelTest 2.13
+(Darriba et al. 2012). Bayesian phylogenetic analyses were
+performed with BEAST 1.7.5 (Drummond et al. 2012) on
+the Cipres portal (Miller et al. 2010). After initial tests, we
+used a strict molecular clock, a coalescent Bayesian skyline
+tree prior with 10 groups, and otherwise default priors for
+two runs of 100 million generations each with sampling
+every 20 000 generations. A burn-in of 10% was discarded,
+and convergence of model parameters was checked with
+Tracer 1.5 (Rambaut and Drummond 2007). The runs were
+combined using LogCombiner 1.7.5 (Drummond et al.
+2012). A maximum clade credibility tree was produced
+with TreeAnnotator 1.7.5 and visualized in FigTree 1.4.0
+(http://tree.bio.ed.ac.uk/software/figtree/).
+PUUV Bayesian skyline plot analyses
+BEAST2 (Bouckaert et al. 2014) was used to shed light on
+the viral population dynamics. Bayesian skyline plot analy-
+sis (Drummond et al. 2005) was performed to estimate the
+effective population size and the substitution rate of PUUV
+based on the Schledehausen and Astrup datasets without
+the outgroup sequence. The two datasets were analyzed
+jointly, enabling the estimation of a common substitution
+rate. All other parameters, including the phylogenies, were
+estimated separately. The BEAST specifications remained
+Figure 1 Map of the study region showing the five localities where
+bank voles (Myodes glareolus) were trapped between 2005 and 2012.
+Habitat features other than intensively used agricultural land that could
+be relevant for the species (forests and urban areas) are indicated. The
+inset shows the position of the study region in Germany, with the
+encompassing federal states Niedersachsen (NI) and Nordrhein-Westfa-
+len (NW) highlighted.
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 547
+Weber de Melo et al. Population dynamics of Puumala virus and its host
+as described above. The Bayesian skyline plots were drawn
+with Tracer. Path-O-Gen (http://tree.bio.ed.ac.uk/software/
+pathogen/) was used to regress the root-to-tip distance
+against the sampling date, in order to confirm the presence
+of temporal signal in the dataset.
+Bank vole multilocus genotyping
+Genomic DNA was extracted from tail tissue using the
+phenol–chloroform method. The following 17 microsatellite
+loci were amplified in three sets, using the Qiagen Multiplex
+Kit in a PTC-100TM (MJ Research) thermocycler: CG1E6,
+CG1E8, CG2A4, CG5F6, CG5G6, CG6D10, CG7C9,
+CG12A7, CG12B9, CG13F9, CG13G2, CG15F7, CG16E2,
+CG16E5, CG17E9 (Rikalainen et al. 2008), MSCg-15 and
+MSCg-19 (Gockel et al. 1997). The amplification conditions
+were 95°C for 15 min, followed by 30 cycles of denaturation
+at 94°C for 30 s, annealing at 57°C for 90 s and extension
+at 72°C for 60 s, and 60°C for 30 min. Fragment separation
+was performed on an ABI 3130 sequencer. Fragment length
+was determined in comparison with the internal LIZ 500
+size standard using GeneMapper 3.7 (Applied Biosystems).
+Repetitions of previously scored genotypes were performed
+to ensure genotyping consistency (Hahne et al. 2011).
+Vole population structure
+Each vole sampling locality was checked for the presence of
+null alleles with MicroChecker 2.2 (Van Oosterhout et al.
+2004). Deviations from Hardy-Weinberg equilibrium
+(HWE) were tested per population with Arlequin 3.5 (Ex-
+coffier and Lischer 2010). Pairwise FST between populations
+was computed as for the PUUV populations. We tested also
+for significant genetic changes in the bank vole populations
+over time, computing pairwise FST between samples from
+different years for the localities Schledehausen and Astrup,
+for which the largest sample sizes were available. Popula-
+tion structure in the voles was analyzed further with the
+clustering algorithm in Structure 2.3 (Pritchard et al.
+2000), assuming an admixture model with correlated allele
+frequencies (Falush et al. 2003) and without information
+about the sampling population. We performed ten runs
+each for K between one and ten with 400 000 Markov
+chain Monte Carlo (MCMC) iterations and a burn-in of
+40 000 iterations. The estimation of K followed the method
+suggested by Evanno et al. (2005), and the figures were dis-
+played with Distruct 1.1 (Rosenberg 2004).
+Results
+Detection and genetic diversity of PUUV
+We sampled 319 bank voles between 2005 and 2012 at five
+different localities with geographical distances between 2.5
+and 17 km (Fig. 1, Table 1). PUUV-specific antibodies
+were detected in 128 voles (41%) by ELISA, and in three
+additional ones, PUUV RNA was detected only by RT-PCR
+(infected animals: total 131; 42%). There were large differ-
+ences in the prevalence between bank vole populations and
+sampling years, ranging from 0% to 100% for localities
+with at least ten voles trapped per year and a maximum of
+89% PUUV-infected voles (n = 47) across all localities
+in 2010 (Table 1, Fig. 2). Fluctuations in PUUV prevalence
+in the voles coincided only to some extent with the changes
+in the number of reported human infections in the
+Osnabr€
+uck district to which the localities belong adminis-
+tratively. Also the number of human infections reported in
+the German federal states Niedersachsen and Nordrhein-
+Westfalen encompassing the study district showed no
+strong association with local PUUV prevalence. For exam-
+ple, in 2007, human infections were frequently reported in
+the region (Fig. 2), but PUUV prevalence was only moder-
+ate (19%) in the large number of voles sampled (n = 113).
+Our sequences from the three PUUV segments S (637
+nt), M (571 nt), and L (336 nt) cover in total about 13% of
+the entire genome. There was no indication of double peaks
+in the sequences potentially stemming from double infec-
+tions or quasi-species. Nucleotide diversity per site varied
+from 0.0124 for the S, over 0.0162 for the M to 0.0196 for
+the L segment. There was a high diversity of virus
+sequences with 13 different types for the S segment, 20 for
+the M segment, 10 for the L segment, and 35 when all three
+segments were concatenated. Twenty-three synonymous
+and two nonsynonymous substitutions were found in the S
+segment, 30 synonymous and seven nonsynonymous sub-
+stitutions in the M segment, and 16 synonymous and five
+nonsynonymous substitutions in the L segment. The high-
+est number of substitutions between two sequence types
+was 16, 23, and 14 for the S, M, and L segments, respec-
+tively. Analyses with RDP4 (Martin et al. 2010) provided
+neither evidence of recombination between genome seg-
+ments (=reassortment) nor of recombination within seg-
+ments (all P > 0.05).
+Virus–geography relationships
+PUUV populations from different localities were highly dif-
+ferentiated. For the concatenated virus sequences, overall
+population differentiation between localities was very high
+with FST = 0.25 (P < 0.001), a pattern mirrored in the seg-
+ment-specific analyses (S: FST = 0.44; M: FST = 0.50; L:
+FST = 0.71; all P < 0.001). Pairwise FST values between
+populations ranged between 0.18 and 0.36 (all P ≤ 0.0011,
+except for the comparisons with Bramsche Tower; PUUV
+n = 1; Table S2). Again, the results of analyses of single seg-
+ments matched the concatenated dataset with only slight
+quantitative and no qualitative differences (details not
+548 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+shown). Pairwise FST values for the PUUV samples from
+the same locality but from different years were also very
+high, but they were significantly different from zero only
+for some of the comparisons at the two localities with the
+largest population samples (Schledehausen and Astrup;
+Table S3). Association index and parsimony score from
+analyses with BaTS also confirmed the geographical cluster-
+ing of PUUV sequences (P < 0.001), and maximum clade
+statistics revealed significant clustering in the sampling sites
+of Astrup, Ellerbeck, Schledehausen and Bramsche Varus
+(P < 0.01).
+In the haplotype network analyses, virus sequences
+always formed three clusters in the networks, each consist-
+ing of samples from the same localities—irrespective of the
+genome segment analyzed (Fig. 3). The first cluster con-
+tains Schledehausen sequences only, the second cluster con-
+sists of Bramsche Tower and Bramsche Varus, and the
+third cluster is a composite of all sequences from Astrup
+and Ellerbeck. For each genome segment, at least one
+sequence type was shared between the Astrup and Ellerbeck
+localities, and even after concatenation of the segments
+resulting in 1544 nt, there was one sequence type that was
+found in several voles at both localities (Astrup n = 7; El-
+lerbeck n = 4, details not shown). In general, each geo-
+graphical cluster contained one or two abundant sequence
+types and several closely connected rare ones, which differ
+from the abundant ones by one or two nonsynonymous
+substitutions at maximum (Fig. 3). Interestingly, the num-
+ber of substitutions separating the Astrup/Ellerbeck and
+Schledehausen sequences (geographical distance approx.
+3 km) is largest for all segments, and viruses from the geo-
+graphically distant Bramsche sampling sites (approx.
+14 km distance) were genetically distinct but more similar
+to Schledehausen than to Astrup/Ellerbeck sequences.
+Consistent with the networks, neighbor-joining and
+Bayesian phylogenetic analyses recovered the same three
+clusters in the concatenated sequences with very high sup-
+port values (Fig. 4, Figure S1). Also in these phylogenies, the
+Table 1. Overview of bank vole and Puumala virus samples used in this study.
+Locality Year Voles Virus strains S/M/L S, M, L Prevalence (%)
+Schledehausen 2005 15 2 1/2/2 1 13.3
+2006 4 0 0 0 0*
+2007 37 5 4/4/4 4 13.5
+2008 7 4 3/3/3 3 57.1*
+2009 20 5 4/3/4 3 25
+2010 20 17 17/17/17 17 85
+2011 29 4 4/4/3 3 13.7
+2012 29 25 23/22/24 22 86.2
+Astrup 2006 3 0 0 0 0*
+2007 28 10 9/10/10 9 35.7
+2008 12 6 5/5/6 5 50
+2009 3 1 1/1/1 1 33.3*
+2010 17 17 17/16/17 16 100
+2011 5 2 2/2/2 2 40*
+2012 15 13 12/12/11 10 86.66
+Ellerbeck 2005 6 0 0 0 0*
+2007 18 5 5/5/5 5 27.7
+2008 1 1 1/1/1 1 100*
+2009 2 0 0 0 0*
+2010 6 5 5/5/5 5 83.3*
+2011 0 – – – –
+2012 2 2 2/2/2 2 100*
+Bramsche Varus 2007 22 0 0 0 0
+2008 1 0 0 0 0*
+2009 2 1 1/1/1 1 50*
+2010 4 3 3/3/3 3 75*
+2011 1 0 0 0 0*
+2012 2 2 2/1/2 1 100*
+Bramsche Tower 2007 8 1 1/1/1 1 12.5*
+Total 319 131 122/120/124 115 41
+Number of bank voles and Puumala virus (PUUV) strains at each trapping site per year, number of sequences for each PUUV genome segment (S/M/L)
+and the concatenated sequences (S, M, L), and PUUV prevalence in the bank voles. Asterisks indicate prevalence estimates based on vole sample sizes
+lower than 10.
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 549
+Weber de Melo et al. Population dynamics of Puumala virus and its host
+Schledehausen and Bramsche virus clades were closer related
+to each other than to the clade that joined the PUUV
+sequences from the Astrup and Ellerbeck populations.
+Persistence of PUUV types through time
+A high turnover of virus types between years was detected
+in each vole population (Fig. 5, Figure S2), yet a few virus
+sequence types persisted during the eight years of the study
+even for the most variable M segment, despite the high evo-
+lutionary rate of hantaviruses. In our largest single-location
+sample, the Schledehausen population, three M segment
+sequence types persisted through multiple years—two of
+them for at least five years (Fig. 5). For the S and L seg-
+ments, the common sequence types generally persisted
+across multiple years although they were not always sam-
+pled. Even for the concatenated sequences with the highest
+resolution but the lowest sample size (n = 53), two types
+were repeatedly found in the vole population at Schlede-
+hausen in at least four different years. Novel PUUV
+sequences containing nonsynonymous changes were
+repeatedly detected in this vole population, but only one of
+them was detected in multiple years and none of them rose
+to high frequency (Fig. 5). The Astrup population with
+appropriate samples sizes for these analyses (n = 43) pre-
+sented very similar patterns of persistence of sequence types
+during multiple years (Figure S2).
+Population dynamics of PUUV
+Bayesian skyline plot analyses provided no evidence of sig-
+nificant changes in the effective population sizes of the
+Schledehausen and Astrup populations during the eight
+years of our study (Fig. 6), despite large fluctuations in
+virus strain numbers and prevalence (Table 1, Fig. 2). For
+both populations, the 95% highest posterior density (HPD)
+intervals were relatively wide, and there was no obvious
+relationship between virus sample sizes and effective popu-
+lation size, consistent with the persistence of relatively few
+virus types over time. However, the large 95% HPD inter-
+vals suggest that the data do not contain enough informa-
+tion to estimate the effective population size very precisely.
+Analyses with Path-O-Gen revealed a significant correlation
+between root-to-tip tree distances and sampling time, con-
+firming the suitability of this dataset for estimating substi-
+tution rates of PUUV. The median substitution rate of
+PUUV was estimated as 2.70 9 10 4
+substitutions/site/
+year (95% HPD, 1.43 9 10 4
+–4.38 9 10 4
+).
+Genetic diversity of bank voles
+The bank vole microsatellite loci presented between three
+and 47 alleles per locus and population, with expected het-
+erozygosities ranging from 0.50 to 0.95 and observed het-
+erozygosities from 0.24 to 1. Significant deviations from
+HWE were found at nine different loci in population-wise
+analyses, but this pattern was only consistent across the dif-
+ferent populations for three loci. For these, we also detected
+the likely presence of null alleles with estimated frequencies
+of up to 0.37. However, performing all further analyses of
+vole data in parallel with all 17 loci or only with those that
+showed no consistent deviations from HWE or null alleles
+revealed only very minor quantitative and no qualitative
+differences (details not shown). We thus present in the fol-
+lowing the results based on the full microsatellite dataset.
+Population structure of bank voles and PUUV
+F-statistics and Bayesian clustering revealed consistent
+genetic subdivisions among vole sampling localities,
+which were however not consistent with geographical dis-
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+20
+40
+60
+80
+100
+120
+2005 2006 2007 2008 2009 2010 2011 2012
+PUUV
+prevalence
+Voles
+Year
+Voles
+Prevalence
+0
+50
+100
+150
+200
+250
+300
+350
+2005 2006 2007 2008 2009 2010 2011 2012
+PUUV
+human
+infections
+Year
+NI and NW States
+Osnabrück District
+(A)
+(B)
+Figure 2 Puumala virus prevalence in local vole populations and
+human infections in the larger region. (A) Number of voles sampled and
+PUUV prevalence in each year for all sites in the study together. (B)
+PUUV human infections registered per year in the Osnabr€
+uck district
+and in the encompassing German federal states Niedersachsen (NI) and
+Nordrhein-Westfalen (NW) pooled together [data from Robert Koch-
+Institut (2013)].
+550 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+tances. Overall population differentiation was relatively
+low but statistically significant (FST = 0.027; P < 0.001),
+and also all pairwise comparisons among the sampling
+localities were significantly different from zero (FST
+between 0.014 and 0.047; all P < 0.001; Table S4). Clus-
+tering analyses with Structure applying the decision rule
+of Evanno et al. (2005) for the most likely K indicated
+the existence of two major genetic clusters in all voles
+sampled (Fig. 7). The vast majority of individuals from
+Schledehausen were assigned to one cluster, and almost
+all voles from the other four sites were likely to belong
+to the second cluster.
+The membership coefficients (q) of the individuals for
+the clusters showed very little variation across the ten
+Structure runs with K = 2, with an average standard devia-
+tion of 0.0012 (maximum 0.011). PUUV-infected individu-
+als with q < 0.9 for the local population (n = 28) were
+always infected with a strain from the local virus cluster,
+indicating that PUUV transmission must have occurred
+locally if any of these voles were immigrants.
+The inferred population structures of PUUV and bank
+voles did not completely correspond (Fig. 7). The main
+subdivision in the bank voles separated Schledehausen
+from all other populations, which is in contrast to the
+Figure 3 Median-joining networks based on S, M, and L segment sequences of Puumala virus strains obtained from bank voles (Myodes glareolus)
+sampled in the region of Osnabr€
+uck, Germany. Circles indicate PUUV sequence types, and colors indicate the trapping localities of M. glareolus. Cir-
+cle sizes are proportional to the number of individuals sharing that sequence type. Numbers near the branches indicate how many substitutions sepa-
+rate the sequence types, and asterisks indicate the number of nonsynonymous substitutions. Branches without numbers represent one mutation.
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 551
+Weber de Melo et al. Population dynamics of Puumala virus and its host
+astrup_08_034
+eller_07_010
+eller_10_028
+astrup_07_022
+astrup_10_049
+eller_10_032
+astrup_09_042
+astrup_10_059
+astrup_12_078
+eller_07_019
+eller_08_025
+astrup_12_077
+astrup_10_060
+eller_07_020
+astrup_12_073
+astrup_08_035
+astrup_12_079
+astrup_10_044
+astrup_08_036
+astrup_10_046
+astrup_10_053
+astrup_07_018
+astrup_07_017
+astrup_07_011
+astrup_07_009
+astrup_10_050
+astrup_07_020
+astrup_07_013
+astrup_10_054
+astrup_10_058
+astrup_12_076
+astrup_12_075
+astrup_12_067
+astrup_12_080
+eller_07_017
+astrup_10_045
+astrup_10_048
+astrup_12_068
+astrup_10_055
+eller_12_035
+astrup_08_037
+eller_10_029
+eller_10_031
+astrup_07_005
+eller_10_030
+astrup_08_033
+astrup_10_051
+astrup_11_065
+astrup_11_062
+astrup_12_066
+eller_12_034
+astrup_10_056
+astrup_10_057
+astrup_10_052
+astrup_07_003
+eller_07_023
+varus_09_024
+varus_12_032
+varus_10_029
+varus_10_026
+varus_10_027
+tower_07_001
+schle_12_147
+schle_12_150
+schle_12_151
+schle_10_091
+schle_09_068
+schle_12_142
+schle_10_093
+schle_12_143
+schle_12_134
+schle_11_110
+schle_12_154
+schle_10_089
+schle_10_090
+schle_12_152
+schle_08_053
+schle_07_019
+schle_12_138
+schle_12_153
+schle_09_065
+schle_12_132
+schle_12_130
+schle_12_155
+schle_12_146
+schle_10_096
+schle_09_061
+schle_10_099
+schle_07_045
+schle_12_148
+schle_10_083
+schle_11_111
+schle_10_088
+schle_10_098
+schle_10_081
+schle_10_097
+schle_12_131
+schle_10_087
+schle_10_086
+schle_12_149
+schle_10_092
+schle_08_055
+schle_12_136
+schle_05_015
+schle_07_043
+schle_12_144
+schle_07_022
+schle_10_080
+schle_11_124
+schle_08_059
+100
+86
+100
+100
+60.0
+60.0
+(A) (B) (C)
+(D)
+Figure 4 Coalescence-based, tip-dated phylogenetic tree inferred from the concatenated Puumala virus S, M, and L segment sequences with proto-
+type strain Sotkamo as outgroup. (A) General topology of the phylogenetic tree of all analyzed virus sequences with condensed geographical clusters
+displayed in detail in B, C, and D. (B) Cluster formed by viruses from Astrup and Ellerbeck localities. (C) Cluster formed by viruses from the Bramsche
+locality. (D) Cluster formed by viruses from the Schledehausen locality. Sequence names indicate the geographical origin of the sample (schle, Schle-
+dehausen; astrup, Astrup; eller, Ellerbeck; varus, Bramsche Varus; tower, Bramsche Tower), followed by two digits indicating the sampling year. Pos-
+terior probabilities from Bayesian analyses are indicated close to the main branches.
+552 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+topology of subdivision in PUUV populations. We per-
+formed additional Structure analyses with K = 3, which
+could potentially match the level of subdivision in PUUV
+(note that K = 3 had a lower likelihood than K = 2). The
+forced separation of the bank voles into three genetic clus-
+ters still did not match the subdivisions in the viruses, as
+individuals from Schledehausen were mostly assigned to
+one cluster, the majority of voles from Astrup to a second
+cluster, and some individuals from Ellerbeck were assigned
+to the Astrup cluster but most joined the third cluster with
+Bramsche genotypes (Fig. 7).
+Discussion
+This study provides a first comprehensive investigation of
+the spatial and temporal dynamics of PUUV in local popu-
+lations together with its specific reservoir host. We
+detected genetic subdivisions in the bank vole and the
+PUUV populations at a very small geographical scale, but
+the genetic breaks were neither directly associated between
+host and virus, nor with geographical distances. Our per-
+sistence analyses revealed high turnover rates but also the
+presence of several virus types in the populations during
+multiple years of the study. PUUV prevalence in local vole
+populations and the incidence of human infections in the
+larger area did not follow tightly correlated temporal
+dynamics.
+Vole and PUUV population structure
+The fragmented and often very region-specific PUUV out-
+breaks in central Europe have triggered a series of hypothe-
+ses about the transmission mechanisms of PUUV and the
+interactions with bank vole ecology and population
+dynamics (Schwarz et al. 2009; Tersago et al. 2009). Phy-
+logeographic analyses of bank vole mtDNA have shown the
+presence of a single evolutionary lineage in most of Ger-
+many without finer geographical patterns within (W
+ojcik
+et al. 2010; Mertens et al. 2011). Some population-based
+analyses have resolved genetic structuring of bank voles at
+larger geographical scales (Rikalainen et al. 2012; White
+et al. 2013). The extent of genetic differentiation between
+0
+5
+10
+15
+20
+25
+2005 2007 2008 2009 2010 2011 2012
+Number
+of
+samples
+Year
+Schledehausen
+0
+5
+10
+15
+20
+25
+2005 2007 2008 2009 2010 2011 2012
+Number
+of
+samples
+Year
+0
+5
+10
+15
+20
+25
+2005 2007 2008 2009 2010 2011 2012
+Number
+of
+samples
+Year
+0
+5
+10
+15
+20
+25
+2005 2007 2008 2009 2010 2011 2012
+Number
+of
+samples
+Year
+*
+**
+*
+*
+**
+*
+*
+*
+*
+*
+*
+S segment
+SML segments concatenated
+L segment
+M segment
+Figure 5 Persistence of Puumala virus types in the Schledehausen vole population for each genome segment and the three segments concatenated.
+The colors indicate different virus sequence types, and the lines connect the same virus type in different years. Asterisks indicate virus types with non-
+synonymous substitutions. For analogous plots for the Astrup population, see Figure S2 in the Supplementary Material.
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 553
+Weber de Melo et al. Population dynamics of Puumala virus and its host
+the vole populations analyzed here was low but notable
+given the very short distances between the localities. There
+are no obvious barriers to dispersal such as rivers or major
+roads which might restrict gene flow specifically (Gerlach
+and Musolf 2000; Landguth et al. 2010 for general consid-
+erations), maybe except for the Schledehausen village, situ-
+ated partially between the Schledehausen, Astrup, and
+Ellerbeck sites (Fig. 1). To examine whether the separation
+of the Schledehausen population could go back to much
+earlier events, we analyzed the mitochondrial D-loop
+region of several samples from each of the vole populations
+but detected only very low genetic variation and no evi-
+dence of differentiation between the populations (results
+not shown; for methods, see Heckel et al. 2005; Mertens
+et al. 2011).
+Higher genetic differentiation between the PUUV popu-
+lations compared to the voles is consistent with the high
+evolutionary rates in these RNA viruses (Ramsden et al.
+Figure 7 Genetic structure of local Myodes glareolus populations and schematic phylogenetic relationships of associated Puumala virus strains (see
+Fig. 4). The first and second bars present the genetic structure of the bank vole populations based on 17 microsatellite loci computed with Structure
+for K = 2 and K = 3, respectively. Each vertical line represents one individual, the black lines separate samples from different localities, and the colors
+represent the different genetic clusters. The PUUV phylogenetic relationships are based on the concatenated S, M, and L segment sequences.
+Figure 6 Bayesian skyline plots of effective population sizes of the Puumala virus populations Schledehausen and Astrup, based on concatenated S,
+M, and L segment sequences. The black line represents the mean estimate of the effective population size, and the gray area marks the highest pos-
+terior density interval. Bars on the x-axis indicate the number of virus sequences obtained at the respective locality in each year (right y-axis), and the
+colors indicate different virus sequence types.
+554 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+2008; Plyusnin and Sironen 2014; Zhang and Holmes
+2014) and a lower effective size of their haploid genomes
+compared to the diploid hosts (Charlesworth 2009). No
+other study has specifically tested for population structure
+in PUUV, but a series of investigations detected the pres-
+ence of different virus types at different localities (Sironen
+et al. 2001; Johansson et al. 2008; Razzauti et al. 2009).
+Beyond that, few studies have directly connected the inves-
+tigation of genetic population structures in natural hosts
+and fast evolving viruses. For example, Torres-P
+erez et al.
+(2011) found slightly more phylogeographic structure
+across Chile in Andes hantavirus than in its rodent host.
+Biek et al. (2006) showed much weaker structuring in
+North American cougars than in the feline immunodefi-
+ciency viruses carried by them. Thus, stronger genetic
+structuring among populations of fast evolving viruses than
+in their hosts may be more frequent in terrestrial systems
+but may not extend to systems with highly mobile hosts or
+vectors (Spackman et al. 2005; Chen and Holmes 2009; Liu
+et al. 2011, 2012). In our system, the mismatch between
+the deepest levels of host and virus population structure
+(Fig. 7) may be related to, for example, a recent local
+replacement by a more divergent PUUV strain, but it will
+be necessary to extend our sampling to a wider area to test
+such a demographic scenario specifically.
+It is unclear to which extent selection may contribute to
+differences between the virus populations, but the local
+scale of our analyses makes the contribution of ecological
+factors (e.g., habitat differences) rather unlikely. Differ-
+ences between the bank voles as the actual environment in
+which PUUV replicates cannot be excluded given signifi-
+cant population structure, but nonsynonymous differences
+between the major geographical clades were not larger than
+variation within them (Fig. 3). In additional consideration
+of the low population sizes of bank voles in some periods
+(Fig. 2), genetic drift is thus likely to contribute strongly to
+differentiation between PUUV populations at the
+geographical scale investigated here.
+Temporal dynamics of PUUV
+Our results demonstrate high PUUV turnover in local
+bank vole populations but also the persistence of some
+common sequence types through several years. The geo-
+graphically consistent clustering of PUUV sequences
+(Fig. 3) suggests that de novo mutations are a more likely
+source of the new and often transient sequence types
+than transmission from vole immigrants. Potential immi-
+grants, that is, infected voles with assignment values <0.9
+in the Structure analyses, always carried a PUUV type
+found at the site where they were trapped. Our sampling
+scheme is not suitable to examine vole dispersal patterns
+properly (see discussion in Schweizer et al. 2007), but if
+some of these individuals were immigrants, infection
+must have happened in all cases after the individual
+entered the local population.
+The high evolutionary rates of PUUV support also a con-
+tribution of de novo generated variation to local strain
+diversity over the course of the study. Based on our substi-
+tution rate estimates and the concordant ones from Rams-
+den et al. (2008; but see Plyusnin and Sironen 2014; Zhang
+and Holmes 2014), we would expect on average about one
+new substitution per sequenced fragment over the eight
+years of the study. As mutation and substitution rate esti-
+mates may differ strongly between different study systems
+and show large variation across the genome (Sironen et al.
+2001; Nemirov et al. 2010; Plyusnin and Sironen 2014;
+Zhang and Holmes 2014; Sheikh Ali et al. 2015), a more
+precise estimation of the contribution of de novo variation
+to temporal variation in PUUV population diversity will
+have to await dedicated analyses.
+Rapid temporal turnover in RNA viruses is often seen as
+a consequence of their high evolutionary rates and fast
+response to selection (Holmes 2009; Łuksza and L€
+assig
+2014). Fitness differences between strains have been sug-
+gested for PUUV (Sironen et al. 2008) and other viruses
+(Bull and Molineux 2008; Alto et al. 2013), yet our phylo-
+genetic analyses did not reveal the temporal clustering
+often seen in other RNA viruses [e.g., influenza A virus
+(Łuksza and L€
+assig 2014); dengue virus (Twiddy et al.
+2002; Bennett et al. 2003)]. Such a topology is normally
+caused by strong selection in which only very few strains
+with higher fitness give rise to new strains in the next time
+period. The absence of such topologies here (see Fig. 4B,C
+and Figure S1) may suggest that a period of eight years is
+not long enough in PUUV evolution and/or that selection
+was not sufficiently strong. Indeed, PUUV is often seen as
+causing only a minor reduction of the fitness of infected
+reservoir hosts (but see Kallio et al. 2007; Vaheri et al.
+2013b). However, given relatively low local effective popu-
+lation sizes of PUUV (Fig. 6) associated with low popula-
+tion sizes of bank voles in winter (Kallio et al. 2007), it is
+parsimonious to assume an important role of genetic drift
+for PUUV strains in natural populations, and thus, differ-
+ences in persistence periods in the vole populations may
+not be related to any fitness differences between strains.
+Our analyses of partial PUUV genomes likely missed
+genetic variation in these strains, but potential additional
+standing variation or the accumulation of de novo muta-
+tions in other genome regions of the persisting strains can-
+not erase the global patterns of persistence detected here.
+Obviously, full genome data combined with experimental
+approaches would be favorable to assess fitness differences
+between PUUV strains in detail. Additionally, a further
+extended sampling of PUUV – over a longer period of time
+and with multiple sampling times per year – would cer-
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 555
+Weber de Melo et al. Population dynamics of Puumala virus and its host
+tainly deepen our understanding of the viral population
+dynamics in the future.
+Reassortment often contributes to genetic variation in
+RNA viruses with segmented genomes, for example, in
+influenza virus (Nelson and Holmes 2007; Łuksza and
+L€
+assig 2014) and bluetongue virus (Coetzee et al. 2012).
+Natural reassortants were described for the Sin Nombre
+hantavirus (Henderson et al. 1995), and Razzauti et al.
+(2013) reported 19% reassortant viruses in regional PUUV
+populations in central Finland. In the present study, there
+was no evidence of reassortment between the PUUV seg-
+ments or for multiple infection of a vole. Virus strains in
+our study populations are genetically closer to each other
+than in some of the Finnish populations (Razzauti et al.
+2013), which might reduce the probability of detecting re-
+assortment events. The absence of any evidence of reassort-
+ment in our German populations over eight years, though,
+raises the question whether the frequency of multiple infec-
+tions and/or reassortments differs between populations or
+geographical regions stochastically or whether this is related
+to environmental factors. At present, it appears that north-
+ern European PUUV strains might have higher evolution-
+ary potential than central European ones because
+reassortment has been reported more often from northerly
+regions (Plyusnin et al. 1997; Razzauti et al. 2008, 2013).
+However, the more frequent use of sequence data in Fen-
+noscandia may bias the reports of reassortants in the litera-
+ture. Thus, it remains to be tested whether the evolutionary
+avenues of PUUV in Europe might differ even more with
+geography than previously anticipated.
+Conclusion
+This study provides a first bottom-up perspective of the
+population dynamics of PUUV and its natural host, the
+bank vole, at a very fine geographical scale. Our temporal
+analyses indicate limited cofluctuation of PUUV prevalence
+in local natural host populations or host abundance and
+outbreaks in the surrounding human population (Fig. 2;
+but see, Olsson et al. 2003; Kallio et al. 2009; Tersago et al.
+2009, 2011). The marked substructure among PUUV from
+different localities, together with the high level of variability
+and the appearance and disappearance of apparently only
+slightly different sequence types in local vole populations,
+offers the opportunity to develop strain distribution maps.
+PUUV sequence information from human infections could
+then be used to identify at a relatively fine scale the geo-
+graphical region where and potentially under which cir-
+cumstances the transmission of the virus to the patient
+occurred. Coupling investigations of natural host popula-
+tions with molecular data from human patients would thus
+open new possibilities for an epidemiological understand-
+ing of PUUV, and potentially for ‘uncovering the mysteries
+of hantavirus infections’ (Vaheri et al. 2013b) in general.
+Acknowledgements
+We thank Susanne Tellenbach and Mathias Beysard for
+technical assistance, and the anonymous reviewers and
+Heikki Henttonen for helpful suggestions. Support was
+provided by Jonas Schmidt-Chanasit, Steffi Mikolajczyk,
+Britta Oltmann in trapping, many helpers in dissection,
+Mathias Schlegel, D€
+orte Kaufmann, Ina R€
+omer, and Jana
+Blumhard in serology, and G€
+unther Strebelow in sequenc-
+ing. HSA acknowledges an Eastern and Southern Africa
+scholarship, code number A/09/90015, from German Aca-
+demic Exchange Service desk number 413. The work was
+supported by grants from Bundesministerium f€
+ur Ern€
+ah-
+rung, Landwirtschaft und Verbraucherschutz (FKZ
+07HS027), Robert Koch-Institut (Fo_1362/1-924, FKZ
+1362/1-980), Deutsche Forschungsgemeinschaft (SPP 1596
+‘Ecology and species barriers in emerging viral diseases’,
+UL 405/1-1) and F€
+orderverein of the Friedrich-Loeffler-
+Institut to RGU, and the Swiss National Science Founda-
+tion (31003A-149585) to GH.
+Data archiving statement
+Earlier sequence data are available on GenBank under the
+accession numbers JN696358, JN696364, JN696355,
+DQ518217, and KJ994776-KJ994778, and new sequence
+data under KR047195-KR047313 (S segment), KR047314-
+KR047431 (M segment), and KR047432-KR047554 (L
+segment). Microsatellite genotypes and location data are
+available in Dryad number doi:10.5061/dryad.p1k7k and
+phylogenetic data in TreeBASE http://purl.org/phylo/tree-
+base/phylows/study/TB2:S17360.
+Literature cited
+Ali, H. S., S. Drewes, V. Weber de Melo, M. Schlegel, J. Freise, M. H.
+Groschup, G. Heckel et al. 2015. Complete genome of a Puumala
+virus strain from Central Europe. Virus Genes 50:292–298.
+Alto, B. W., B. R. Wasik, N. M. Morales, and P. E. Turner 2013. Stochastic
+temperatures impede RNA virus adaptation. Evolution 67:969–979.
+Bandelt, H. J., P. Forster, and A. Rohl 1999. Median-joining networks
+for inferring intraspecific phylogenies. Molecular Biology and Evolu-
+tion 16:37–48.
+Bennett, S. N., E. C. Holmes, M. Chirivella, D. M. Rodriguez, M. Beltran,
+V. Vorndam, D. J. Gubler et al. 2003. Selection-driven evolution of
+emergent dengue virus. Molecular Biology and Evolution 20:1650–
+1658.
+Biek, R., A. J. Drummond, and M. Poss 2006. A virus reveals population
+structure and recent demographic history of its carnivore host. Sci-
+ence 311:538–541.
+556 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+Bouckaert, R., J. Heled, D. K€
+uhnert, T. G. Vaughan, C.-H. Wu, D. Xie,
+M. Suchard et al. 2014. BEAST 2: a software platform for Bayesian
+evolutionary analysis. PLoS Computational Biology 10:e1003537.
+Bull, J. J., and I. J. Molineux 2008. Predicting evolution from genomics:
+experimental evolution of bacteriophage T7. Heredity 100:453–463.
+Charlesworth, B. 2009. Fundamental concepts in genetics: effective pop-
+ulation size and patterns of molecular evolution and variation. Nature
+Reviews Genetics 10:195–205.
+Chen, R., and E. C. Holmes 2009. Hitchhiking and the population
+genetic structure of avian influenza virus. Journal of Molecular Evolu-
+tion 70:98–105.
+Cleaveland, S., M. K. Laurenson, and L. H. Taylor 2001. Diseases of
+humans and their domestic mammals: pathogen characteristics, host
+range and the risk of emergence. Philosophical Transactions of the
+Royal Society of London. Series B, Biological Sciences 356:991–999.
+Coetzee, P., M. Van Vuuren, M. Stokstad, M. Myrmel, and E. H. Venter
+2012. Bluetongue virus genetic and phenotypic diversity: towards
+identifying the molecular determinants that influence virulence and
+transmission potential. Veterinary Microbiology 161:1–12.
+Cox-Singh, J. 2012. Zoonotic malaria: Plasmodium knowlesi, an emerging
+pathogen. Current Opinion in Infectious Diseases 25:530–536.
+Darriba, D., G. L. Taboada, R. Doallo, and D. Posada 2012. jModelTest
+2: more models, new heuristics and parallel computing. Nature Meth-
+ods 9:772.
+Drummond, A. J., A. Rambaut, B. Shapiro, and O. G. Pybus 2005. Bayes-
+ian coalescent inference of past population dynamics from molecular
+sequences. Molecular Biology and Evolution 22:1185–1192.
+Drummond, A. J., M. A. Suchard, D. Xie, and A. Rambaut 2012. Bayes-
+ian phylogenetics with BEAUti and the BEAST 1.7. Molecular Biology
+and Evolution 29:1969–1973.
+Escutenaire, S., P. Chalon, P. Heyman, G. Van der Auwera, G. van der
+Groen, R. Verhagen, I. Thomas et al. 2001. Genetic characterization
+of Puumala hantavirus from Belgium: evidence for a distinct phyloge-
+netic lineage. Virus Research 74:1–15.
+Essbauer, S., J. Schmidt, F. J. Conraths, R. Friedrich, J. Koch, W. Haut-
+mann, M. Pfeffer et al. 2006. A new Puumala hantavirus subtype in
+rodents associated with an outbreak of Nephropathia epidemica in
+South-East Germany in 2004. Epidemiology and Infection 134:1333–
+1344.
+Evanno, G., S. Regnaut, and J. Goudet 2005. Detecting the number of
+clusters of individuals using the software Structure: a simulation
+study. Molecular Ecology 14:2611–2620.
+Excoffier, L., and H. E. Lischer 2010. Arlequin suite ver. 3.5: a new series
+of programs to perform population genetics analyses under Linux and
+Windows. Molecular Ecology Resources 10:564–567.
+Falush, D., M. Stephens, and J. K. Pritchard 2003. Inference of popula-
+tion structure using multilocus genotype data: linked loci and corre-
+lated allele frequencies. Genetics 164:1567–1587.
+Fink, S., M. C. Fischer, L. Excoffier, and G. Heckel 2010. Genomic scans
+support repetitive continental colonization events during the rapid
+radiation of voles (Rodentia: Microtus): the utility of AFLPs versus
+mitochondrial and nuclear sequence markers. Systematic Biology
+59:548–572.
+Gerlach, G., and K. Musolf 2000. Fragmentation of landscape as a cause
+for genetic subdivision in bank voles. Conservation Biology 14:1066–
+1074.
+Gire, S. K., A. Goba, K. G. Andersen, R. S. G. Sealfon, D. J. Park, L. Kan-
+neh, S. Jalloh et al. 2014. Genomic surveillance elucidates Ebola virus
+origin and transmission during the 2014 outbreak. Science 345:1369–
+1372.
+Gockel, J., B. Haar, C. Schl€
+otterer, W. Arnold, G. Gerlach, and D. Tautz
+1997. Isolation and characterization of microsatellite loci from Apode-
+mus flavicollis (Rodentia, Muridae) and Clethrionomys glareolus (Rod-
+entia, Cricetidae). Molecular Ecology 6:597–599.
+Guivier, E., M. Galan, Y. Chaval, A. Xu
+ereb, A. Ribas Salvador, M. L.
+Poulle, L. Voutilainen et al. 2011. Landscape genetics highlights the
+role of bank vole metapopulation dynamics in the epidemiology of
+Puumala hantavirus. Molecular Ecology 20:3569–3583.
+Guo, W.-P., X.-D. Lin, W. Wang, J.-H. Tian, M.-L. Cong, H.-L. Zhang,
+M.-R. Wang et al. 2013. Phylogeny and origins of hantaviruses har-
+bored by bats, insectivores, and rodents. PLoS Pathogens 9:e1003159.
+Hahne, J., T. Jenkins, S. Halle, and G. Heckel 2011. Establishment suc-
+cess and resulting fitness consequences for vole dispersers. Oikos
+120:95–105.
+Hall, T. A. 1999. BioEdit: a user-friendly biological sequence alignment
+editor and analysis program for Windows 95/98/NT. Nucleic Acids
+Symposium Series 41:95–98.
+Heckel, G., R. Burri, S. Fink, J.-F. Desmet, and L. Excoffier 2005. Genetic
+structure and colonization processes in European populations of the
+common vole, Microtus arvalis. Evolution 59:2231–2242.
+Henderson, W. W., M. C. Monroe, S. C. St Jeor, W. P. Thayer, J. E.
+Rowe, C. J. Peters, and S. T. Nichol 1995. Naturally occurring Sin
+Nombre virus genetic reassortants. Virology 241:602–610.
+Holmes, E. C. 2009. The evolutionary genetics of emerging viruses.
+Annual Review of Ecology, Evolution, and Systematics 40:353–372.
+Johansson, P., G. E. Olsson, H.-T. Low, G. Bucht, C. Ahlm, P. Juto, and
+F. Elgh 2008. Puumala hantavirus genetic variability in an endemic
+region (Northern Sweden). Infection, Genetics and Evolution 8:286–
+296.
+Jones, K. E., N. G. Patel, M. A. Levy, A. Storeygard, D. Balk, J. L. Gittle-
+man, and P. Daszak 2008. Global trends in emerging infectious dis-
+eases. Nature 451:990–993.
+Kallio, E. R., L. Voutilainen, O. Vapalahti, A. Vaheri, H. Henttonen, E.
+Koskela, and T. Mappes 2007. Endemic hantavirus infection impairs
+the winter survival of its rodent host. Ecology 88:1911–1916.
+Kallio, E. R., M. Begon, H. Henttonen, E. Koskela, T. Mappes, A. Vaheri,
+and O. Vapalahti 2009. Cyclic hantavirus epidemics in humans – pre-
+dicted by rodent host dynamics. Epidemics 1:101–107.
+Klempa, B., E. Fichet-Calvet, E. Lecompte, B. Auste, V. Aniskin, H. Mei-
+sel, C. Denys et al. 2006. Hantavirus in African wood mouse, Guinea.
+Emerging Infectious Diseases 12:838–840.
+Landguth, E. L., S. A. Cushman, M. K. Schwartz, K. S. McKelvey, M.
+Murphy, and G. Luikart 2010. Quantifying the lag time to detect bar-
+riers in landscape genetics. Molecular Ecology 19:4179–4191.
+Librado, P., and J. Rozas 2009. DnaSP v5: a software for comprehensive
+analysis of DNA polymorphism data. Bioinformatics 25:1451–1452.
+Liu, Y., I. Keller, and G. Heckel 2011. Range-wide genetic population
+structure of common pochard (Aythya ferina): a potentially important
+vector of highly pathogenic avian influenza viruses. Ecology and Evo-
+lution 1:529–545.
+Liu, Y., I. Keller, and G. Heckel 2012. Breeding site fidelity and winter
+admixture in a long-distance migrant, the tufted duck (Aythya fuligu-
+la). Heredity 109:108–116.
+Łuksza, M., and M. L€
+assig 2014. A predictive fitness model for influenza.
+Nature 507:57–61.
+Martin, D. P., P. Lemey, M. Lott, V. Moulton, D. Posada, and P. Lefeu-
+vre 2010. RDP3: a flexible and fast computer program for analyzing
+recombination. Bioinformatics 26:2462–2463.
+Mertens, M., E. Kindler, P. Emmerich, J. Esser, C. Wagner-Wiening, R.
+W€
+olfel, R. Petraityte-Burneikiene et al. 2011. Phylogenetic analysis of
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 557
+Weber de Melo et al. Population dynamics of Puumala virus and its host
+Puumala virus subtype Bavaria, characterization and diagnostic use of
+its recombinant nucleocapsid protein. Virus Genes 43:177–191.
+Miller, M. A., W. Pfeiffer, and T. Schwartz. 2010 Creating the CIPRES
+Science Gateway for inference of large phylogenetic trees. In Proceed-
+ings of the Gateway Computing Environments Workshop (GCE).
+Morse, S. S., J. A. Mazet, M. Woolhouse, C. R. Parrish, D. Carroll, W. B.
+Karesh, C. Zambrana-Torrelio et al. 2012. Prediction and prevention
+of the next pandemic zoonosis. The Lancet 380:1956–1965.
+Nelson, M. I., and E. C. Holmes 2007. The evolution of epidemic influ-
+enza. Nature Reviews Genetics 8:196–205.
+Nemirov, K., H. Leirs, A. Lundkvist, and G. E. Olsson 2010. Puumala
+hantavirus and Myodes glareolus in northern Europe: no evidence of
+co-divergence between genetic lineages of virus and host. Journal of
+General Virology 91:1262–1274.
+Olsson, G. E., F. Dalerum, B. Hoernfeldt, F. Elgh, T. R. Palo, P. Juto, and
+C. Ahlm 2003. Human hantavirus infections, Sweden. Emerging Infec-
+tious Diseases 9:1395–1401.
+Parker, J., A. Rambaut, and O. G. Pybus 2008. Correlating viral pheno-
+types with phylogeny: accounting for phylogenetic uncertainty. Infec-
+tion, Genetics and Evolution 8:239–246.
+Pilaski, J., H. Feldmann, S. Morzunov, P. E. Rollin, S. L. Ruo, B. Lauer,
+C. J. Peters et al. 1994. Genetic identification of a new Puumala virus
+strain causing severe hemorrhagic fever with renal syndrome in Ger-
+many. Journal of Infectious Diseases 170:1456–1462.
+Plyusnin, A., and T. Sironen 2014. Evolution of hantaviruses: co-specia-
+tion with reservoir hosts for more than 100 MYR. Virus Research
+187:22–26.
+Plyusnin, A., J. H€
+orling, M. Kanerva, J. Mustonen, Y. Cheng, H. Parta-
+nen, O. Vapalahti et al. 1997. Puumala hantavirus genome in patients
+with nephropathia epidemica: correlation of PCR positivity with HLA
+haplotype and link to viral sequences in local rodents. Journal of Clin-
+ical Microbiology 35:1090–1096.
+Pritchard, J. K., M. Stephens, and P. Donnelly 2000. Inference of popula-
+tion structure using multilocus genotype data. Genetics 155:945–959.
+Rambaut, A., and A. J. Drummond 2007. Tracer v1.4. http://beast.bio.e-
+d.ac.uk/Tracer (accessed on 15 July 2014).
+Ramsden, C., F. L. Melo, L. M. Figueiredo, E. C. Holmes, and P. M. A.
+Zanotto 2008. High rates of molecular evolution in hantaviruses.
+Molecular Biology and Evolution 25:1488–1492.
+Razzauti, M., A. Plyusnina, H. Henttonen, and A. Plyusnin 2008. Accu-
+mulation of point mutations and reassortment of genomic RNA seg-
+ments are involved in the microevolution of Puumala hantavirus in a
+bank vole (Myodes glareolus) population. Journal of General Virology
+89:1649–1660.
+Razzauti, M., A. Plyusnina, T. Sironen, H. Henttonen, and A. Plyusnin
+2009. Analysis of Puumala hantavirus in a bank vole population in
+northern Finland: evidence for co-circulation of two genetic lineages
+and frequent reassortment between strains. Journal of General Virol-
+ogy 90:1923–1931.
+Razzauti, M., A. Plyusnina, H. Henttonen, and A. Plyusnin 2013. Micro-
+evolution of Puumala hantavirus during a complete population cycle
+of its host, the bank vole (Myodes glareolus). PLoS ONE 8:e64447.
+Rikalainen, K., A. Grapputo, E. Knott, E. Koskela, and T. Mappes 2008.
+A large panel of novel microsatellite markers for the bank vole (My-
+odes glareolus). Molecular Ecology Resources 8:1164–1168.
+Rikalainen, K., J. Aspi, J. A. Galarza, E. Koskela, and T. Mappes 2012.
+Maintenance of genetic diversity in cyclic populations – a longitudinal
+analysis in Myodes glareolus. Ecology and Evolution 2:1491–1502.
+Robert Koch-Institut 2013. SurvStat@RKI. http://www3.rki.de/SurvStat,
+deadline: 29.11.2013 2013 (accessed on 29 November 2013).
+Rosenberg, N. A. 2004. DISTRUCT: a program for the graphical display
+of population structure. Molecular Ecology Notes 4:137–138.
+Schlegel, M., J. Jacob, D. H. Kr€
+uger, A. Rang, and R. G. Ulrich 2014.
+Hantavirus emergence in rodents, insectivores and bats: what comes
+next? In N. Johnson, ed. The Role of Animals in Emerging Viral Dis-
+eases, pp. 235–292. Academic Press, Boston, MA.
+Schwarz, A. C., U. Ranft, I. Piechotowski, J. E. Childs, and S. O. Brock-
+mann 2009. Risk factors for human infection with Puumala virus,
+Southwestern Germany. Emerging Infectious Diseases 15:1032–1039.
+Schweizer, M., L. Excoffier, and G. Heckel 2007. Fine-scale genetic struc-
+ture and dispersal in the common vole (Microtus arvalis). Molecular
+Ecology 16:2463–2473.
+Sironen, T., A. Vaheri, and A. Plyusnin 2001. Molecular evolution of
+Puumala hantavirus. Journal of Virology 75:11803–11810.
+Sironen, T., A. Plyusnina, H. K. Andersen, J. Lodal, H. Leirs, J.
+Niemimaa, H. Henttonen et al. 2002. Distribution of Puumala
+hantavirus in Denmark: analysis of bank voles (Clethrionomys
+glareolus) from Fyn and Jutland. Vector Borne and Zoonotic Diseases
+2:37–45.
+Sironen, T., E. R. Kallio, A. Vaheri, A. Lundkvist, and A. Plyusnin 2008.
+Quasispecies dynamics and fixation of a synonymous mutation
+in hantavirus transmission. Journal of General Virology
+89:1309–1313.
+Spackman, E., D. E. Stallknecht, R. D. Slemons, K. Winker, D. L. Suarez,
+M. Scott, and D. E. Swayne 2005. Phylogenetic analyses of type A
+influenza genes in natural reservoir species in North America reveals
+genetic variation. Virus Research 114:89–100.
+Tamura, K., D. Peterson, N. Peterson, G. Stecher, M. Nei, and S. Kumar
+2011. MEGA5: Molecular Evolutionary Genetics Analysis using maxi-
+mum likelihood, evolutionary distance, and maximum parsimony
+methods. Molecular Biology and Evolution 28:2731–2739.
+Tersago, K., R. Verhagen, A. Servais, P. Heyman, G. Ducoffre, and H. Le-
+irs 2009. Hantavirus disease (nephropathia epidemica) in Belgium:
+effects of tree seed production and climate. Epidemiology and Infec-
+tion 137:250–256.
+Tersago, K., R. Verhagen, O. Vapalahti, P. Heyman, G. Ducoffre, and H.
+Leirs 2011. Hantavirus outbreak in Western Europe: reservoir host
+infection dynamics related to human disease patterns. Epidemiology
+and Infection 139:381–390.
+Tersago, K., L. Crespin, R. Verhagen, and H. Leirs 2012. Impact of
+Puumala virus infection on maturation and survival in bank voles: a
+capture-mark-recapture analysis. Journal of Wildlife Diseases
+48:148–156.
+Torres-P
+erez, F., R. E. Palma, B. Hjelle, E. C. Holmes, and J. A. Cook
+2011. Spatial but not temporal co-divergence of a virus and its mam-
+malian host. Molecular Ecology 20:4109–4122.
+Twiddy, S. S., J. J. Farrar, N. Vinh Chau, B. Wills, E. A. Gould, T. Grit-
+sun, G. Lloyd et al. 2002. Phylogenetic relationships and differential
+selection pressures among genotypes of dengue-2 virus. Virology
+298:63–72.
+Vaheri, A., H. Henttonen, L. Voutilainen, J. Mustonen, T. Sironen, and
+O. Vapalahti 2013a. Hantavirus infections in Europe and their impact
+on public health. Reviews in Medical Virology 23:35–49.
+Vaheri, A., T. Strandin, J. Hepojoki, T. Sironen, H. Henttonen, S.
+M€
+akel€
+a, and J. Mustonen 2013b. Uncovering the mysteries of hantavi-
+rus infections. Nature Reviews Microbiology 11:539–550.
+Van Oosterhout, C., W. F. Hutchinson, D. P. M. Wills, and P. Shipley
+2004. MICRO-CHECKER: software for identifying and correcting
+genotyping errors in microsatellite data. Molecular Ecology Notes
+4:535–538.
+558 © 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559
+Population dynamics of Puumala virus and its host Weber de Melo et al.
+White, T. A., S. E. Perkins, G. Heckel, and J. B. Searle 2013. Adaptive
+evolution during an ongoing range expansion: the invasive
+bank vole (Myodes glareolus) in Ireland. Molecular Ecology
+22:2971–2985.
+W
+ojcik, J. M., A. Kawałko, S. Markov
+a, J. B. Searle, and P. Kotl
+ık 2010.
+Phylogeographic signatures of northward post-glacial colonization
+from high-latitude refugia: a case study of bank voles using museum
+specimens. Journal of Zoology 281:249–262.
+Zhang, Y. Z., and E. C. Holmes 2014. What is the time-scale of hantavi-
+rus evolution? Infection, Genetics and Evolution 25:144–145.
+Supporting Information
+Additional Supporting Information may be found in the online version
+of this article:
+Figure S1. Neighbor-joining phylogenetic tree inferred from concate-
+nated S, M and L Puumala virus (PUUV) sequences with strain Sotkamo
+as an outgroup.
+Figure S2. Persistence of Puumala virus types in the Astrup vole pop-
+ulation for each genome segment and for the three segments concate-
+nated.
+Table S1. Primers used for RT-PCR amplification and sequencing of
+Puumala virus S, M and L segments.
+Table S2. Pairwise FST values (lower diagonal) and P-values (upper
+diagonal) for the Puumala virus populations at five localities.
+Table S3. Pairwise FST values (lower diagonal) and P-values (upper
+diagonal) for the Puumala virus populations Schledehausen (Schle) and
+Astrup.
+Table S4. Pairwise FST values (lower diagonal) and P-values (upper
+diagonal) for the bank vole populations at five localities.
+© 2015 The Authors. Evolutionary Applications published by John Wiley & Sons Ltd 8 (2015) 545–559 559
+Weber de Melo et al. Population dynamics of Puumala virus and its host

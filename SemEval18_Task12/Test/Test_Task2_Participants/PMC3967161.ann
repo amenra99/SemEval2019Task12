@@ -1,0 +1,102 @@
+T3	Protein 0 7	Viruses
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 101 108	Article
+#4	AnnotatorNotes T4	END
+T5	Protein 194 198	Miša
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 1091 1095	2013
+#6	AnnotatorNotes T6	END
+T7	Protein 2375 2379	OPEN
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 2403 2407	3072
+#8	AnnotatorNotes T8	END
+T9	Protein 2580 2588	Keywords
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 2645 2659	phylogeography
+#10	AnnotatorNotes T10	END
+T11	Protein 8793 8800	Viruses
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 8809 8813	3074
+#12	AnnotatorNotes T12	END
+T13	Location 185 193	Slovenia
+T14	Location 1106 1114	Slovenia
+T15	Location 2679 2687	Slovenia
+T16	Location 2840 2847	Pohorje
+T17	Location 2969 2977	Slovenia
+T18	Location 3077 3084	Dobrava
+T19	Location 3640 3648	Slovenia
+T20	Location 3830 3838	Slovenia
+T21	Location 4592 4600	Slovenia
+T22	Location 5104 5112	Slovenia
+T23	Location 5441 5449	Slovenia
+T24	Location 5488 5492	Alps
+T25	Location 5498 5512	Pannonic basin
+T26	Location 5522 5531	Dinarides
+T27	Location 5598 5606	Slovenia
+T28	Location 6938 6946	Slovenia
+T29	Location 8013 8021	Slovenia
+T30	Location 8457 8465	Slovenia
+T31	Location 8906 8914	Slovenia
+T32	Location 9110 9118	Slovenia
+T33	Location 11553 11561	Slovenia
+T34	Protein 11532 11539	Viruses
+#34	AnnotatorNotes T34	BEGIN
+T35	Protein 11548 11552	3076
+#35	AnnotatorNotes T35	END
+T36	Location 15367 15375	Slovenia
+T37	Location 16281 16289	Slovenia
+T38	Location 16381 16392	Tallahassee
+T39	Location 16394 16396	FL
+T40	Location 16398 16401	USA
+T41	Location 16427 16436	Australia
+T42	Location 16420 16425	Upwey
+T43	Location 17489 17494	Venlo
+T44	Location 17500 17511	Netherlands
+T45	Location 17676 17679	USA
+T46	Location 17672 17674	NM
+T47	Location 17662 17670	Carlsbad
+T48	Location 17841 17846	Venlo
+T49	Location 17852 17863	Netherlands
+T50	Location 18566 18574	Carlsbad
+T51	Location 18576 18578	NM
+T52	Location 18580 18583	USA
+T53	Location 18816 18819	USA
+T54	Location 19626 19629	USA
+T55	Location 20270 20273	USA
+T56	Location 21211 21214	USA
+T57	Location 22180 22183	USA
+T58	Location 18812 18814	NM
+T59	Location 19622 19624	NM
+T60	Location 20266 20268	NM
+T61	Location 21207 21209	NM
+T62	Location 22176 22178	NM
+T63	Location 18802 18810	Carlsbad
+T64	Location 19612 19620	Carlsbad
+T65	Location 20256 20264	Carlsbad
+T66	Location 21197 21205	Carlsbad
+T67	Location 22166 22174	Carlsbad
+T68	Location 22290 22296	Aarhus
+T69	Location 22298 22305	Denmark
+T70	Location 23270 23278	Slovenia
+T71	Location 23305 23309	Alps
+T72	Location 23315 23328	Mediterranean
+T73	Location 23334 23349	Pannonian basin
+T74	Location 23358 23365	Dinaric
+T75	Location 23578 23586	Slovenia
+T76	Location 27033 27041	Slovenia
+T77	Location 27594 27602	Slovenia
+T78	Location 27971 27979	Slovenia
+T79	Location 28392 28400	Slovenia
+T80	Location 29427 29435	Slovenia
+T81	Protein 29889 29896	Viruses
+#81	AnnotatorNotes T81	BEGIN
+T82	Protein 29905 29909	3084
+#82	AnnotatorNotes T82	END
+T83	Location 30168 30176	Slovenia
+T84	Location 30246 30254	Slovenia
+T85	Location 31995 32003	Slovenia
+T86	Location 24454 24462	Slovenia
+T1	Protein 32340 32355	Acknowledgments
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 39795 39798	/).
+#2	AnnotatorNotes T2	END

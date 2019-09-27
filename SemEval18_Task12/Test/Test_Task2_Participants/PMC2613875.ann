@@ -1,0 +1,164 @@
+T1	Protein 0 6	BioMed
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 112 119	article
+#2	AnnotatorNotes T2	END
+T3	Protein 213 217	Yuki
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1678 1690	contributors
+#4	AnnotatorNotes T4	END
+T5	Protein 3359 3368	Published
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4029 4030	)
+#6	AnnotatorNotes T6	END
+T7	Protein 11208 11211	BMC
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 11337 11338	)
+#8	AnnotatorNotes T8	END
+T9	Protein 13638 13641	BMC
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 13767 13768	)
+#10	AnnotatorNotes T10	END
+T11	Protein 14626 14629	BMC
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14755 14756	)
+#12	AnnotatorNotes T12	END
+T13	Protein 16579 16582	BMC
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16708 16709	)
+#14	AnnotatorNotes T14	END
+T15	Protein 22439 22442	BMC
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 22568 22569	)
+#16	AnnotatorNotes T16	END
+T17	Protein 24555 24564	Competing
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 31665 31666	.
+#18	AnnotatorNotes T18	END
+T19	Location 206 212	Brazil
+T20	Location 2119 2125	Brazil
+T21	Location 1846 1859	Latin America
+T22	Location 2359 2365	Brazil
+T23	Location 2996 3002	Brazil
+T24	Location 4199 4205	Mexico
+T25	Location 4209 4215;4216 4220	Argen- tina
+T26	Location 4388 4402	Santa Catarina
+T27	Location 4406 4412	Brazil
+T28	Location 4749 4755	Brazil
+T29	Location 5745 5751	Brazil
+T30	Location 6215 6221	Brazil
+T31	Location 6338 6346	Brasília
+T32	Location 6354 6370	Federal District
+T33	Location 6403 6408	Goiás
+T34	Location 6425 6433	Maranhão
+T35	Location 6449 6461	Minas Gerais
+T36	Location 6476 6494	Mato Grosso do Sul
+T37	Location 6510 6514;6515 6521	Mato Grosso
+T38	Location 6537 6541	Pará
+T39	Location 6556 6563	Paraíba
+T40	Location 6578 6592	Rio de Janeiro
+T41	Location 6608 6617	São Paulo
+T42	Location 6637 6646	Tocantins
+T43	Location 6916 6918	GO
+T44	Location 6929 6931	MA
+T45	Location 6941 6943	MT
+T46	Location 6954 6956	MG
+T47	Location 6966 6968	PB
+T48	Location 6979 6981	PA
+T49	Location 6991 6999	Rondônia
+T50	Location 7014 7016	SP
+T51	Location 7030 7032	TO
+T52	Location 7321 7323	GO
+T53	Location 7334 7336	RJ
+T54	Location 7350 7352	SP
+T55	Location 9127 9132	Tokyo
+T56	Location 9134 9139	Japan
+T57	Location 11549 11551	GO
+T58	Location 11553 11555	MA
+T59	Location 11557 11559	MT
+T60	Location 11565 11567	SP
+T61	Location 12820 12826	Brazil
+T62	Location 13129 13137	Brasília
+T63	Location 13150 13166	Federal District
+T64	Location 13172 13177	Goiás
+T65	Location 13168 13170	GO
+T66	Location 13125 13127	DF
+T67	Location 13185 13187	MA
+T68	Location 13189 13197	Maranhão
+T69	Location 13205 13207	MG
+T70	Location 13209 13221	Minas Gerais
+T71	Location 13229 13231	MT
+T72	Location 13233 13237;13238 13244	Mato Grosso
+T73	Location 13252 13254	MS
+T74	Location 13256 13274	Mato Grosso do Sul
+T75	Location 13282 13284	RJ
+T76	Location 13286 13300	Rio de Janeiro
+T77	Location 13308 13310	RO
+T78	Location 13312 13320	Rondônia
+T79	Location 13328 13330	PA
+T80	Location 13332 13336	Pará
+T81	Location 13344 13346	PB
+T82	Location 13348 13355	Paraíba
+T83	Location 13367 13376	São Paulo
+T84	Location 13363 13365	SP
+T85	Location 13384 13386	TO
+T86	Location 13388 13397	Tocantins
+T87	Location 13602 13604	RO
+T88	Location 13605 13607	PA
+T89	Location 13608 13610	MS
+T90	Location 13611 13613	MT
+T91	Location 13614 13616	SP
+T92	Location 13617 13619	RJ
+T93	Location 13620 13622	MG
+T94	Location 13623 13625	GO
+T95	Location 13626 13628	DF
+T96	Location 13629 13631	PB
+T97	Location 13632 13634	MA
+T98	Location 13635 13637	TO
+T99	Location 13980 13988	Maranhão
+T100	Location 13999 14008	Tocantins
+T101	Location 14019 14028	São Paulo
+T102	Location 14039 14053	Rio de Janeiro
+T103	Location 14064 14075	Mato Grosso
+T104	Location 14086 14091	Goiás
+T105	Location 14102 14110	Brasília
+T106	Location 14123 14139	Federal District
+T107	Location 14148 14166	Mato Grosso do Sul
+T108	Location 14902 14908	Brazil
+T109	Location 15272 15274	GO
+T110	Location 15276 15278	MT
+T111	Location 15283 15285	MS
+T112	Location 15618 15620	GO
+T113	Location 15705 15707	GO
+T114	Location 15762 15764	RJ
+T115	Location 15826 15828	MG
+T116	Location 15830 15832	SP
+T117	Location 15837 15839	RJ
+T125	Location 16888 16890	GO
+T126	Location 18270 18272	GO
+T127	Location 18361 18363	MT
+T128	Location 18434 18436	PA
+T129	Location 18516 18518	RJ
+T130	Location 18582 18584	SP
+T131	Location 18672 18674	TO
+T132	Location 18745 18747	MT
+T133	Location 20246 20252	Brazil
+T134	Location 20358 20364	Brazil
+T135	Location 24088 24094	Brazil
+T136	Location 6372 6374	DF
+T137	Location 6410 6412	GO
+T138	Location 6435 6437	MA
+T139	Location 6463 6465	MG
+T140	Location 6496 6498	MS
+T141	Location 6523 6525	MT
+T142	Location 6543 6545	PA
+T143	Location 6565 6567	PB
+T144	Location 6594 6596	RJ
+T145	Location 6619 6621	SP
+T146	Location 6648 6650	TO
+T147	Location 7001 7003	RO
+T148	Protein 9328 9331	BMC
+#148	AnnotatorNotes T148	BEGIN
+T149	Protein 9457 9458	)
+#149	AnnotatorNotes T149	END
+T150	Location 21433 21446	North America
+T151	Location 6886 6888	DF

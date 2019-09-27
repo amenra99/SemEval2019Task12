@@ -1,0 +1,87 @@
+T1	Protein 0 6	© 2014
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 856 862	S47385
+#2	AnnotatorNotes T2	END
+T3	Protein 921 928	Massimo
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1239 1241	it
+#4	AnnotatorNotes T4	END
+T5	Protein 3139 3147	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3209 3215	stroke
+#6	AnnotatorNotes T6	END
+T7	Protein 4022 4028	Number
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4278 4280	al
+#8	AnnotatorNotes T8	END
+T9	Protein 7654 7662	Clinical
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 7773 7785	fibrillation
+#10	AnnotatorNotes T10	END
+T11	Protein 13278 13286	Clinical
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 13390 13392	al
+#12	AnnotatorNotes T12	END
+T13	Protein 17214 17222	Clinical
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 17333 17345	fibrillation
+#14	AnnotatorNotes T14	END
+T15	Protein 22851 22859	Clinical
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 22963 22965	al
+#16	AnnotatorNotes T16	END
+T17	Protein 26471 26481	Disclosure
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 37271 37273	al
+#18	AnnotatorNotes T18	END
+T19	Location 4372 4378	Europe
+T20	Location 5269 5275	Europe
+T21	Location 5948 5954	Europe
+T22	Location 6035 6040	Italy
+T23	Location 6042 6049	Iceland
+T24	Location 6055 6062	England
+T25	Location 6074 6081	Germany
+T26	Location 6096 6102	Sweden
+T27	Location 6136 6143	Iceland
+T28	Location 6454 6457	USA
+T29	Location 7316 7319	USA
+T30	Location 7522 7527	Italy
+T31	Location 7514 7521	Iceland
+T32	Location 7528 7535	Germany
+T33	Location 7536 7543	England
+T34	Location 7544 7550	Sweden
+T35	Location 9673 9676	USA
+T36	Location 9899 9905	Europe
+T37	Location 10057 10064	Iceland
+T38	Location 10076 10083	Germany
+T39	Location 10095 10103	Scotland
+T40	Location 10134 10140	Europe
+T41	Location 10258 10261	USA
+T42	Location 10277 10285	Scotland
+T43	Location 10287 10294	Germany
+T44	Location 10304 10307	USA
+T45	Location 11140 11147	Germany
+T46	Location 11152 11160	Scotland
+T47	Location 11644 11651	Germany
+T48	Location 11633 11639	France
+T49	Location 11958 11963	Italy
+T50	Location 13240 13245	Italy
+T51	Location 13419 13426	Germany
+T52	Location 13576 13584	Scotland
+T53	Location 13782 13785	USA
+T54	Location 17429 17435	France
+T55	Location 17505 17511	Canada
+T56	Location 18008 18014	Europe
+T57	Location 18227 18233	Canada
+T58	Location 19616 19619	USA
+T59	Location 19862 19868	Sweden
+T60	Location 20080 20086	France
+T61	Location 21482 21485	USA
+T62	Location 21805 21811	Sweden
+T63	Location 22548 22562	Olmsted County
+T64	Location 23906 23912	Europe
+T65	Location 24147 24153	France
+T66	Location 24167 24170	USA
+T67	Location 24247 24253	Sweden
+T68	Location 24666 24673	Iceland
+T69	Location 24756 24759	USA

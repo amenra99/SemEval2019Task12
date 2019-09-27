@@ -1,0 +1,261 @@
+T1	Protein 0 5	SHORT
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 18 24	Access
+#2	AnnotatorNotes T2	END
+T3	Protein 149 155	Shinji
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 228 234	Sakai1
+#4	AnnotatorNotes T4	END
+T5	Protein 3556 3557	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4177 4178	.
+#6	AnnotatorNotes T6	END
+T7	Protein 7399 7405	Hirano
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7499 7500	8
+#8	AnnotatorNotes T8	END
+T9	Protein 10388 10394	Hirano
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 10488 10489	8
+#10	AnnotatorNotes T10	END
+T11	Protein 13374 13380	Hirano
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 13474 13475	8
+#12	AnnotatorNotes T12	END
+T13	Protein 16447 16453	Hirano
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16547 16548	8
+#14	AnnotatorNotes T14	END
+T15	Protein 19396 19405	Kobayashi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 19520 19521	8
+#16	AnnotatorNotes T16	END
+T17	Protein 21702 21708	Hirano
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 21802 21803	8
+#18	AnnotatorNotes T18	END
+T19	Protein 23052 23068	Acknowledgements
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 28071 28072	8
+#20	AnnotatorNotes T20	END
+T21	Location 81 86	Goiás
+T22	Location 96 102	Brazil
+T23	Location 349 355	Brazil
+T24	Location 1946 1950;1951 1954	Bra- zil
+T25	Location 3029 3035	Brazil
+T26	Location 3342 3347	Goiás
+T27	Location 5113 5118	Goiás
+T28	Location 5853 5858	Goiás
+T29	Location 6188 6193	Goiás
+T30	Location 7523 7528	Goiás
+T31	Location 7646 7658	Caldas Novas
+T32	Location 7703 7713	Água Limpa
+T33	Location 7758 7770	Caldas Novas
+T34	Location 8762 8774	Caldas Novas
+T35	Location 9259 9271	Caldas Novas
+T36	Location 9877 9889	Caldas Novas
+T37	Location 8153 8163	Água Limpa
+T38	Location 9488 9498	Água Limpa
+T39	Location 7815 7834	Santa Cruz de Goias
+T40	Location 9707 9726	Santa Cruz de Goias
+T41	Location 7879 7889	Corumbaíba
+T42	Location 7934 7944	Corumbaíba
+T43	Location 8929 8939	Corumbaíba
+T44	Location 12357 12367	Corumbaíba
+T45	Location 11790 11800	Corumbaíba
+T46	Location 11890 11900	Corumbaíba
+T47	Location 12736 12746	Corumbaíba
+T48	Location 11284 11294	Corumbaíba
+T49	Location 11184 11194	Corumbaíba
+T50	Location 7989 7999	Cristalina
+T51	Location 12905 12915	Cristalina
+T52	Location 8044 8051	Ipameri
+T53	Location 8984 8991	Ipameri
+T54	Location 9316 9323	Ipameri
+T55	Location 9655 9662	Ipameri
+T56	Location 9771 9778	Ipameri
+T57	Location 10249 10256	Ipameri
+T58	Location 11132 11139	Ipameri
+T59	Location 11339 11346	Ipameri
+T60	Location 11391 11398	Ipameri
+T61	Location 12090 12097	Ipameri
+T62	Location 12142 12149	Ipameri
+T63	Location 12571 12578	Ipameri
+T64	Location 15572 15579	Ipameri
+T65	Location 8096 8108	Caldas Novas
+T66	Location 8208 8217	Itumbiara
+T67	Location 8262 8271	Itumbiara
+T68	Location 8316 8325	Itumbiara
+T69	Location 8428 8437	Itumbiara
+T70	Location 9601 9610	Itumbiara
+T71	Location 9823 9832	Itumbiara
+T72	Location 9934 9943	Itumbiara
+T73	Location 9988 9997	Itumbiara
+T74	Location 10142 10151	Itumbiara
+T75	Location 10196 10205	Itumbiara
+T76	Location 10545 10554	Itumbiara
+T77	Location 10663 10672	Itumbiara
+T78	Location 8370 8383	Buriti Alegre
+T79	Location 8482 8495	Buriti Alegre
+T80	Location 8540 8553	Buriti Alegre
+T81	Location 8598 8611	Buriti Alegre
+T82	Location 9036 9049	Buriti Alegre
+T83	Location 9093 9106	Buriti Alegre
+T84	Location 9150 9163	Buriti Alegre
+T85	Location 9543 9556	Buriti Alegre
+T86	Location 10768 10781	Buriti Alegre
+T87	Location 12299 12312	Buriti Alegre
+T88	Location 12791 12804	Buriti Alegre
+T89	Location 17438 17451	Buriti Alegre
+T90	Location 8656 8665	Goiandira
+T91	Location 16721 16730	Goiandira
+T92	Location 8710 8717	Itapaci
+T93	Location 8819 8828	Morrinhos
+T94	Location 11982 11991	Morrinhos
+T95	Location 12036 12045	Morrinhos
+T96	Location 15731 15740	Morrinhos
+T97	Location 19331 19340	Morrinhos
+T98	Location 8873 8884	Nova Aurora
+T99	Location 9368 9392	São Luis de Montes Belos
+T100	Location 9437 9444	Orizona
+T101	Location 10717 10724	Orizona
+T102	Location 10877 10884	Orizona
+T103	Location 10042 10048	Panamá
+T104	Location 10092 10098	Panamá
+T105	Location 10301 10307	Panamá
+T106	Location 10352 10358	Panamá
+T107	Location 11024 11030	Panamá
+T108	Location 14063 14069	Panamá
+T109	Location 10512 10517	Goiás
+T110	Location 9208 9214	Urutaí
+T111	Location 10928 10934	Urutaí
+T112	Location 10973 10979	Urutaí
+T113	Location 14908 14914	Urutaí
+T114	Location 10599 10618	Bela Vista de Goiás
+T115	Location 10826 10832	Panamá
+T116	Location 11075 11087	Campos Belos
+T117	Location 14006 14018	Campos Belos
+T118	Location 11443 11448	Iporá
+T119	Location 11486 11507	Campo Alegre de Goiás
+T120	Location 11552 11573	Campo Alegre de Goiás
+T121	Location 11618 11639	Campo Alegre de Goiás
+T122	Location 11684 11696	Caldas Novas
+T123	Location 11734 11746	Caldas Novas
+T124	Location 11838 11845	Ipameri
+T125	Location 12247 12254	Ipameri
+T126	Location 12194 12202	Marzagão
+T127	Location 18538 18546	Marzagão
+T128	Location 11937 11944	Ouvidor
+T129	Location 12411 12432	Campo Alegre de Goiás
+T130	Location 12623 12635	Caldas Novas
+T131	Location 12477 12484	Catalão
+T132	Location 12527 12533	Cumari
+T133	Location 12680 12691	Nova Crixás
+T134	Location 14959 14970	Nova Crixás
+T135	Location 15067 15078	Nova Crixás
+T136	Location 15288 15299	Nova Crixás
+T137	Location 12848 12860	Pires do Rio
+T138	Location 12960 12980	Divinópolis de Goiás
+T139	Location 13590 13610	Divinópolis de Goiás
+T140	Location 13941 13961	Divinópolis de Goiás
+T141	Location 14180 14200	Divinópolis de Goiás
+T142	Location 13025 13030	Posse
+T143	Location 13075 13096	Monte Alegre de Goiás
+T144	Location 13141 13162	Monte Alegre de Goiás
+T145	Location 13207 13228	Monte Alegre de Goiás
+T146	Location 13875 13896	Monte Alegre de Goiás
+T147	Location 14114 14135	Monte Alegre de Goiás
+T148	Location 15345 15366	Monte Alegre de Goiás
+T149	Location 13273 13287	Colinas do Sul
+T150	Location 13531 13545	Colinas do Sul
+T151	Location 13655 13669	Colinas do Sul
+T152	Location 13714 13728	Colinas do Sul
+T153	Location 13772 13786	Colinas do Sul
+T154	Location 13823 13837	Colinas do Sul
+T155	Location 13332 13344	Serranópolis
+T156	Location 13498 13503	Goiás
+T157	Location 16571 16576	Goiás
+T158	Location 14245 14256	Doverlândia
+T159	Location 14356 14367	Doverlândia
+T160	Location 14467 14478	Doverlândia
+T161	Location 14302 14310	Mineiros
+T162	Location 14413 14421	Mineiros
+T163	Location 14524 14532	Mineiros
+T164	Location 14578 14590	Nova América
+T165	Location 14635 14647	Nova América
+T166	Location 14692 14701	Rubiataba
+T167	Location 14800 14809	Rubiataba
+T168	Location 14854 14863	Rubiataba
+T169	Location 14746 14755	Morrinhos
+T170	Location 15014 15024	Mundo Novo
+T171	Location 15170 15180	Mundo Novo
+T172	Location 15116 15126	Itapuranga
+T173	Location 15226 15244	Carmo do Rio Verde
+T174	Location 15412 15418	Aruanã
+T175	Location 15464 15470	Aruanã
+T176	Location 15516 15527	Mozarlândia
+T177	Location 15617 15628	Novo Brasil
+T178	Location 15674 15685	Novo Brasil
+T179	Location 15784 15799	Buriti de Goiás
+T180	Location 15844 15859	Buriti de Goiás
+T181	Location 16064 16079	Buriti de Goiás
+T182	Location 15897 15904	Moiporá
+T183	Location 15950 15957	Anicuns
+T184	Location 16003 16018	Córrego do Ouro
+T185	Location 16117 16132	Córrego do Ouro
+T186	Location 16178 16193	Córrego do Ouro
+T187	Location 16239 16248	Ivolândia
+T188	Location 16294 16303	Ivolândia
+T189	Location 16349 16358	Ivolândia
+T190	Location 16604 16613	Ivolândia
+T191	Location 16831 16840	Ivolândia
+T192	Location 16404 16416	Amorinópolis
+T193	Location 16774 16786	Amorinópolis
+T194	Location 16878 16890	Amorinópolis
+T195	Location 16936 16948	Amorinópolis
+T196	Location 16659 16677	Palestina de Goiás
+T197	Location 17612 17630	Palestina de Goiás
+T198	Location 18807 18825	Palestina de Goiás
+T199	Location 18926 18944	Palestina de Goiás
+T200	Location 19045 19063	Palestina de Goiás
+T201	Location 16994 17003	Caiapônia
+T202	Location 17049 17058	Caiapônia
+T203	Location 17676 17685	Caiapônia
+T204	Location 17785 17794	Caiapônia
+T205	Location 17897 17906	Caiapônia
+T206	Location 18592 18601	Caiapônia
+T207	Location 18871 18880	Caiapônia
+T208	Location 17104 17123	Bom Jardim de Goiás
+T209	Location 17169 17177	Piranhas
+T210	Location 17330 17338	Piranhas
+T211	Location 17276 17284	Piranhas
+T212	Location 17384 17392	Piranhas
+T213	Location 17560 17568	Piranhas
+T214	Location 17731 17739	Piranhas
+T215	Location 17952 17960	Piranhas
+T216	Location 17998 18006	Piranhas
+T217	Location 18044 18052	Piranhas
+T218	Location 18098 18106	Piranhas
+T219	Location 18152 18160	Piranhas
+T220	Location 18484 18492	Piranhas
+T221	Location 19101 19109	Piranhas
+T222	Location 17221 17230	Rio Verde
+T223	Location 17495 17514	Bom Jardim de Goiás
+T224	Location 17840 17859	Bom Jardim de Goiás
+T225	Location 18206 18216	Arenópolis
+T226	Location 18262 18272	Arenópolis
+T227	Location 18318 18328	Arenópolis
+T228	Location 18374 18384	Arenópolis
+T229	Location 18430 18440	Arenópolis
+T230	Location 18647 18657	Arenópolis
+T231	Location 18990 19000	Arenópolis
+T232	Location 18703 18708	Iporá
+T233	Location 18754 18761	Diorama
+T234	Location 19155 19167	Pires do Rio
+T235	Location 19213 19224	Porangatatu
+T236	Location 19269 19286	Alvorada do Norte
+T237	Location 20745 20750	Goiás
+T238	Location 21381 21386	Goiás
+T239	Location 22133 22138	Tokyo
+T240	Location 22140 22145	Japan
+T241	Location 11232 11239	Ipameri

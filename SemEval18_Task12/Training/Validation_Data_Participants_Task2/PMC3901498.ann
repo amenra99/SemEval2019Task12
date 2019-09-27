@@ -1,0 +1,78 @@
+T1	Protein 0 10	DISPATCHES
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 90 94	2014
+#2	AnnotatorNotes T2	END
+T3	Protein 158 165	Jessica
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 274 281	Beasley
+#4	AnnotatorNotes T4	END
+T5	Protein 4773 4779	Author
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5252 5255	273
+#6	AnnotatorNotes T6	END
+T7	Protein 8914 8924	DISPATCHES
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 9004 9008	2014
+#8	AnnotatorNotes T8	END
+T9	Protein 9512 9527	Acknowledgments
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9945 9946	.
+#10	AnnotatorNotes T10	END
+T11	Protein 11825 11827	Co
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 16086 16089	edu
+#12	AnnotatorNotes T12	END
+T15	Location 139 146	Arizona
+T16	Location 387 394	Arizona
+T18	Location 396 399	USA
+T19	Location 784 792	New York
+T20	Location 794 802	New York
+T21	Location 872 879	Arizona
+T22	Location 898 905	Arizona
+T23	Location 990 1000	California
+T25	Location 1268 1275	Phoenix
+T26	Location 1364 1371	Gilbert
+T27	Location 1453 1465	Fort Collins
+T28	Location 1467 1469	CO
+T29	Location 1471 1474	USA
+T30	Location 2454 2461	Gilbert
+T31	Location 2669 2676	Gilbert
+T32	Location 3000 3007	Gilbert
+T33	Location 2987 2995	Glendale
+T34	Location 3009 3016	Arizona
+T35	Location 3435 3442	Gilbert
+T37	Location 3791 3798	Arizona
+T38	Location 3803 3813	New Mexico
+T39	Location 4018 4025	Arizona
+T40	Location 4200 4213	United States
+T43	Location 8399 8412	United States
+T44	Location 8628 8631	USA
+T46	Location 8619 8626	Arizona
+T48	Location 9103 9110	El Paso
+T49	Location 9112 9117	Texas
+T50	Location 9123 9136	Ciudad Juarez
+T51	Location 9138 9144	Mexico
+T52	Location 9195 9201	Dallas
+T53	Location 9203 9208	Texas
+T54	Location 9311 9324	United States
+T55	Location 10032 10035	USA
+T56	Location 10271 10274	USA
+T57	Location 11154 11157	USA
+T58	Location 10023 10030	Arizona
+T59	Location 10262 10269	Arizona
+T60	Location 11145 11152	Arizona
+T61	Location 579 592	North America
+T62	Location 838 851	North America
+T63	Location 3317 3330	North America
+T17	Location 370 378	Maricopa
+T24	Location 1222 1230	Maricopa
+T36	Location 3472 3480	Maricopa
+T41	Location 7702 7710	Maricopa
+T42	Location 8602 8610	Maricopa
+T45	Location 9009 9017	Maricopa
+T47	Location 11130 11143	North	America
+T14	Location 16221 16228	Arizona
+T65	Location 16230 16233	USA
+T66	Location 148 151	USA
+T67	Location 2932 2938	Europe
+

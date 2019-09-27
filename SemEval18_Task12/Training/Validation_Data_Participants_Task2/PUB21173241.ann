@@ -1,0 +1,20 @@
+T29	Location 1084 1088	Asia
+T30	Location 1090 1096	Europe
+T31	Location 1102 1108	Africa
+T33	Location 2968 2977	Guangdong
+T34	Location 2979 2984	China
+T35	Location 3040 3054	Southeast Asia
+T1	Location 3056 3063	Eurasia
+T36	Location 3069 3075	Africa
+T281	Protein 113 121	Mariette
+#281	AnnotatorNotes T281	BEGIN
+T282	Protein 940 941	)
+#282	AnnotatorNotes T282	END
+T283	Protein 6678 6684	Author
+#283	AnnotatorNotes T283	BEGIN
+T284	Protein 7500 7512	MICROBIOLOGY
+#284	AnnotatorNotes T284	END
+T285	Protein 37396 37411	ACKNOWLEDGMENTS
+#285	AnnotatorNotes T285	BEGIN
+T286	Protein 43383 43384	.
+#286	AnnotatorNotes T286	END

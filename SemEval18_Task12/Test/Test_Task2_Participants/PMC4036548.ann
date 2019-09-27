@@ -1,0 +1,114 @@
+T1	Protein 0 7	Viruses
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 93 100	viruses
+#2	AnnotatorNotes T2	END
+T3	Protein 217 219	Se
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 2544 2548	2014
+#4	AnnotatorNotes T4	END
+T5	Protein 9120 9127	Viruses
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 9136 9140	1900
+#6	AnnotatorNotes T6	END
+T7	Protein 10068 10075	Viruses
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10084 10088	1901
+#8	AnnotatorNotes T8	END
+T9	Protein 11325 11332	Viruses
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 11341 11345	1902
+#10	AnnotatorNotes T10	END
+T11	Protein 20639 20646	Viruses
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 20655 20659	1906
+#12	AnnotatorNotes T12	END
+T13	Protein 23268 23275	Viruses
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 23284 23288	1907
+#14	AnnotatorNotes T14	END
+T15	Protein 25796 25811	Acknowledgments
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 35223 35224	.
+#16	AnnotatorNotes T16	END
+T17	Location 191 204	Côte d’Ivoire
+T18	Location 209 216	Vietnam
+T19	Location 3090 3097	Vietnam
+T20	Location 3201 3214	Côte d’Ivoire
+T21	Location 3503 3515	Sierra Leone
+T22	Location 3520 3525	China
+T23	Location 5314 5319	Korea
+T24	Location 5632 5645	Côte d’Ivoire
+T25	Protein 5724 5731	Viruses
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 5740 5744	1899
+#26	AnnotatorNotes T26	END
+T27	Location 5745 5757	Sierra Leone
+T28	Location 5840 5847	Vietnam
+T29	Location 6114 6119	China
+T30	Location 7057 7062	China
+T31	Location 7164 7175	Jeju Island
+T32	Location 7179 7184	Korea
+T33	Location 7767 7789	Xuan Son National Park
+T34	Location 7793 7800	Phu Tho
+T35	Location 7822 7829	Vietnam
+T36	Location 7914 7918;7919 7926	Tuyê n Quang
+T37	Location 7931 7940	Quang Nam
+T38	Location 10367 10380	Cote d’Ivoire
+T39	Location 10595 10602	Vietnam
+T40	Location 10612 10619	Phu Tho
+T41	Location 10674 10678;10679 10686	Tuyê n Quang
+T42	Location 10691 10700	Quang Nam
+T43	Location 13361 13368	Phu Tho
+T44	Location 13425 13429;13430 13437	Tuyê n Quang
+T45	Location 13459 13466	Vietnam
+T46	Location 13558 13565	Vietnam
+T47	Location 13528 13537	Quang Nam
+T48	Protein 17230 17237	Viruses
+#48	AnnotatorNotes T48	BEGIN
+T49	Protein 17246 17250	1905
+#49	AnnotatorNotes T49	END
+T50	Location 17949 17958	Australia
+T51	Location 19482 19488	Brazil
+T52	Location 19490 19495	China
+T53	Location 19497 19510	Cote d’Ivoire
+T54	Location 19512 19518	Guinea
+T55	Location 19520 19525	Korea
+T56	Location 19527 19546	Republic of Georgia
+T57	Location 19548 19555	Vietnam
+T58	Location 19564 19577	United States
+T59	Location 20356 20365	San Diego
+T60	Location 20367 20369	CA
+T61	Location 20371 20374	USA
+T62	Location 20828 20833	Shiga
+T63	Location 20835 20840	Japan
+T64	Location 21354 21364	Goettingen
+T65	Location 21366 21373	Germany
+T66	Location 21462 21473	Foster City
+T67	Location 21475 21477	CA
+T68	Location 21479 21482	USA
+T69	Location 2920 2924	Asia
+T70	Location 2926 2932	Africa
+T71	Location 2941 2949	Americas
+T72	Location 4757 4761	Asia
+T73	Location 4771 4777	Africa
+T74	Location 4763 4769	Europe
+T75	Location 4782 4795	North America
+T76	Location 9678 9685	Phu Tho
+T77	Location 9670 9677	Vietnam
+T78	Location 9726 9730;9731 9738	Tuyê n Quang
+T79	Location 9835 9844	Quang Nam
+T80	Location 10004 10006;10007 10018	Cô te d'Ivoire
+T81	Location 10019 10028	Mouyassué
+T82	Location 17910 17916	Africa
+T83	Location 17918 17924	Europe
+T84	Location 17926 17930	Asia
+T85	Location 17936 17944	Americas
+T86	Location 23638 23644	Africa
+T87	Location 23653 23661	Americas
+T88	Location 23944 23950	Africa
+T89	Location 23955 23968	North America
+T90	Location 21261 21263	MA
+T91	Location 21265 21268	USA
+T92	Location 21252 21259	Waltham
+T93	Location 23935 23942	Eurasia
+T94	Location 23629 23636	Eurasia

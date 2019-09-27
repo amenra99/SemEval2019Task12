@@ -1,0 +1,248 @@
+T1	Protein 0 8	American
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 559 571	Contribution
+#2	AnnotatorNotes T2	END
+T3	Protein 714 723	Charlotte
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1070 1071	.
+#4	AnnotatorNotes T4	END
+T5	Protein 4503 4506	465
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4536 4539	478
+#6	AnnotatorNotes T6	END
+T7	Protein 6526 6528	Am
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 6554 6557	478
+#8	AnnotatorNotes T8	END
+T9	Protein 6614 6617	466
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 6631 6632	.
+#10	AnnotatorNotes T10	END
+T11	Protein 6728 6730	Am
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 6756 6759	478
+#12	AnnotatorNotes T12	END
+T13	Protein 10023 10025	Am
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 10051 10054	478
+#14	AnnotatorNotes T14	END
+T15	Protein 10711 10714	468
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 10728 10729	.
+#16	AnnotatorNotes T16	END
+T17	Protein 10751 10753	Am
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 10779 10782	478
+#18	AnnotatorNotes T18	END
+T19	Protein 14062 14064	Am
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 14090 14093	478
+#20	AnnotatorNotes T20	END
+T21	Protein 18863 18865	Am
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 18896 18899	471
+#22	AnnotatorNotes T22	END
+T23	Protein 21903 21905	Am
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 21931 21934	478
+#24	AnnotatorNotes T24	END
+T25	Protein 23970 23973	472
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 23987 23988	.
+#26	AnnotatorNotes T26	END
+T29	Protein 28050 28053	474
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 28067 28068	.
+#30	AnnotatorNotes T30	END
+T31	Protein 31295 31297	Am
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 31368 31371	475
+#32	AnnotatorNotes T32	END
+T33	Protein 35095 35098	476
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 35112 35113	.
+#34	AnnotatorNotes T34	END
+T35	Protein 41247 41249	Am
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 41310 41318	Inﬂuenza
+#36	AnnotatorNotes T36	END
+T37	Protein 42676 42691	ACKNOWLEDGMENTS
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 51873 51876	478
+#38	AnnotatorNotes T38	END
+T39	Protein 2331 2336	basic
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 2415 2431	Orthomyxoviridae
+#40	AnnotatorNotes T40	END
+T41	Location 2640 2648;2649 2659	Northern Hemisphere
+T42	Location 3855 3862	England
+T43	Location 3867 3872	Wales
+T44	Location 4148 4153	Wales
+T45	Location 4136 4143	England
+T46	Location 4863 4872	Hong Kong
+T47	Location 5046 5053	Bangkok
+T48	Location 5055 5063	Dhonburi
+T49	Location 5065 5073	Thailand
+T50	Location 5509 5517	Paraı́so
+T51	Location 5522 5527;5528 5534	Pedro Miguel
+T52	Location 5536 5542	Panama
+T53	Location 5843 5850	Paraiso
+T54	Location 5855 5867	Pedro Miguel
+T55	Location 6559 6570	Kansas City
+T56	Location 6572 6580	Missouri
+T57	Location 6582 6588;6589 6595	United States
+T58	Location 6789 6802	United States
+T59	Location 6761 6773	Philadelphia
+T60	Location 6775 6787	Pennsylvania
+T61	Location 6931 6945	United Kingdom
+T62	Location 7695 7709	United Kingdom
+T63	Location 8517 8531	United Kingdom
+T64	Location 8643 8657	United Kingdom
+T65	Protein 8603 8619	Transmissibility
+#65	AnnotatorNotes T65	BEGIN
+T66	Protein 8633 8641	Inﬂuenza
+#66	AnnotatorNotes T66	END
+T67	Location 9112 9118;9119 9126	United Kingdom
+T68	Location 9099 9110	Cirencester
+T69	Location 9242 9248;9249 9256	United Kingdom
+T70	Location 9232 9240	Shefﬁeld
+T71	Location 9417 9424	Lambeth
+T72	Location 9567 9574	Lambeth
+T73	Location 9426 9432	London
+T74	Location 9549 9555	London
+T75	Location 9434 9448	United Kingdom
+T76	Location 9675 9681	London
+T77	Location 9693 9700	Lambeth
+T78	Location 9761 9767	Uganda
+T79	Location 9722 9728	Uganda
+T80	Location 9702 9720	West Nile District
+T81	Location 9753 9759	Kabale
+T82	Location 9791 9805	Czechoslovakia
+T83	Location 9824 9832	Scotland
+T84	Location 10587 10601	Czechoslovakia
+T85	Location 10603 10608;10609 10627	Czech Socialist Republic
+T86	Location 10784 10790	Moscow
+T87	Location 10792 10800;10801 10817;10818 10827	Union of Soviet Socialist Republics
+T88	Location 11254 11264	São Paulo
+T89	Location 11266 11272	Brazil
+T90	Location 11596 11604	Khartoum
+T91	Location 11620 11634	Khartoum North
+T92	Location 11606 11614	Omdurman
+T93	Location 11788 11796	Khartoum
+T94	Location 12562 12570	Khartoum
+T95	Location 12572 12577	Sudan
+T96	Location 12612 12621	Australia
+T97	Location 12652 12661	Australia
+T98	Location 12635 12644;12645 12650	New South Wales
+T99	Location 12595 12604;12605 12610	New South Wales
+T100	Location 12587 12593	Sydney
+T101	Location 12627 12633	Epping
+T102	Location 12736 12743	Ukraine
+T103	Location 12727 12734	Donetsk
+T104	Location 12942 12948	Epping
+T105	Location 12950 12959;12960 12965	New South Wales
+T106	Location 12967 12976	Australia
+T107	Location 13183 13198	New South Wales
+T108	Location 13200 13209	Australia
+T109	Location 13351 13360	Guatemala
+T110	Location 13381 13387;13388 13395	United Kingdom
+T111	Location 13370 13379	Doncaster
+T112	Location 14095 14102	Mombasa
+T113	Location 14104 14109	Kenya
+T114	Location 14276 14282	Arusha
+T115	Location 14284 14292	Tanzania
+T116	Protein 15880 15883	470
+#116	AnnotatorNotes T116	BEGIN
+T117	Protein 15950 15958	Inﬂuenza
+#117	AnnotatorNotes T117	END
+T118	Location 21947 21951;21952 21956	Hong Kong
+T119	Location 22158 22167	Hong Kong
+T120	Location 22219 22226	Teheran
+T121	Location 22228 22232	Iran
+T122	Location 22910 22915	Japan
+T123	Location 23100 23105	Japan
+T124	Location 23608 23621	United States
+T125	Location 23580 23592	Philadelphia
+T126	Location 23594 23606	Pennsylvania
+T127	Location 23770 23783	United States
+T128	Location 23754 23768	North Carolina
+T129	Location 24836 24843	England
+T130	Location 26129 26138	Guatemala
+T131	Location 26143 26151	Khartoum
+T132	Location 26153 26158	Sudan
+T133	Location 27024 27031	Mombasa
+T134	Location 27033 27038	Kenya
+T135	Location 27050 27060	São Paulo
+T136	Location 27062 27068	Brazil
+T137	Location 27494 27511	Panama Canal Zone
+T138	Location 27463 27474	Kansas City
+T139	Location 27476 27484	Missouri
+T140	Location 27792 27801	Doncaster
+T141	Location 27803 27817	United Kingdom
+T142	Location 28037 28048	Kansas City
+T143	Location 28415 28421	Epping
+T144	Location 28423 28438	New South Wales
+T145	Location 28440 28449	Australia
+T146	Location 28526 28540	Czechoslovakia
+T147	Location 28542 28548	Tachov
+T148	Location 28550 28554	Most
+T149	Location 28556 28562	Pilsen
+T150	Location 28564 28580	Ústı́ nad Labem
+T151	Location 28586 28593	Sokolov
+T152	Location 28839 28874	Union of Soviet Socialist Republics
+T153	Location 28936 28944	Khartoum
+T154	Location 28949 28958	Doncaster
+T155	Protein 33404 33406	Am
+#155	AnnotatorNotes T155	BEGIN
+T156	Protein 33432 33435	478
+#156	AnnotatorNotes T156	END
+T157	Location 34096 34105	Guatemala
+T158	Location 35279 35293	United Kingdom
+T159	Location 35343 35357	United Kingdom
+T160	Location 35420 35434	United Kingdom
+T161	Location 35501 35508	England
+T162	Location 35513 35518	Wales
+T163	Location 35557 35565	Scotland
+T164	Location 35620 35634	United Kingdom
+T165	Location 35603 35610	Lambeth
+T166	Location 35612 35618	London
+T167	Location 35672 35682	São Paulo
+T168	Location 35684 35690	Brazil
+T169	Location 35728 35734	Sydney
+T170	Location 35736 35745;35746 35751	New South Wales
+T171	Location 35753 35762	Australia
+T172	Location 35825 35834	Australia
+T173	Location 35808 35817;35818 35823	New South Wales
+T174	Location 35800 35806	Epping
+T175	Location 35895 35902	England
+T176	Location 36669 36683	United Kingdom
+T177	Location 36691 36704	United States
+T178	Location 37463 37470	England
+T179	Location 37475 37480	Wales
+T180	Location 38178 38184	Geneva
+T181	Location 38186 38197	Switzerland
+T182	Location 38309 38320	Scandinavia
+T183	Location 38451 38461	Copenhagen
+T184	Location 38463 38470	Denmark
+T185	Location 38671 38678	England
+T186	Location 38683 38688	Wales
+T187	Location 39219 39225;39226 39233	United Kingdom
+T188	Location 39318 39332	United Kingdom
+T189	Location 39359 39372	United States
+T190	Location 39553 39566	United States
+T191	Location 39677 39681	Asia
+T192	Location 39666 39672	Europe
+T193	Location 39766 39779	North America
+T194	Location 41980 41987	England
+T195	Location 41992 41997	Wales
+T196	Location 42025 42039	Greater London
+T197	Location 42087 42101	United Kingdom
+T198	Location 6502 6514;6515 6519	Panama Canal Zone
+T199	Protein 12687 12703	Transmissibility
+#199	AnnotatorNotes T199	BEGIN
+T200	Protein 12717 12725	Inﬂuenza
+#200	AnnotatorNotes T200	END
+T27	Protein 24937 24953	Transmissibility
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 25010 25013	473
+#28	AnnotatorNotes T28	END

@@ -1,0 +1,46 @@
+T1	Protein 0 4	This
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 522 529	PROFILE
+#2	AnnotatorNotes T2	END
+T3	Protein 598 604	Sanjay
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1782 1783	3
+#4	AnnotatorNotes T4	END
+T5	Protein 3723 3727	1417
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3760 3772	EPIDEMIOLOGY
+#6	AnnotatorNotes T6	END
+T7	Protein 9488 9494	ANDHRA
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 9531 9535	1419
+#8	AnnotatorNotes T8	END
+T9	Protein 12857 12861	1420
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 12888 12900	EPIDEMIOLOGY
+#10	AnnotatorNotes T10	END
+T11	Protein 21161 21167	ANDHRA
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 21197 21202	STUDY
+#12	AnnotatorNotes T12	END
+T13	Protein 22343 22347	1422
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 22374 22386	EPIDEMIOLOGY
+#14	AnnotatorNotes T14	END
+T15	Protein 27242 27248	ANDHRA
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 27278 27283	STUDY
+#16	AnnotatorNotes T16	END
+T17	Protein 29920 29933	Supplementary
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 34494 34495	.
+#18	AnnotatorNotes T18	END
+T19	Location 2110 2115	India
+T20	Location 2702 2713	Ranga Reddy
+T21	Location 2726 2740	Andhra Pradesh
+T22	Location 6372 6383	Ranga Reddy
+T23	Location 14371 14380	Hyderabad
+T24	Location 15675 15677	UK
+T25	Location 15985 15990	Japan
+T26	Location 19481 19486	India
+T27	Location 3479 3484	India
+T28	Location 5230 5235	India

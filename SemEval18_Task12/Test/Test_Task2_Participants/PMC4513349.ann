@@ -1,0 +1,88 @@
+T1	Protein 0 1	1
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 71 88	scientificreports
+#2	AnnotatorNotes T2	END
+T3	Protein 191 194	Jie
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 365 368	Ke1
+#4	AnnotatorNotes T4	END
+T5	Protein 3383 3384	1
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3934 3943	srep12507
+#6	AnnotatorNotes T6	END
+T7	Protein 9865 9868	www
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 9945 9954	srep12507
+#8	AnnotatorNotes T8	END
+T9	Protein 14036 14039	www
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 14116 14125	srep12507
+#10	AnnotatorNotes T10	END
+T11	Protein 16493 16496	www
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 16573 16582	srep12507
+#12	AnnotatorNotes T12	END
+T13	Protein 19475 19478	www
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 19555 19564	srep12507
+#14	AnnotatorNotes T14	END
+T15	Protein 24581 24584	www
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 24661 24670	srep12507
+#16	AnnotatorNotes T16	END
+T17	Protein 31030 31033	www
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 40028 40029	/
+#18	AnnotatorNotes T18	END
+T19	Location 165 174	Guangdong
+T20	Location 185 190	China
+T21	Location 625 630	China
+T22	Location 605 614	Guangdong
+T23	Location 1965 1970	China
+T24	Location 2075 2080	China
+T25	Location 2155 2160	China
+T26	Location 2343 2348	China
+T27	Location 2412 2417	China
+T28	Location 2547 2552	China
+T29	Location 2487 2496	Hong Kong
+T30	Location 2975 2980	China
+T31	Location 3124 3129	China
+T32	Location 4097 4102	China
+T33	Location 6058 6063	China
+T34	Location 6029 6038	Guangdong
+T35	Location 6211 6216	China
+T36	Location 8051 8060	Guangdong
+T37	Location 8335 8344	St. Louis
+T38	Location 8346 8348	MO
+T39	Location 8759 8764	Japan
+T40	Location 18216 18225	Guangdong
+T41	Location 18227 18232	China
+T42	Location 21882 21891	Guangdong
+T43	Location 21922 21927	China
+T44	Location 22301 22306	China
+T45	Location 22448 22457	Guangdong
+T46	Location 22468 22473	China
+T47	Location 22654 22663	Guangdong
+T48	Location 22935 22940	China
+T49	Location 24430 24435	China
+T50	Location 24419 24428	Guangdong
+T51	Location 25639 25648	Guangdong
+T52	Location 26259 26264	China
+T53	Location 26273 26276	USA
+T54	Location 26370 26375	China
+T55	Location 26559 26564	China
+T56	Location 27509 27514	China
+T57	Location 27605 27612	Germany
+T58	Location 28009 28016	Germany
+T59	Location 28244 28253	Guangdong
+T60	Location 28701 28704	USA
+T61	Location 28711 28717	Canada
+T62	Location 29567 29572	China
+T63	Location 30579 30588	Guangdong
+T65	Location 3038 3051	North America
+T66	Location 26312 26315	USA
+T67	Location 26529 26532	USA
+T68	Location 28683 28689	Europe
+T64	Location 2869 2875	Europe
+T69	Location 26045 26048	USA
+T70	Location 5535 5540	China

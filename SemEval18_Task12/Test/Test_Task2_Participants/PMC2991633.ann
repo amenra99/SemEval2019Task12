@@ -1,0 +1,96 @@
+T1	Protein 0 8	American
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 544 548	2010
+#2	AnnotatorNotes T2	END
+T3	Protein 689 695	Angela
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1147 1148	.
+#4	AnnotatorNotes T4	END
+T5	Protein 4482 4486	1324
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4563 4567	1325
+#6	AnnotatorNotes T6	END
+T7	Protein 5978 5980	Am
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 6007 6011	1333
+#8	AnnotatorNotes T8	END
+T9	Protein 7016 7020	1326
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 7032 7033	.
+#10	AnnotatorNotes T10	END
+T11	Protein 13348 13350	Am
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 13423 13427	1327
+#12	AnnotatorNotes T12	END
+T13	Protein 15746 15748	Am
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 15775 15779	1333
+#14	AnnotatorNotes T14	END
+T15	Protein 21523 21527	1328
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 21612 21616	1329
+#16	AnnotatorNotes T16	END
+T17	Protein 26828 26836	Validity
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 26884 26885	.
+#18	AnnotatorNotes T18	END
+T19	Protein 29897 29899	Am
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 29961 29970	Databases
+#20	AnnotatorNotes T20	END
+T21	Protein 32863 32865	Am
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 32898 32902	1331
+#22	AnnotatorNotes T22	END
+T23	Protein 36300 36304	1332
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 36316 36317	.
+#24	AnnotatorNotes T24	END
+T25	Protein 38928 38943	ACKNOWLEDGMENTS
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 44915 44917	).
+#26	AnnotatorNotes T26	END
+T27	Location 1422 1436	South Carolina
+T28	Location 1538 1549	Short Hills
+T29	Location 1551 1561	New Jersey
+T30	Location 1582 1587	Omaha
+T31	Location 1589 1597	Nebraska
+T32	Location 3440 3445	Omaha
+T33	Location 3447 3455	Nebraska
+T34	Location 3490 3501	Short Hills
+T35	Location 3503 3513	New Jersey
+T36	Location 4357 4365	Montreal
+T37	Location 4367 4373	Canada
+T38	Location 4639 4653	South Carolina
+T39	Location 4837 4843;4844 4851	United Kingdom
+T40	Location 4828 4835	Glasgow
+T41	Location 4916 4923	Chicago
+T42	Location 4925 4933	Illinois
+T43	Location 5198 5206	Montreal
+T44	Location 5284 5291	Glasgow
+T45	Location 5314 5321	Chicago
+T46	Location 5438 5451	United States
+T47	Location 6269 6283	South Carolina
+T48	Location 6891 6905	South Carolina
+T49	Location 6757 6765	Richland
+T50	Location 6789 6796	Calhoun
+T51	Location 6807 6816	Clarendon
+T52	Location 6818 6827	Fairfield
+T53	Location 6829 6836	Kershaw
+T54	Location 6838 6847	Lancaster
+T55	Location 6853 6863	Orangeburg
+T56	Location 6798 6805	Chester
+T57	Location 7487 7501	South Carolina
+T58	Location 10917 10927	California
+T59	Location 10970 10980	California
+T60	Location 10906 10915	Sunnyvale
+T61	Location 10960 10968	Redlands
+T62	Location 13531 13536;13537 13545	South Carolina
+T63	Location 18306 18314	Richland
+T64	Location 20232 20246	North Carolina
+T65	Location 20226 20230	Cary
+T66	Location 21496 21510	South Carolina
+T67	Location 26801 26815	South Carolina
+T68	Location 27040 27054	South Carolina
+T69	Location 30123 30137	South Carolina
+T70	Location 4778 4786	Columbia

@@ -1,0 +1,56 @@
+T1	Protein 0 6	© 2016
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 957 963	S99474
+#2	AnnotatorNotes T2	END
+T3	Protein 1008 1013	Helle
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 2261 2263	dk
+#4	AnnotatorNotes T4	END
+T5	Protein 3903 3911	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3960 3972	surveillance
+#6	AnnotatorNotes T6	END
+T7	Protein 4801 4807	Number
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 5057 5059	al
+#8	AnnotatorNotes T8	END
+T9	Protein 10176 10184	Clinical
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 10308 10315	Program
+#10	AnnotatorNotes T10	END
+T11	Protein 15043 15051	Clinical
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15986 15988	al
+#12	AnnotatorNotes T12	END
+T13	Protein 17008 17023	Acknowledgments
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20237 20238	.
+#14	AnnotatorNotes T14	END
+T15	Location 3514 3521	Denmark
+T16	Location 3747 3754	Denmark
+T17	Location 4605 4612	Denmark
+T18	Location 4794 4800	Europe
+T19	Location 6248 6255	Denmark
+T20	Location 6845 6851	Sweden
+T21	Location 7154 7160	Sweden
+T22	Location 7162 7168	Norway
+T23	Location 7170 7178	Scotland
+T24	Location 7193 7200	Iceland
+T25	Location 7205 7214	Australia
+T26	Location 7266 7273	Denmark
+T27	Location 7299 7317;7318 7325	Region of Southern Denmark
+T28	Location 7496 7522	Region of Southern Denmark
+T29	Location 7565 7587	Central Denmark Region
+T31	Location 7628 7648	North Denmark Region
+T32	Location 7899 7906	Denmark
+T33	Location 10626 10632	Sweden
+T34	Location 10637 10643	Norway
+T35	Location 11619 11635	Southern Denmark
+T36	Location 11820 11826	Sweden
+T37	Location 12515 12522	Denmark
+T38	Location 16461 16468	Denmark
+T39	Location 16631 16637	Sweden
+T40	Location 16844 16850	Sweden
+T41	Location 16822 16829	Denmark
+T30	Location 7611 7618	Denmark
+T42	Location 7593 7607	Capital Region

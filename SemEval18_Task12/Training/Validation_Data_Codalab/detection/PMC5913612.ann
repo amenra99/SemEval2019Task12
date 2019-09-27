@@ -1,0 +1,116 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 154 161	Disease
+#2	AnnotatorNotes T2	END
+T3	Protein 291 296	Aaron
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1375 1379	2017
+#4	AnnotatorNotes T4	END
+T5	Protein 2879 2884	C The
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3432 3435	551
+#6	AnnotatorNotes T6	END
+T7	Protein 7775 7778	552
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7838 7839	2
+#8	AnnotatorNotes T8	END
+T9	Protein 9748 9761	International
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9806 9807	2
+#10	AnnotatorNotes T10	END
+T11	Protein 15341 15344	554
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15404 15405	2
+#12	AnnotatorNotes T12	END
+T13	Protein 19412 19425	International
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 19473 19476	555
+#14	AnnotatorNotes T14	END
+T15	Protein 23418 23421	556
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23481 23482	2
+#16	AnnotatorNotes T16	END
+T17	Protein 24962 24975	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 25023 25026	557
+#18	AnnotatorNotes T18	END
+T19	Protein 29415 29418	558
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 29478 29479	2
+#20	AnnotatorNotes T20	END
+T21	Protein 34787 34800	International
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 34845 34846	2
+#22	AnnotatorNotes T22	END
+T23	Protein 35427 35440	Supplementary
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 45365 45366	.
+#24	AnnotatorNotes T24	END
+T25	Location 205 213	Pakistan
+#25	AnnotatorNotes T25	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T26	Location 1679 1687	Pakistan
+#26	AnnotatorNotes T26	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T27	Location 1792 1800	Pakistan
+#27	AnnotatorNotes T27	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T28	Location 3690 3698	Pakistan
+#28	AnnotatorNotes T28	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T29	Location 4321 4329	Pakistan
+#29	AnnotatorNotes T29	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T30	Location 4475 4483	Pakistan
+#30	AnnotatorNotes T30	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T31	Location 3714 3722	Pakistan
+#31	AnnotatorNotes T31	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T32	Location 5756 5764	Pakistan
+#32	AnnotatorNotes T32	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T33	Location 6256 6264	Pakistan
+#33	AnnotatorNotes T33	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T34	Location 6385 6393	Pakistan
+#34	AnnotatorNotes T34	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T35	Location 8929 8937	Pakistan
+#35	AnnotatorNotes T35	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T36	Location 11787 11795	Pakistan
+#36	AnnotatorNotes T36	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T37	Location 11991 11999	Pakistan
+#37	AnnotatorNotes T37	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T38	Location 13197 13205	Pakistan
+#38	AnnotatorNotes T38	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T39	Location 19280 19288	Pakistan
+#39	AnnotatorNotes T39	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T40	Location 19567 19575	Pakistan
+#40	AnnotatorNotes T40	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T41	Location 21808 21816	Pakistan
+#41	AnnotatorNotes T41	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T42	Location 26295 26303	Pakistan
+#42	AnnotatorNotes T42	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T43	Location 27335 27343	Pakistan
+#43	AnnotatorNotes T43	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T44	Location 27514 27519	Egypt
+#44	AnnotatorNotes T44	<latlng>27, 30</latlng><geoID>357994</geoID><pop>80471869</pop>
+T45	Location 27599 27607	Pakistan
+#45	AnnotatorNotes T45	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T46	Location 27682 27690	Pakistan
+#46	AnnotatorNotes T46	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T47	Location 27905 27912	Georgia
+#47	AnnotatorNotes T47	<latlng>41.99998, 43.4999</latlng><geoID>614540</geoID><pop>4630000</pop>
+T48	Location 28137 28145	Pakistan
+#48	AnnotatorNotes T48	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T49	Location 29034 29042	Pakistan
+#49	AnnotatorNotes T49	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T50	Location 29123 29131	Pakistan
+#50	AnnotatorNotes T50	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T51	Location 29494 29502	Pakistan
+#51	AnnotatorNotes T51	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T52	Location 32861 32869	Pakistan
+#52	AnnotatorNotes T52	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T53	Location 33515 33523	Pakistan
+#53	AnnotatorNotes T53	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T54	Location 33775 33780	Egypt
+#54	AnnotatorNotes T54	<latlng>27, 30</latlng><geoID>357994</geoID><pop>80471869</pop>
+T55	Location 34419 34424	Egypt
+#55	AnnotatorNotes T55	<latlng>27, 30</latlng><geoID>357994</geoID><pop>80471869</pop>
+T56	Location 34333 34338	Egypt
+#56	AnnotatorNotes T56	<latlng>27, 30</latlng><geoID>357994</geoID><pop>80471869</pop>
+T57	Location 34402 34410	Pakistan
+#57	AnnotatorNotes T57	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>
+T58	Location 34865 34873	Pakistan
+#58	AnnotatorNotes T58	<latlng>30, 70</latlng><geoID>1168579</geoID><pop>184404791</pop>

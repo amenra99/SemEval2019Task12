@@ -1,0 +1,177 @@
+T1	Protein 121 125	Xiao
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 707 712	China
+#2	AnnotatorNotes T2	END
+T3	Protein 2623 2631	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3843 3844	)
+#4	AnnotatorNotes T4	END
+T5	Protein 6008 6012	PLOS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6095 6100	e2294
+#6	AnnotatorNotes T6	END
+T7	Protein 9535 9538	doi
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 9568 9572	g001
+#8	AnnotatorNotes T8	END
+T9	Protein 10796 10803	Lineage
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 10922 10927	e2294
+#10	AnnotatorNotes T10	END
+T11	Protein 18286 18293	Lineage
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 18412 18417	e2294
+#12	AnnotatorNotes T12	END
+T13	Protein 20566 20569	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20730 20735	e2294
+#14	AnnotatorNotes T14	END
+T15	Protein 25264 25267	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 25560 25565	e2294
+#16	AnnotatorNotes T16	END
+T17	Protein 26404 26407	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 26437 26441	g004
+#18	AnnotatorNotes T18	END
+T19	Protein 26829 26832	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 26993 26998	e2294
+#20	AnnotatorNotes T20	END
+T21	Protein 34373 34380	Lineage
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 34499 34504	e2294
+#22	AnnotatorNotes T22	END
+T23	Protein 38214 38217	doi
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 38378 38383	e2294
+#24	AnnotatorNotes T24	END
+T25	Protein 38807 38814	Lineage
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 38934 38939	e2294
+#26	AnnotatorNotes T26	END
+T27	Protein 45696 45699	doi
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 45729 45733	g007
+#28	AnnotatorNotes T28	END
+T29	Protein 45963 45966	doi
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 46128 46133	e2294
+#30	AnnotatorNotes T30	END
+T31	Protein 49030 49033	doi
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 49195 49200	e2294
+#32	AnnotatorNotes T32	END
+T33	Protein 51177 51192	Acknowledgments
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 57486 57491	e2294
+#34	AnnotatorNotes T34	END
+T35	Location 758 763	China
+T36	Location 1736 1741	China
+T37	Location 1895 1900	China
+T38	Location 4596 4601	China
+T39	Location 4589 4594	India
+T40	Location 4723 4728	China
+T41	Location 5299 5304	China
+T42	Location 5566 5571	China
+T43	Location 5889 5894	China
+T44	Location 6493 6498	China
+T45	Location 6565 6570	China
+T46	Location 6673 6678	China
+T47	Location 7084 7089	China
+T48	Location 8175 8180	China
+T49	Location 8459 8464	China
+T50	Location 9068 9073	China
+T51	Location 9141 9146	China
+T53	Location 9642 9647	China
+T54	Location 10125 10130	China
+T55	Location 11168 11173	China
+T56	Location 11239 11244	China
+T57	Location 12204 12209	China
+T58	Location 13559 13564	China
+T59	Location 14820 14825	Hunan
+T60	Location 14827 14834	Guangxi
+T61	Location 14836 14843	Guizhou
+T62	Location 14845 14852	Jiangsu
+T63	Location 14854 14862	Zhejiang
+T64	Location 14864 14872	Shandong
+T65	Location 14874 14882	Shanghai
+T66	Location 14884 14889	Anhui
+T67	Location 14891 14898	Shaanxi
+T68	Location 14900 14907	Jiangxi
+T69	Location 14909 14916	Sichuan
+T70	Location 14918 14927	Guangdong
+T71	Location 14932 14938	Yunnan
+T72	Location 16127 16132	China
+T73	Location 17218 17223	China
+T74	Location 18611 18616	China
+T75	Location 19727 19732	China
+T76	Location 19789 19794	China
+T77	Location 20111 20116	China
+T78	Location 20381 20386	China
+T79	Location 20940 20945	China
+T80	Location 21064 21069	China
+T81	Location 21001 21008	Guangxi
+T82	Location 21010 21015	Hunan
+T83	Location 21017 21024	Guizhou
+T84	Location 21029 21038	Guangdong
+T85	Location 21304 21310	Shanxi
+T86	Location 21312 21319	Shaanxi
+T87	Location 21321 21335	Inner Mongolia
+T88	Location 21368 21375	Beijing
+T89	Location 21377 21384	Tianjin
+T90	Location 21389 21397	Shanghai
+T91	Location 21456 21461	China
+T92	Location 21507 21512	Jilin
+T93	Location 21514 21522	Liaoning
+T94	Location 21524 21536	Heilongjiang
+T95	Location 21538 21546	Xinjiang
+T96	Location 21548 21553	Gansu
+T97	Location 21555 21560	Tibet
+T98	Location 21562 21569	Ningxia
+T99	Location 21574 21581	Qinghai
+T100	Location 21637 21642	China
+T101	Location 21845 21850	China
+T102	Location 22518 22524	Hainan
+T103	Location 22561 22568	Ningxia
+T104	Location 24386 24394	Zhejiang
+T105	Location 24399 24406	Jiangxi
+T106	Location 25697 25702	China
+T108	Location 30021 30035	Inner Mongolia
+T109	Location 30010 30019	Neimenggu
+T110	Location 34252 34257	China
+T111	Location 35039 35046	Beijing
+T112	Location 35048 35056	Shanghai
+T113	Location 35060 35069	Chongqing
+T114	Location 36371 36376	China
+T115	Location 36612 36617	China
+T116	Location 40810 40815	China
+T117	Location 42051 42056	China
+T118	Location 42083 42092	Guangdong
+T119	Location 44148 44153	China
+T120	Location 44908 44914	Shanxi
+T121	Location 44916 44921;44922 44930	Inner Mongolia
+T122	Location 44935 44942	Ningxia
+T123	Location 45261 45275	Inner Mongolia
+T124	Location 45277 45283	Shanxi
+T125	Location 45285 45292	Shaanxi
+T126	Location 45297 45305	Shanghai
+T127	Location 45400 45407	Ningxia
+T128	Location 45409 45417	Xinjiang
+T129	Location 45419 45427	Liaoning
+T130	Location 45432 45444	Heilongjiang
+T131	Location 46419 46426	Guangxi
+T132	Location 46428 46433	Hunan
+T133	Location 46438 46445	Guizhou
+T135	Location 49263 49268	China
+T136	Location 49278 49286	Shandong
+T137	Location 51053 51058	China
+T138	Location 4276 4282	Africa
+T139	Location 4270 4274	Asia
+T140	Location 4420 4424	Asia
+T141	Location 4573 4577	Asia
+T142	Location 8136 8140	Asia
+T143	Location 27847 27856	Guangdong
+T107	Location 4287 4300	Latin America
+T134	Location 48484 48489	Anhui
+T52	Location 9194 9220	People’s Republic of China

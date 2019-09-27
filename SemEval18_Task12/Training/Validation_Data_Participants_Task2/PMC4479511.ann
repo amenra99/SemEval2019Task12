@@ -1,0 +1,138 @@
+T1	Protein 0 8	ORIGINAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 9 16	ARTICLE
+#2	AnnotatorNotes T2	END
+T3	Protein 113 120	Vanessa
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1616 1621	12263
+#4	AnnotatorNotes T4	END
+T5	Protein 15295 15296	©
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 15416 15417	.
+#6	AnnotatorNotes T6	END
+T7	Protein 24262 24263	©
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 24430 24434	host
+#8	AnnotatorNotes T8	END
+T9	Protein 28680 28683	550
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 28851 28852	.
+#10	AnnotatorNotes T10	END
+T11	Protein 30739 30740	©
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 30907 30911	host
+#12	AnnotatorNotes T12	END
+T13	Protein 33254 33257	552
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 33425 33426	.
+#14	AnnotatorNotes T14	END
+T16	Protein 38522 38525	554
+#16	AnnotatorNotes T16	BEGIN
+T17	Protein 38693 38694	.
+#17	AnnotatorNotes T17	END
+T18	Protein 44539 44540	©
+#18	AnnotatorNotes T18	BEGIN
+T19	Protein 447 44711	host
+#19	AnnotatorNotes T19	END
+T20	Protein 47610 47626	Acknowledgements
+#20	AnnotatorNotes T20	BEGIN
+T21	Protein 66612 66616	host
+#21	AnnotatorNotes T21	END
+T22	Protein 4393 4394	©
+#22	AnnotatorNotes T22	BEGIN
+T23	Protein 4735 4747	Applications
+#23	AnnotatorNotes T23	END
+T25	Location 9335 9348	Os-
+nabr€
+uck
+T27	Location 9007 9014;9015 9018	Osnabr€ uck
+T24	Location 9827 9834	Germany
+T28	Protein 10325 10328	546
+#28	AnnotatorNotes T28	BEGIN
+T29	Protein 10494 10496	al
+#29	AnnotatorNotes T29	END
+T30	Location 10800 10806	Hilden
+T31	Location 10808 10815	Germany
+T32	Location 11757 11764	Waltham
+T33	Location 11766 11768	MA
+T34	Location 11770 11773	USA
+T35	Location 11827 11838	Foster City
+T36	Location 11840 11842	CA
+T37	Location 11844 11847	USA
+T38	Location 15186 15193	Germany
+T39	Location 15232 15245	Niedersachsen
+T40	Location 15247 15249	NI
+T41	Location 15255 15272;15273 15276	Nordrhein-Westfa- len
+T42	Location 15278 15280	NW
+T43	Location 17175 17188	Schledehausen
+T44	Location 17193 17199	Astrup
+T45	Location 18594 18601;18602 18605	Osnabr€ uck
+T46	Location 18740 18753	Niedersachsen
+T47	Location 18758 18768;18769 18778	Nordrhein- Westfalen
+T48	Protein 20810 20813	548
+#48	AnnotatorNotes T48	BEGIN
+T49	Protein 20979 20981	al
+#49	AnnotatorNotes T49	END
+T50	Location 21241 21254	Schledehausen
+T51	Location 21259 21265	Astrup
+T52	Location 21502 21508	Astrup
+T53	Location 21510 21519	Ellerbeck
+T54	Location 21521 21534	Schledehausen
+T59	Location 21957 21963	Astrup
+T60	Location 21968 21977	Ellerbeck
+T61	Location 22065 22074	Ellerbeck
+T62	Location 22054 22060	Astrup
+T63	Location 23244 23257	Schledehausen
+T64	Location 22234 22240	Astrup
+T65	Location 22248 22251;22252 22259	El- lerbeck
+T72	Location 23441 23447	Astrup
+T73	Location 23611 23620	Ellerbeck
+T79	Location 25387 25395;25396 25402	Schlede- hausen
+T83	Location 28209 28211	NI
+T84	Location 28216 28218	NW
+T85	Location 28226 28235	Osnabrück
+T86	Location 28507 28514;28515 28518	Osnabr€ uck
+T87	Location 28574 28587	Niedersachsen
+T88	Location 28589 28591	NI
+T89	Location 28597 28616	Nordrhein-Westfalen
+T90	Location 28618 28620	NW
+T91	Location 29363 29376	Schledehausen
+T92	Location 30089 30102	Schledehausen
+T93	Location 30325 30332;30333 30336	Osnabr€ uck
+T94	Location 30338 30345	Germany
+T95	Location 32788 32794	Astrup
+T96	Location 32799 32808	Ellerbeck
+T97	Location 32860 32868	Bramsche
+T99	Location 22729 22737	Bramsche
+T100	Location 33012 33018;33019 33027	Schle- dehausen
+T101	Location 33037 33043	Astrup
+T102	Location 33052 33061	Ellerbeck
+T105	Location 33788 33801	Schledehausen
+T106	Location 33866 33872	Astrup
+T107	Location 33920 33929	Ellerbeck
+T108	Location 35540 35553	Schledehausen
+T109	Location 35907 35920	Schledehausen
+T111	Location 36826 36839	Schledehausen
+T112	Location 36770 36783	Schledehausen
+T113	Location 36841 36847	Astrup
+T114	Location 36853 36862	Ellerbeck
+T116	Location 38120 38133	Schledehausen
+T117	Location 38138 38144	Astrup
+T118	Location 45201 45208	Finland
+T119	Location 5123 5127	Asia
+T120	Location 5129 5135	Europe
+T121	Location 5158 5164	Africa
+T122	Location 5971 5977	Europe
+T123	Location 6231 6237	Europe
+T124	Location 7054 7060	Europe
+T125	Location 8212 8218	Europe
+T126	Location 9797 9804;9805 9808	Osnabr€ uck
+T55	Location 39340 39345	Chile
+T57	Location 46306 46312	Europe
+T56	Location 35168 35172;35173 35177	Ger- many
+T58	Location 46159 46163;46164 46173	Fen- noscandia
+T66	Location 32918 32931	Schledehausen
+T70	Protein 36271 36277	© 2015
+#70	AnnotatorNotes T70	BEGIN
+T71	Protein 36439 36443	host
+#71	AnnotatorNotes T71	END

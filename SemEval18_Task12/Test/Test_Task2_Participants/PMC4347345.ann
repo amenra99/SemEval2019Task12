@@ -1,0 +1,254 @@
+T1	Protein 0 2	Am
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 141 148	Hygiene
+#2	AnnotatorNotes T2	END
+T3	Protein 188 192	John
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 563 570	Ecology
+#4	AnnotatorNotes T4	END
+T5	Protein 6055 6056	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6216 6219	377
+#6	AnnotatorNotes T6	END
+T7	Protein 12103 12106	378
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 12120 12126	OTHERS
+#8	AnnotatorNotes T8	END
+T9	Protein 17838 17849	ARBOVIRUSES
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 17866 17869	379
+#10	AnnotatorNotes T10	END
+T11	Protein 23455 23466	ARBOVIRUSES
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 23483 23486	381
+#12	AnnotatorNotes T12	END
+T13	Protein 27405 27408	382
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 27422 27428	OTHERS
+#14	AnnotatorNotes T14	END
+T15	Protein 28463 28474	ARBOVIRUSES
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 28491 28494	383
+#16	AnnotatorNotes T16	END
+T17	Protein 28746 28749	384
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 28763 28769	OTHERS
+#18	AnnotatorNotes T18	END
+T19	Protein 32600 32611	ARBOVIRUSES
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 32628 32631	385
+#20	AnnotatorNotes T20	END
+T21	Protein 35211 35214	386
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 35228 35234	OTHERS
+#22	AnnotatorNotes T22	END
+T23	Protein 35562 35573	ARBOVIRUSES
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 35590 35593	387
+#24	AnnotatorNotes T24	END
+T25	Protein 39212 39215	388
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 39229 39235	OTHERS
+#26	AnnotatorNotes T26	END
+T27	Protein 46405 46416	ARBOVIRUSES
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 46433 46436	389
+#28	AnnotatorNotes T28	END
+T29	Protein 49721 49729	Received
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 71555 71558	393
+#30	AnnotatorNotes T30	END
+T31	Location 164 176	North Dakota
+T32	Location 622 634	North Dakota
+T34	Location 1726 1738	North Dakota
+T35	Location 2065 2077	North Dakota
+T36	Location 2219 2231	North Dakota
+T37	Location 2391 2403	North Dakota
+T38	Location 2816 2828	North Dakota
+T39	Location 2864 2876	North Dakota
+T41	Location 2978 2983	Fargo
+T43	Location 3019 3026	Walcott
+T44	Location 3091 3100	Williston
+T46	Location 3225 3231	Lakota
+T48	Location 3388 3400	North Dakota
+T51	Location 4040 4045	Fargo
+T54	Location 4174 4183	Red River
+T55	Location 4237 4246	Williston
+T58	Location 4373 4387	Missouri River
+T60	Location 4502 4508	Lakota
+T61	Location 4527 4533	Lakota
+T63	Location 4682 4688	Lakota
+T64	Location 4829 4836	Walcott
+T68	Location 5210 5220	Argusville
+T70	Location 5231 5245	Sheyenne River
+T71	Location 5301 5307	Horace
+T73	Location 5335 5340	Fargo
+T74	Location 5393 5398	Fargo
+T75	Location 5705 5710	Fargo
+T76	Location 5359 5366	Walcott
+T77	Location 5624 5630	Lakota
+T78	Location 5770 5776	Horace
+T79	Location 5861 5866	Fargo
+T80	Location 5969 5978	Williston
+T81	Location 5980 5982	ND
+T82	Location 6477 6488	Gainesville
+T83	Location 6490 6492	FL
+T84	Location 8015 8023	Carlsbad
+T85	Location 8025 8027	CA
+T86	Location 8202 8204	CA
+T87	Location 8194 8200	Irvine
+T88	Location 9955 9963	Valencia
+T89	Location 9965 9967	CA
+T90	Location 10301 10310	St. Louis
+T91	Location 10312 10314	MO
+T92	Location 10840 10850	Branchburg
+T93	Location 10852 10854	NJ
+T94	Location 11206 11215	Sunnyvale
+T95	Location 11217 11219	CA
+T96	Location 11687 11699	Indianapolis
+T97	Location 11701 11703	IN
+T98	Location 12047 12059	North Dakota
+T99	Location 13071 13080	New Haven
+T100	Location 13082 13084	CT
+T101	Location 13568 13580	Indianapolis
+T102	Location 13582 13584	IN
+T103	Location 15418 15422	Cass
+T104	Location 15424 15432	Richland
+T105	Location 15434 15440	Nelson
+T106	Location 15445 15453	Williams
+T107	Location 15652 15664	North Dakota
+T108	Location 16891 16903	North Dakota
+T109	Location 20245 20251	Nelson
+T110	Location 20253 20257	Cass
+T111	Location 20259 20267	Richland
+T112	Location 20273 20281	Williams
+T113	Location 21211 21219	Williams
+T114	Location 21191 21195	Cass
+T115	Location 21197 21205	Richland
+T116	Location 21183 21189	Nelson
+T117	Location 21230 21242	North Dakota
+T118	Location 21304 21310	Nelson
+T119	Location 21311 21315	Cass
+T120	Location 21325 21329	Cass
+T121	Location 21348 21352	Cass
+T122	Location 21316 21324	Richland
+T123	Location 21330 21338	Richland
+T124	Location 21353 21361	Richland
+T125	Location 21339 21347	Williams
+T126	Location 21362 21370	Williams
+T127	Location 21371 21379	Williams
+T128	Location 21769 21781	North Dakota
+T129	Protein 22448 22451	380
+#129	AnnotatorNotes T129	BEGIN
+T130	Protein 22465 22471	OTHERS
+#130	AnnotatorNotes T130	END
+T131	Location 23280 23292	North Dakota
+T132	Location 23430 23442	North Dakota
+T133	Location 24015 24027	North Dakota
+T136	Location 25305 25317	North Dakota
+T137	Location 27380 27392	North Dakota
+T138	Location 28568 28580	North Dakota
+T139	Location 28964 28976	North Dakota
+T140	Location 29254 29266	North Dakota
+T141	Location 29189 29202	United States
+T146	Location 29768 29780	North Dakota
+T149	Location 30625 30638	United States
+T150	Location 31617 31628	Connecticut
+T151	Location 31949 31953	Cass
+T152	Location 31955 31963	Williams
+T153	Location 31969 31977	Richland
+T154	Location 32580 32592	North Dakota
+T158	Location 34234 34246	North Dakota
+T159	Location 34404 34416	North Dakota
+T160	Location 34769 34781	North Dakota
+T161	Location 35186 35198	North Dakota
+T162	Location 35350 35362	North Dakota
+T163	Location 35960 35972	North Dakota
+T165	Location 36389 36402	United States
+T166	Location 36419 36431	North Dakota
+T167	Location 36601 36613	North Dakota
+T168	Location 36652 36665	United States
+T169	Location 36735 36747	North Dakota
+T170	Location 36993 36998;36999 37005	North Dakota
+T171	Location 37343 37354	Grand Forks
+T172	Location 37356 37368	North Dakota
+T173	Location 37679 37681	ND
+T174	Location 37666 37671;37672 37677	Grand Forks
+T175	Location 37995 38003	Illinois
+T176	Location 38008 38016	Colorado
+T177	Location 38065 38077	North Dakota
+T178	Location 38187 38192;38193 38199	North Dakota
+T179	Location 39187 39199	North Dakota
+T180	Location 41165 41170;41171 41177	North Dakota
+T181	Location 41291 41304	United States
+T182	Location 41468 41480	Cache Valley
+T183	Location 41482 41486	Utah
+T184	Location 41567 41579	North Dakota
+T185	Location 41590 41596	Mexico
+T186	Location 41602 41609	Jamaica
+T187	Location 41958 41970	North Dakota
+T188	Location 42248 42260	North Dakota
+T189	Location 43099 43106	Montana
+T190	Location 43199 43211	North Dakota
+T191	Location 44294 44299;44300 44306	North Dakota
+T192	Location 44508 44519	Connecticut
+T193	Location 44641 44653	North Dakota
+T194	Location 44757 44765	Bismarck
+T195	Location 44767 44779	North Dakota
+T196	Location 46874 46880	Potosi
+T197	Location 46882 46884	MO
+T198	Location 46972 46980	Illinois
+T199	Location 46982 46990	Michigan
+T200	Location 46992 46996	Ohio
+T201	Location 47013 47024	Connecticut
+T202	Location 47030 47038	New York
+T203	Location 47084 47096	North Dakota
+T204	Location 47870 47877	Montana
+T205	Location 48005 48011	Alaska
+T206	Location 48015 48022	Montana
+T207	Location 48026 48034	New York
+T208	Location 48038 48047	Wisconsin
+T209	Location 48051 48064	Massachusetts
+T210	Location 48181 48193	North Dakota
+T211	Location 48494 48500	Canada
+T212	Location 48775 48781	Canada
+T213	Location 48790 48803	United States
+T214	Location 48805 48811	Mexico
+T215	Location 48813 48819	Guyana
+T216	Location 48821 48827	Brazil
+T217	Location 48829 48836	Uruguay
+T218	Location 48842 48851	Argentina
+T219	Location 48910 48922	North Dakota
+T220	Location 48989 49001	North Dakota
+T221	Location 49270 49282	North Dakota
+T222	Location 49344 49356	North Dakota
+T224	Location 49405 49407	CA
+T33	Location 1261 1265	Cass
+T40	Location 2985 2989	Cass
+T42	Location 3028 3036	Richland
+T45	Location 3115 3123	Williams
+T47	Location 3233 3239	Nelson
+T49	Location 3967 3971	Cass
+T50	Location 3999 4007	Williams
+T53	Location 4120 4124	Cass
+T57	Location 4331 4339	Williams
+T59	Location 4469 4475	Nelson
+T67	Location 4925 4929	Cass
+T66	Location 4864 4872	Richland
+T134	Location 24461 24465	Cass
+T135	Location 24611 24615	Cass
+T142	Location 29548 29554	Nelson
+T143	Location 29609 29613	Cass
+T144	Location 29725 29729	Cass
+T145	Location 29751 29759	Williams
+T147	Location 30121 30129	Williams
+T148	Location 30193 30197	Cass
+T155	Location 33400 33408	Williams
+T156	Location 33547 33551	Cass
+T157	Location 33935 33939	Cass
+T164	Location 36002 36006	Cass
+T223	Location 49392 49396	Kern
+T225	Location 49425 49438	North America
+T226	Location 2708 2721	North America
+T227	Location 29126 29131;29132 29139	North America
+T228	Location 42902 42907;42908 42915	North America

@@ -1,0 +1,78 @@
+T1	Protein 0 8	American
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 557 569	Contribution
+#2	AnnotatorNotes T2	END
+T3	Protein 659 668	Salvatore
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1083 1084	.
+#4	AnnotatorNotes T4	END
+T5	Protein 2698 2711	Abbreviations
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2865 2866	.
+#6	AnnotatorNotes T6	END
+T7	Protein 4357 4360	527
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4416 4417	.
+#8	AnnotatorNotes T8	END
+T9	Protein 10902 10904	Am
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 10991 10994	529
+#10	AnnotatorNotes T10	END
+T11	Protein 14384 14386	Am
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14416 14419	533
+#12	AnnotatorNotes T12	END
+T13	Protein 16361 16364	530
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16378 16379	.
+#14	AnnotatorNotes T14	END
+T15	Protein 19918 19920	Am
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 20007 20010	531
+#16	AnnotatorNotes T16	END
+T17	Protein 23150 23152	Am
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 23182 23185	533
+#18	AnnotatorNotes T18	END
+T19	Protein 25392 25395	532
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 25409 25410	.
+#20	AnnotatorNotes T20	END
+T21	Protein 29058 29073	ACKNOWLEDGMENTS
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 37482 37483	.
+#22	AnnotatorNotes T22	END
+T23	Location 652 657	Italy
+T24	Location 1646 1651	Italy
+T25	Location 1627 1635	Lombardy
+T26	Location 4290 4295	Italy
+T27	Location 4283 4288	Siena
+T28	Location 4320 4326	Europe
+T29	Location 5431 5436	Italy
+T30	Location 5994 6002	Lombardy
+T31	Location 5916 5923	Cremona
+T32	Location 5925 5932	Bergamo
+T33	Location 5934 5941	Mantova
+T34	Location 5943 5948	Lecco
+T35	Location 5954 5959	Pavia
+T36	Location 7564 7572;7574 7584	Northern Hemisphere
+T37	Location 15290 15298	Lombardy
+T38	Location 15300 15305	Italy
+T39	Location 16471 16476	Italy
+T40	Location 16461 16469	Lombardy
+T41	Location 16922 16926	Cary
+T42	Location 16928 16942	North Carolina
+T43	Location 18345 18353	Lombardy
+T44	Location 19532 19540	Lombardy
+T45	Location 19542 19547	Italy
+T46	Location 23316 23321	Italy
+T47	Location 23306 23314	Lombardy
+T48	Location 23678 23685	Cremona
+T49	Location 23702 23709	Bergamo
+T50	Location 23732 23739	Cremona
+T51	Location 23762 23767	Lecco
+T52	Location 23796 23801	Lecco
+T53	Location 23824 23831	Mantova
+T54	Location 23860 23865	Pavia
+T55	Location 25528 25536	Lombardy
+T56	Location 25538 25543	Italy

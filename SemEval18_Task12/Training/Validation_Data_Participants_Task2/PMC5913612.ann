@@ -1,0 +1,82 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 154 161	Disease
+#2	AnnotatorNotes T2	END
+T3	Protein 291 296	Aaron
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1375 1379	2017
+#4	AnnotatorNotes T4	END
+T5	Protein 2879 2884	C The
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3432 3435	551
+#6	AnnotatorNotes T6	END
+T7	Protein 7775 7778	552
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7838 7839	2
+#8	AnnotatorNotes T8	END
+T9	Protein 9748 9761	International
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9806 9807	2
+#10	AnnotatorNotes T10	END
+T11	Protein 15341 15344	554
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15404 15405	2
+#12	AnnotatorNotes T12	END
+T13	Protein 19412 19425	International
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 19473 19476	555
+#14	AnnotatorNotes T14	END
+T15	Protein 23418 23421	556
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23481 23482	2
+#16	AnnotatorNotes T16	END
+T17	Protein 24962 24975	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 25023 25026	557
+#18	AnnotatorNotes T18	END
+T19	Protein 29415 29418	558
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 29478 29479	2
+#20	AnnotatorNotes T20	END
+T21	Protein 34787 34800	International
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 34845 34846	2
+#22	AnnotatorNotes T22	END
+T23	Protein 35427 35440	Supplementary
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 45365 45366	.
+#24	AnnotatorNotes T24	END
+T25	Location 205 213	Pakistan
+T26	Location 1679 1687	Pakistan
+T27	Location 1792 1800	Pakistan
+T28	Location 3690 3698	Pakistan
+T29	Location 4321 4329	Pakistan
+T30	Location 4475 4483	Pakistan
+T31	Location 3714 3722	Pakistan
+T32	Location 5756 5764	Pakistan
+T33	Location 6256 6264	Pakistan
+T34	Location 6385 6393	Pakistan
+T35	Location 8929 8937	Pakistan
+T36	Location 11787 11795	Pakistan
+T37	Location 11991 11999	Pakistan
+T38	Location 13197 13205	Pakistan
+T39	Location 19280 19288	Pakistan
+T40	Location 19567 19575	Pakistan
+T41	Location 21808 21816	Pakistan
+T42	Location 26295 26303	Pakistan
+T43	Location 27335 27343	Pakistan
+T44	Location 27514 27519	Egypt
+T45	Location 27599 27607	Pakistan
+T46	Location 27682 27690	Pakistan
+T47	Location 27905 27912	Georgia
+T48	Location 28137 28145	Pakistan
+T49	Location 29034 29042	Pakistan
+T50	Location 29123 29131	Pakistan
+T51	Location 29494 29502	Pakistan
+T52	Location 32861 32869	Pakistan
+T53	Location 33515 33523	Pakistan
+T54	Location 33775 33780	Egypt
+T55	Location 34419 34424	Egypt
+T56	Location 34333 34338	Egypt
+T57	Location 34402 34410	Pakistan
+T58	Location 34865 34873	Pakistan

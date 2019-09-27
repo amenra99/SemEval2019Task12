@@ -1,0 +1,465 @@
+© 2016 Rasmussen et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/
+terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+Clinical Epidemiology 2016:8 457–460 (Thematic series on clinical quality databases in Denmark)
+Clinical Epidemiology Dovepress
+submit your manuscript | www.dovepress.com
+Dovepress
+457
+R e v i e w
+open access to scientific and medical research
+Open Access Full Text Article
+http://dx.doi.org/10.2147/CLEP.S99474
+The Danish Cerebral Palsy Follow-up Program
+Helle Mätzke Rasmussen1,2
+Kirsten Nordbye-Nielsen3
+Bjarne Møller-Madsen3
+Mette Johansen4
+Niels Ellitsgaard5
+Charlotte Reinhardt
+Pedersen6
+Gija Rackauskaite7
+Henriette Engberg8,9
+Niels Wisbech Pedersen2
+1
+Department of Pediatrics,The
+Danish Cerebral Palsy Follow-up
+Program, Lillebaelt Hospital, Kolding,
+2
+Department of Orthopedic Surgery
+and Traumatology, Institute of
+Clinical Research, Odense University
+Hospital, University of Southern
+Denmark, Odense, 3
+Department of
+Children’s Orthopaedics, Aarhus
+University Hospital, Institute of
+Clinical Research, Aarhus University,
+Aarhus, 4
+Department of Pediatrics,
+Aalborg University Hospital, Aalborg,
+5
+Department of Orthopedic Surgery,
+Hvidovre University Hospital,
+Hvidovre, 6
+Department of Pediatrics,
+North Zealand Hospital Hilleroed,
+Hilleroed, 7
+Department of Pediatrics,
+Aarhus University Hospital,
+Aarhus, 8
+Research Unit of Clinical
+Epidemiology, Institute of Clinical
+Research, University of Southern
+Denmark, 9
+Centre for Clinical
+Epidemiology, Odense University
+Hospital, Odense, Denmark
+Correspondence: Helle Mätzke
+Rasmussen
+Department of Pediatrics,The Danish
+Cerebral Palsy Follow-up Program,
+Lillebaelt Hospital, Skovvangen 2-8, 6000
+Kolding, Denmark
+Tel +45 2018 0919
+Email helle@cpop.dk
+Aim of database: The Danish Cerebral Palsy Follow-up Program is a combined follow-up
+program and national clinical quality database that aims to monitor and improve the quality of
+health care for children with cerebral palsy (CP).
+Study population:The database includes children with CP aged 0–15 years and children with
+symptoms of CP aged 0–5 years.
+Main variables: In the follow-up program, the children are offered examinations throughout their
+childhood by orthopedic surgeons, physiotherapists, occupational therapists, and pediatricians.
+Examinations of gross and fine motor function, manual ability, muscle tone, passive range of
+motion, use of orthotics, and assistive devices are performed once a year; radiographic examina-
+tion of the hips is planned based on the child’s age and gross motor function; and the diagnosis
+is performed once before the age of 5 years. Six indicators were developed based on scientific
+literature and consensus in the steering committee, and their calculation is based on the following
+four main variables: radiographic examination of the hip, gross motor function, manual ability,
+and diagnosis.
+Descriptive data: The 2014 annual report includes results of the quality indicators in three
+of five regions in Denmark comprising 432 children with CP, corresponding to a coverage of
+82% of the expected population.
+Conclusion:The Danish Cerebral Palsy Follow-up Program is currently under development as a
+national clinical quality database in Denmark.The database holds potential for research in preva-
+lence, clinical characteristics of the population, and the effects of prevention and treatment.
+Keywords: cerebral palsy, clinical quality database, hip surveillance
+Aim of database
+The Danish Cerebral Palsy Follow-up Program (CPOP) is a combined follow-up
+program and a national clinical quality database that includes children with cerebral
+palsy (CP) aged 0–15 years and children with CP-like symptoms aged 0–5 years. The
+objective of the follow-up program is to prevent complications of CP and promote the
+use of standardized examinations by orthopedic surgeons, pediatricians, occupational
+therapists, and physiotherapists. The clinical quality database includes data obtained
+from the examinations and aims to document, monitor, and improve the quality of
+health care for children with CP in Denmark.
+Study population
+CP is the most common congenital motor disability in childhood with a prevalence of
+2.1–3.0/1,000 live births.1
+According to the Surveillance of Cerebral Palsy in Europe
+Number of times this article has been viewed
+This article was published in the following Dove Press journal:
+Clinical Epidemiology
+25 October 2016
+Clinical Epidemiology 2016:8
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+458
+Rasmussen et al
+definition, CP is “a group of permanent but not unchanging
+disorders of movement and/or posture and motor function,
+which are due to a non-progressive interference, lesion or
+abnormality of the developing/immature brain.”2
+Although
+the brain lesion is nonprogressive, the neuromusculoskeletal
+and movement-related functions do change and can cause
+limitations in relation to activity and participation.2
+The diagnosis of CP can be categorized into four sub-
+types: spastic, dyskinetic, ataxia, and mixed form.2
+The sub-
+type is supplemented with a classification of motor function
+using the Gross Motor Function Classification System and
+the Manual Ability Classification System.3,4
+Both systems
+are ordinal scales with five levels of function, ­
+representing
+clinically meaningful distinctions in motor function. ­
+Children
+at level I are the least disabled, although they may have
+­
+limitations in advanced motor skills. Children at levelV have
+the most severe motor disability. Their ability to perform
+independent movements and functions is limited even with
+the use of assistive technology.
+Children with CP are in need of continuous follow-up
+and treatment throughout childhood. In Denmark, the
+responsibility for health care for children with CP is shared
+between five regions and 98 municipalities. The regions are
+responsible for the hospitals and thus the interventions by
+orthopedic ­
+surgeons and pediatricians.The municipalities are
+responsible for interventions by physiotherapists and occu-
+pational therapists, who are affiliated to a range of ­
+different
+institutions, such as rehabilitations centers, ­
+nurseries, and
+special needs schools.
+The follow-up program and national
+clinical quality database
+A follow-up program and database were developed .20 years
+ago in Sweden as a secondary prevention program to detect
+early signs of deterioration through standardized exami-
+nations performed by physiotherapists and occupational
+therapists once a year, orthopedic surgeons based on the
+child’s age and gross motor function, and pediatricians once
+before the age of 5 years.5
+Sweden, Norway, Scotland, and
+parts of Iceland and Australia now use the program or some
+modified versions.6
+In Denmark, CPOP was started in the Region of Southern
+Denmark in 2010 and is currently under development as a
+national follow-up program and clinical database. CPOP is
+currently implemented for children born in 2003 or later in
+the Region of Southern Denmark and children born in 2008
+or later in the Central Denmark Region, the Capital Region
+of Denmark, and the North Denmark Region.
+The annual report from 2014 describes the quality of
+health care in three of five regions for 432 children with CP,
+corresponding to a coverage of 82% of the expected popula-
+tion in the regions. The annual report will cover all the five
+regions of Denmark from 2017. CPOP is expected to be
+fully implemented in 2023, when children born in 2008 are
+15 years of age. Approximately 125 children are diagnosed
+with CP every year, thus the CPOP follow up program expects
+to include 1,800 children when fully implemented.
+The follow-up program will be a population-based service,
+including all children diagnosed with CP aged 0–15 years
+and children with CP-like symptoms aged 0–5 years. If the
+diagnosis is confirmed at the age of 5 years, the child con-
+tinues to be enrolled in the follow-up program, and if the
+diagnosis cannot be confirmed, the child is dismissed from
+the program. All children participating in the program are
+registered in the CPOP database.
+The examinations in the CPOP are offered throughout
+the childhood and should lead to early detection of compli-
+cations, such as hip dislocation, scoliosis, and contractures
+of muscles and joints.6
+The examinations are reported to the
+database by orthopedic surgeons, physiotherapists, occu-
+pational therapists, and pediatricians across regions and
+municipalities. The involved pediatric departments offer
+interdisciplinary consultations, where children, parents, and
+health care professionals meet and agree on future follow-ups
+and interventions.
+Main variables
+Pediatricians perform the initial evaluation for inclusion of
+children in CPOP.The examinations are planned based on the
+child’s age and gross motor function as outlined in Table 1.
+The examinations can be completed at any time during the
+calendar year of follow-up.
+Orthopedic surgeons are responsible for repeated
+­
+radiographic examinations of the hip and spine, including
+measuring the degree of femoral head displacement.7
+Physiotherapists or occupational therapists describe
+the child’s gross motor function and manual ability using
+Gross Motor Function Classification System and Manual
+­
+Ability Classification System.3,4
+Furthermore, they perform
+a ­
+physical examination of the spine, muscle tone, passive
+range of motion, pain, mobility/transfer/positioning, and use
+of orthotics and assistive devices.
+Pediatricians examine the child and confirm that the cri-
+teria for CP diagnosis are met.2
+Furthermore, they describe
+the CP subtype, etiology, and other health conditions/
+disabilities.
+Clinical Epidemiology 2016:8 submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+459
+The Danish Cerebral Palsy Follow-Up Program
+Quality indicators
+TheStatensSerumInstitut,apublicenterpriseunderthe­
+Danish
+Ministry of Health, has officially approved six indicators of
+quality of processes and results of health care.The indicators
+were developed based on scientific literature, ­
+documented best
+practices from the clinical databases in ­
+Sweden and Norway,
+and consensus in the steering committee.
+The quality indicators and results reported in the annual
+report of 2014 are described in Table 2. The proportion of
+participants with missing data on variables that are used
+to calculate indicators 1, 5, and 6 will be reported in the
+annual report of 2015 and onward. The quality indicators
+are primarily based on four main variables: radiographic
+examination of the hip, gross motor function, manual abil-
+ity, and diagnosis. The clinical importance of the variables
+varies, and the goal is to report all the four variables in 60%
+of participants, if relevant. In the annual report from 2014,
+52% of the parti­
+cipants had all four variables reported, if
+relevant.
+Follow-up
+The follow-up period for the individual child will be from
+diagnosis, which is typically between birth and 3 years of
+age, until the child is 15 years of age.
+Examples of research
+The regional database has been used to describe the epide-
+miology of CP in Southern Denmark.8
+The use of CPOP in
+several countries makes it possible to compare the quality
+of health care between the participating countries. The
+data from the follow-up program and database in Sweden
+have been published in a number of international scientific
+journals.5,6,9–11
+The main studies document characteristics of
+the population and the effects of the follow-up program and
+database on prevention of dislocation of the hip in children
+with CP.5,10
+Results from the first 10 years were published
+in 2005, and from the first 20 years in 2014.5,10
+These results
+have shown a decrease in the incidence of dislocation of the
+hip from 8% in a historical control group to 0.5% in the group
+that participated in CPOP.5
+Administrative issues and funding
+Implementation of CPOP has been supported by a private
+foundation: The Ludvig and Sara Elsass Foundation. Each
+of the five regions in Denmark is responsible for the imple-
+mentation and continued operation of the follow-up program,
+Table 1 Assessments in The Danish Cerebral Palsy Follow-up
+Program that are reported to the database
+Profession Assessment Time
+points
+Orthopedic
+surgeons
+Radiographic examination of the hips
+Radiographic examination of the spine
+As neededa
+Physical and
+occupational
+therapist
+Gross motor function and manual ability
+Functional mobility and fine motor function
+Muscle tone
+Passive range of motion
+Spinal examination
+Pain
+Mobility/transfer/positioning
+Orthotics
+Assistive devices
+Once a year
+Pediatricians Diagnosis and subtype
+Etiology
+Other health conditions/disabilities
+Onceb
+Notes: a
+Examination of the hips is performed once a year for children at GMFCS
+levels III–V until the age of 8 years. Examination of the spine is based on spinal
+examinations done by orthopedic surgeons and physiotherapists. b
+Before the age
+of 5 years.
+Abbreviation: GMFCS, Gross Motor Function Classification System.
+Table 2 Quality indicators
+Number, name, description, standard, and results
+(95% CI)
+Type
+1. 
+Radiographic examination of the hips
+The proportion of children where the migration percentage
+for both hips is reported in children at GMFCS levels III–V,
+age 0–8 years.
+The standard is minimum 90%. The overall result in 2014
+was 62% (95% CI: 51–71)
+Process
+2. 
+Gross motor function
+The proportion of children where gross motor function is
+reported with the GMFCS.
+The standard is minimum 95%. The overall result in 2014
+was 84% (95% CI: 81–88)
+Process
+3. 
+Manual ability
+The proportion of children where manual ability is reported
+with the MACS.
+The standard is minimum 75%. The overall result in 2014
+was 63% (95% CI: 59–68)
+Process
+4. 
+Diagnosis
+The proportion of children where the diagnosis is confirmed
+by the pediatrician in children aged 5 years or older.
+The standard is minimum 95%. The overall result in 2014
+was 88% (95% CI: 84–92)
+Process
+5. 
+All-or-none
+The proportion of children where indicator 1–4 is fulfilled,
+if relevant.
+The standard is minimum 60%. The overall result in 2014
+was 52% (95% CI: 47–57)
+Process
+6. 
+Hip dislocation
+The proportion of children with hip dislocation defined as
+a migration percentage of 100% on one or both hips, in
+children at GMFCS levels III–V, age 0–8 years.
+The standard is maximum 5%. The overall result in 2014
+was 6% (95% CI: 2–14)
+Result
+Abbreviations: CI, confidence interval; GMFCS, Gross Motor Function
+Classification System; MACS, Manual Ability Classification System.
+Clinical Epidemiology
+Publish your work in this journal
+Submit your manuscript here: http://www.dovepress.com/clinical-epidemiology-journal
+Clinical Epidemiology is an international, peer-reviewed, open access,
+online journal focusing on disease and drug epidemiology, identifica-
+tion of risk factors and screening procedures to develop optimal pre-
+ventative initiatives and programs. Specific topics include: diagnosis,
+prognosis, treatment, screening, prevention, risk factor modification,
+systematic reviews, risk & safety of medical interventions, epidemiol-
+ogy & biostatistical methods, and evaluation of guidelines, translational
+medicine, health policies & economic evaluations. The manuscript
+management system is completely online and includes a very quick
+and fair peer-review system, which is all easy to use.
+Clinical Epidemiology 2016:8
+submit your manuscript | www.dovepress.com
+Dovepress
+Dovepress
+Dovepress
+460
+Rasmussen et al
+which involves health care professionals across regions and
+municipalities. The database is currently being established
+as a national clinical quality database and is financially
+­
+supported byThe Danish Clinical Registries.The database is
+led by a board consisting of representatives from the patient
+organization, professional associations, the regions, and
+Danish Clinical Registries.
+Conclusion
+The CPOP is currently being developed as a national clinical
+database in Denmark.
+Previous research studies have documented the effects
+of the follow-up program and database on the prevention of
+­
+dislocation of the hip in children with CP in Sweden. The
+objective of the follow-up program is to prevent complica-
+tions of CP, and the database aims to document, monitor,
+and improve the quality of health care for children with CP
+in Denmark. Studies from Sweden substantiate the potential
+with regard to research in prevalence, clinical character-
+istics of the population, and the effects of prevention and
+treatment.
+Acknowledgments
+The Danish CPOP would like to thank the Ludvig and Sara
+Elsass Foundation for their support and our colleagues for
+help during the implementation of CPOP in Denmark. This
+paper was funded by the Program for Clinical Research
+­
+Infrastructure established by the Lundbeck Foundation and
+the Novo Nordisk Foundation, and administered by the Dan-
+ish Regions.
+Author contributions
+HMR prepared the manuscript. KNN, BMM, MJ, NE, CRP,
+GR, HE, and NWP have contributed to critical revision of
+the manuscript for important intellectual content.All authors
+contributed toward data analysis, drafting and critically revis-
+ing the paper and agree to be accountable for all aspects of
+the work.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1. Ravn SH, Flachs EM, Uldall P. Cerebral palsy in eastern Denmark:
+declining birth prevalence but increasing numbers of unilateral
+­
+cerebral palsy in birth year period 1986–1998. Eur J Paediatr Neurol.
+2010;14(3):214–218.
+2. Surveillance of Cerebral Palsy in Europe. Surveillance of cerebral
+palsy in Europe: a collaboration of cerebral palsy surveys and registers.
+Dev Med Child Neurol. 2000;42(12):816–824.
+3. Rosenbaum PL, Palisano RJ, Bartlett DJ, Galuppi BE, Russell DJ.
+Development of the gross motor function classification system for
+cerebral palsy. Dev Med Child Neurol. 2008;50(4):249–253.
+4. Eliasson AC, Krumlinde-Sundholm L, Rosblad B, et al. The manual
+ability classification system (MACS) for children with cerebral palsy:
+scale development and evidence of validity and reliability. Dev Med
+Child Neurol. 2006;48(7):549–554.
+5. Hagglund G, Andersson S, Duppe H, Lauge-Pedersen H, Nordmark E,
+Westbom L. Prevention of dislocation of the hip in children with cerebral
+palsy – the first ten years of a population-based prevention programme.
+J Bone Joint Surg Br. 2005;87B(1):95–101.
+6. Alriksson-Schmidt A, Hagglund G, Rodby-Bousquet E, Westbom L.
+Follow-up of individuals with cerebral palsy through the transition years
+and description of adult life: the Swedish experience. J Pediatr Rehabil
+Med. 2014;7(1):53–61.
+7. Reimers J. The stability of the hip in children. A radiological study
+of the results of muscle surgery in cerebral palsy. Acta Orthop Scand
+Suppl. 1980;184:1–100.
+8. Froslev-Friis C, Dunkhase-Heinl U, Andersen JD, Stausbol-Gron B,
+Hansen AV, Garne E. Epidemiology of cerebral palsy in Southern
+Denmark. Dan Med J. 2015;62(1):A4990.
+9. Hagglund G, Andersson S, Duppe H, Lauge-Pedersen H, Nordmark E,
+Westbom L. Prevention of severe contractures might replace multilevel
+surgery in cerebral palsy: results of a population-based health care
+­
+programme and new techniques to reduce spasticity. J Pediatr Orthop B.
+2005;14(4):269–273.
+10. Hagglund G, Alriksson-Schmidt A, Lauge-Pedersen H, Rodby-
+­
+Bousquet E, Wagner P, Westbom L. Prevention of dislocation of the hip
+in children with cerebral palsy: 20-year results of a population-based
+prevention programme. Bone Joint J. 2014;96-B(11):1546–1552.
+11. Westbom L, Hagglund G, Nordmark E. Cerebral palsy in a total
+­
+population of 4-11 year olds in southern Sweden. Prevalence and distri­
+bution according to different CP classification systems. BMC Pediatr.
+2007;7:41.

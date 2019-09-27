@@ -1,0 +1,272 @@
+T1	Protein 120 121	A
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 430 431	)
+#2	AnnotatorNotes T2	END
+T3	Protein 3195 3196	*
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3502 3509	Kingdom
+#4	AnnotatorNotes T4	END
+T5	Protein 5981 5984	530
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5998 6004	others
+#6	AnnotatorNotes T6	END
+T7	Protein 22800 22816	ACKNOWLEDGEMENTS
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 28264 28270	others
+#8	AnnotatorNotes T8	END
+T9	Protein 12426 12429	532
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 12443 12449	others
+#10	AnnotatorNotes T10	END
+T11	Protein 18463 18466	534
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 18480 18486	others
+#12	AnnotatorNotes T12	END
+T13	Location 45 53	Colombia
+T14	Location 524 532	Colombia
+T15	Location 1223 1231	Colombia
+T16	Location 1789 1797	Colombia
+T17	Location 2159 2167	Colombia
+T18	Location 2462 2470	Colombia
+T19	Location 2906 2914	Colombia
+T20	Location 3572 3580	Colombia
+T21	Location 3827 3835	Colombia
+T22	Location 4109 4117	Colombia
+T23	Location 4652 4659	Atlanta
+T24	Location 4661 4663	GA
+T25	Location 4665 4668	USA
+T26	Location 4839 4851	Gaithersburg
+T27	Location 4853 4855	MD
+T28	Location 4857 4860	USA
+T29	Location 5662 5670	Colombia
+T30	Location 5679 5688	Venezuela
+T31	Location 5689 5695	Panama
+T32	Location 5696 5709	Caribbean Sea
+T33	Location 5710 5723	Pacific Ocean
+T34	Location 5971 5979	Colombia
+T35	Location 6389 6400	Foster City
+T36	Location 6402 6404	CA
+T37	Location 6406 6409	USA
+T38	Location 6692 6695	USA
+T39	Location 6688 6690	CA
+T40	Location 6675 6686	Foster City
+T41	Location 6890 6892	UK
+T42	Location 8419 8427	Colombia
+T43	Location 8428 8437	Atlántico
+T44	Location 8391 8396	Sucre
+T45	Location 8383 8390	Bolívar
+T46	Location 8373 8382	Magdalena
+T47	Location 8348 8353	Cesar
+T48	Location 8354 8362;8363 8372	Norte de Santander
+T49	Location 8397 8404	Córdoba
+T50	Location 8405 8418	Caribbean Sea
+T51	Location 8438 8448	La Guajira
+T52	Location 8489 8497	Colombia
+T54	Location 9195 9204	Sincelejo
+T55	Location 9255 9264	Sta. Rosa
+T56	Location 9206 9211	Sucre
+T57	Location 9266 9274	Bolı́var
+T58	Location 9327 9335	Bolı́var
+T59	Location 9388 9396	Bolı́var
+T60	Location 9449 9457	Bolı́var
+T61	Location 9566 9574	Bolı́var
+T62	Location 9627 9635	Bolı́var
+T63	Location 9688 9696	Bolı́var
+T64	Location 9933 9941	Bolı́var
+T65	Location 10423 10431	Bolı́var
+T66	Location 11142 11150	Bolı́var
+T67	Location 11439 11447	Bolı́var
+T68	Location 11815 11823	Bolı́var
+T69	Location 12125 12133	Bolı́var
+T70	Location 11877 11885	Bolı́var
+T71	Location 9316 9325	Cartagena
+T72	Location 9377 9386	Cartagena
+T73	Location 9438 9447	Cartagena
+T74	Location 10412 10421	Cartagena
+T75	Location 11428 11437	Cartagena
+T76	Location 9499 9509	Valledupar
+T77	Location 9740 9750	Valledupar
+T78	Location 9511 9516	Cesar
+T79	Location 9752 9757	Cesar
+T80	Location 9558 9564	Carmen
+T81	Location 9616 9625	El Carmen
+T82	Location 9677 9686	Pto. Rico
+T83	Location 9808 9816	Córdoba
+T84	Location 9870 9878	Córdoba
+T85	Location 9996 10004	Córdoba
+T86	Location 10057 10065	Córdoba
+T87	Location 10118 10126	Córdoba
+T88	Location 10177 10185	Córdoba
+T89	Location 10238 10246	Córdoba
+T90	Location 10300 10308	Córdoba
+T91	Location 10362 10370	Córdoba
+T92	Location 10485 10493	Córdoba
+T93	Location 10542 10550	Córdoba
+T94	Location 10603 10611	Córdoba
+T95	Location 10664 10672	Córdoba
+T96	Location 10723 10731	Córdoba
+T97	Location 10780 10788	Córdoba
+T98	Location 10841 10849	Córdoba
+T99	Location 10902 10910	Córdoba
+T100	Location 10961 10969	Córdoba
+T101	Location 11023 11031	Córdoba
+T102	Location 11082 11090	Córdoba
+T103	Location 11202 11210	Córdoba
+T104	Location 11261 11269	Córdoba
+T105	Location 11321 11329	Córdoba
+T106	Location 11378 11386	Córdoba
+T107	Location 11502 11510	Córdoba
+T108	Location 11561 11569	Córdoba
+T109	Location 9799 9806	Cereté
+T110	Location 9859 9868	C. de Oro
+T111	Location 9921 9931	Sn Jacinto
+T112	Location 9985 9994	Monterı́a
+T113	Location 10046 10055	Monterı́a
+T114	Location 10227 10236	Monterı́a
+T115	Location 10289 10298	Monterı́a
+T116	Location 10592 10601	Monterı́a
+T117	Location 10653 10662	Monterı́a
+T118	Location 11191 11200	Monterı́a
+T119	Location 10109 10116	Cereté
+T120	Location 10168 10175	Cereté
+T121	Location 10714 10721	Cereté
+T122	Location 11552 11559	Cereté
+T123	Location 10350 10360	San Antero
+T124	Location 10473 10483	San Antero
+T125	Location 10535 10540	Momil
+T126	Location 10773 10778	Momil
+T127	Location 11371 11376	Momil
+T128	Location 10830 10839	Purı́sima
+T129	Location 10891 10900	Purı́sima
+T130	Location 10952 10959	Lorı́ca
+T131	Location 11011 11021	Aserradero
+T132	Location 11073 11080	Sahagun
+T133	Location 11251 11259	Sabaneta
+T134	Location 11132 11140	Malagana
+T135	Location 11310 11319	Purı́sima
+T136	Location 11489 11500	San Andrés
+T137	Location 11621 11630	Magdalena
+T138	Location 11749 11758	Magdalena
+T139	Location 11997 12006	Magdalena
+T140	Location 12250 12259	Magdalena
+T141	Location 11611 11619	Ciénaga
+T142	Location 11688 11698	Atlántico
+T143	Location 11937 11947	Atlántico
+T144	Location 12062 12072	Atlántico
+T145	Location 12190 12200	Atlántico
+T146	Location 12316 12326	Atlántico
+T147	Location 12382 12391	Atlantico
+T148	Location 11674 11686	Barranquilla
+T149	Location 12048 12060	Barranquilla
+T150	Location 12176 12188	Barranquilla
+T151	Location 12368 12380	Barranquilla
+T152	Location 11927 11935	Malambó
+T153	Location 11740 11747	Sevilla
+T154	Location 11800 11812	Barranca Nva
+T155	Location 11865 11875	Estanislao
+T156	Location 11989 11995	Retén
+T157	Location 12242 12248	Retén
+T158	Location 12115 12123	Sn. Juan
+T159	Location 12301 12314	Pto. Colombia
+T160	Location 13642 13650	Colombia
+T161	Location 13888 13898	Atlántico
+T162	Location 14046 14056	Atlántico
+T163	Location 14210 14220	Atlántico
+T164	Location 14356 14366	Atlántico
+T165	Location 14515 14525	Atlántico
+T166	Location 14601 14611	Atlántico
+T167	Location 14679 14689	Atlántico
+T168	Location 14759 14769	Atlántico
+T169	Location 14902 14912	Atlántico
+T170	Location 15031 15041	Atlántico
+T171	Location 15117 15127	Atlántico
+T172	Location 15260 15270	Atlántico
+T173	Location 13967 13976	Magdalena
+T174	Location 14130 14139	Magdalena
+T175	Location 14287 14296	Magdalena
+T176	Location 14435 14444	Magdalena
+T177	Location 14842 14851	Magdalena
+T178	Location 15195 15204	Magdalena
+T179	Location 15321 15330	Magdalena
+T180	Location 15395 15404	Magdalena
+T181	Location 15472 15481	Magdalena
+T182	Location 15589 15598	Magdalena
+T183	Location 15667 15676	Magdalena
+T184	Location 15745 15754	Magdalena
+T185	Location 15823 15832	Magdalena
+T186	Location 15897 15906	Magdalena
+T187	Location 16029 16038	Magdalena
+T188	Location 16089 16098	Magdalena
+T189	Location 13879 13886	Manatı́
+T190	Location 13956 13965	Aracataca
+T191	Location 15578 15587	Aracataca
+T192	Location 14034 14044	Polo Nuevo
+T193	Location 14747 14757	Polo Nuevo
+T194	Location 14115 14128	Zona Bananera
+T195	Location 14197 14208	Santo Tomas
+T196	Location 14278 14285	Pivijay
+T197	Location 15312 15319	Pivijay
+T198	Location 16020 16027	Pivijay
+T199	Location 16080 16087	Pivijay
+T200	Location 14338 14354	Campo de la Cruz
+T201	Location 14502 14513	Santo Tomas
+T202	Location 14424 14433	Fundacion
+T203	Location 15734 15743	Fundacion
+T204	Location 15812 15821	Fundacion
+T205	Location 14583 14599	Palmar de Varela
+T206	Location 15013 15029	Palmar de Varela
+T207	Location 15099 15115	Palmar de Varela
+T208	Location 14669 14677	Ponedera
+T209	Location 15185 15193	Ciénaga
+T210	Location 15462 15470	Ciénaga
+T211	Location 15657 15665	Ciénaga
+T212	Location 15246 15258	Barranquilla
+T213	Location 15388 15393	Pinto
+T214	Location 15531 15536	Sucre
+T215	Location 15890 15895	Pinto
+T216	Location 15523 15529	Sincé
+T217	Location 15964 15971	Galeras
+T218	Location 15973 15978	Sucre
+T219	Location 16245 16253	Colombia
+T221	Location 16524 16532	Colombia
+T222	Location 18014 18022	Colombia
+T223	Location 18601 18609	Colombia
+T224	Location 18819 18827	Colombia
+T225	Location 18963 18970	Bogotá
+T226	Location 19615 19623	Colombia
+T227	Location 19736 19744	Colombia
+T228	Location 20669 20677	Colombia
+T229	Location 20859 20867	Colombia
+T230	Location 21015 21023	Colombia
+T231	Location 21089 21097	Colombia
+T232	Location 21367 21376	Venezuela
+T233	Location 21381 21396	Central America
+T234	Location 21481 21494	United States
+T235	Location 21621 21626	Texas
+T236	Location 21631 21638	Arizona
+T237	Location 21763 21770	Arizona
+T238	Location 21750 21758	Colombia
+T239	Location 22336 22349	United States
+T240	Location 22577 22583	Turkey
+T241	Location 22593 22604	Puerto Rico
+T242	Location 22783 22793	Yugoslavia
+T243	Location 9146 9151	Cesar
+T244	Location 9134 9144	Valledupar
+T245	Location 14954 14964	Valledupar
+T246	Location 14966 14971	Cesar
+T247	Location 14893 14900	Soledad
+T248	Location 14827 14840	Sierra Nevada
+T249	Location 1302 1315	South America
+T250	Location 21944 21949;21950 21957	South America
+T251	Location 22234 22240	Europe
+T252	Location 22551 22566	Southern Africa
+T253	Location 5815 5828	South America
+T254	Location 5962 5969	Bogotá
+T255	Protein 8879 8888	Molecular
+#255	AnnotatorNotes T255	BEGIN
+T256	Protein 8924 8927	531
+#256	AnnotatorNotes T256	END
+T257	Protein 16435 16444	Molecular
+#257	AnnotatorNotes T257	BEGIN
+T258	Protein 16480 16483	533
+#258	AnnotatorNotes T258	END

@@ -1,0 +1,265 @@
+T1	Protein 0 8	RESEARCH
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 9 16	ARTICLE
+#2	AnnotatorNotes T2	END
+T3	Protein 125 130	Jeong
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 956 958	kr
+#4	AnnotatorNotes T4	END
+T5	Protein 2606 2610	PLOS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4315 4316	.
+#6	AnnotatorNotes T6	END
+T7	Protein 7366 7373	Genetic
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7587 7588	.
+#8	AnnotatorNotes T8	END
+T9	Protein 14718 14721	doi
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 14894 14896	17
+#10	AnnotatorNotes T10	END
+T11	Protein 17078 17081	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 17254 17256	17
+#12	AnnotatorNotes T12	END
+T13	Protein 18799 18802	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 18975 18977	17
+#14	AnnotatorNotes T14	END
+T15	Protein 21470 21473	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 21787 21789	17
+#16	AnnotatorNotes T16	END
+T17	Protein 25501 25504	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 25678 25680	17
+#18	AnnotatorNotes T18	END
+T19	Protein 25885 25892	Genetic
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 26024 26026	17
+#20	AnnotatorNotes T20	END
+T21	Protein 29994 29997	doi
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 30171 30173	17
+#22	AnnotatorNotes T22	END
+T23	Protein 30700 30703	doi
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 31019 31021	17
+#24	AnnotatorNotes T24	END
+T25	Protein 31552 31567	Acknowledgments
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 41552 41554	17
+#26	AnnotatorNotes T26	END
+T27	Location 107 124	Republic of Korea
+T28	Location 1107 1124	Republic of Korea
+T29	Location 1378 1386	Gyeonggi
+T30	Location 1454 1461	Gangwon
+T31	Location 1565 1572	Gangwon
+T32	Location 1577 1585	Gyeonggi
+T33	Location 2099 2106	Gangwon
+T34	Location 2135 2143	Gyeonggi
+T35	Location 2403 2406	ROK
+T36	Location 2514 2521	Gangwon
+T37	Location 5061 5078	Republic of Korea
+T38	Location 5355 5358	ROK
+T39	Location 6190 6197	Eurasia
+T40	Location 6206 6213	America
+T41	Location 6766 6783	Republic of Korea
+T42	Location 7086 7093	Gangwon
+T43	Location 7098 7106	Gyeonggi
+T44	Location 7335 7343	Gyeonggi
+T45	Location 7609 7612	ROK
+T46	Location 7681 7688	Gangwon
+T47	Location 8557 8564	Guizhou
+T48	Location 8568 8573	China
+T49	Location 8671 8678	Gangwon
+T50	Location 8683 8691	Gyeonggi
+T51	Location 9035 9038	ROK
+T53	Location 9115 9119	Paju
+T54	Location 9385 9388	ROK
+T55	Location 10076 10083	Gangwon
+T56	Location 10088 10096	Gyeonggi
+T57	Location 10114 10117	ROK
+T58	Location 10208 10211	USA
+T59	Location 10344 10352	Cheorwon
+T60	Location 10354 10363	Chuncheon
+T61	Location 10365 10373	Hwacheon
+T62	Location 10375 10379	Inje
+T63	Location 10381 10392	Pyeongchang
+T64	Location 10394 10400	Yanggu
+T65	Location 10406 10409;10411 10416	Yan gyang
+T66	Location 10420 10427	Gangwon
+T67	Location 10442 10453	Dongducheon
+T68	Location 10455 10459	Paju
+T69	Location 10461 10468	Pocheon
+T70	Location 10470 10481	Phyeongtaek
+T71	Location 10487 10496	Yeoncheon
+T72	Location 10500 10508	Gyeonggi
+T73	Location 11426 11433	Germany
+T74	Location 11558 11561	USA
+T75	Location 11598 11601	USA
+T76	Location 11677 11682	Korea
+T77	Location 11775 11778	USA
+T78	Location 11944 11947	USA
+T79	Location 12008 12010	UK
+T80	Location 12592 12597	Korea
+T81	Location 12707 12710	USA
+T82	Location 13397 13400	USA
+T83	Location 14226 14233	Gangwon
+T84	Location 14238 14246	Gyeonggi
+T85	Location 14262 14279	Republic of Korea
+T86	Location 15007 15015	Cheorwon
+T87	Location 15017 15026	Chuncheon
+T88	Location 15028 15036	Hwacheon
+T89	Location 15038 15042	Inje
+T90	Location 15044 15055	Pyeongchang
+T91	Location 15057 15063	Yanggu
+T92	Location 15069 15077	Yangyang
+T93	Location 15081 15088	Gangwon
+T94	Location 15103 15114	Dongducheon
+T95	Location 15116 15120	Paju
+T96	Location 15122 15129	Pocheon
+T97	Location 15131 15142	Phyeongtaek
+T98	Location 15148 15157	Yeoncheon
+T99	Location 15161 15169	Gyeonggi
+T100	Location 15386 15390	Paju
+T101	Location 15416 15423	Pocheon
+T102	Location 15451 15460	Yeoncheon
+T103	Location 15801 15808	Gangwon
+T104	Location 15788 15796	Gyeonggi
+T105	Location 15826 15843	Republic of Korea
+T106	Location 15982 15989	Gangwon
+T107	Location 15990 15998	Cheorwon
+T108	Location 16029 16037	Hwacheon
+T109	Location 16066 16070	Inje
+T110	Location 16125 16136	Pyeongchang
+T111	Location 16223 16229	Yanggu
+T112	Location 16261 16269	Yangyang
+T113	Location 16297 16306	Chuncheon
+T114	Location 16361 16369	Gyeonggi
+T115	Location 16370 16381	Dongducheon
+T116	Location 16414 16418	Paju
+T117	Location 16619 16626	Pocheon
+T118	Location 16761 16771	Pyeongtaek
+T119	Location 16895 16904	Yeoncheon
+T120	Location 17370 17377	Gangwon
+T121	Location 17382 17390	Gyeonggi
+T122	Location 17547 17556	Chuncheon
+T123	Location 17561 17572	Dongducheon
+T124	Location 17885 17892	Gangwon
+T125	Location 17897 17905	Gyeonggi
+T126	Location 18203 18211	Cheorwon
+T127	Location 18228 18236	Hwacheon
+T128	Location 18253 18259	Yanggu
+T129	Location 18282 18286	Paju
+T130	Location 18393 18400	Gangwon
+T131	Location 18405 18413	Gyeonggi
+T132	Location 18487 18495	Gyeonggi
+T133	Location 18475 18482	Gangwon
+T52	Location 18981 18985	Paju
+T134	Location 19008 19015	Pocheon
+T135	Location 19045 19054	Yeoncheon
+T136	Location 19522 19530	Cheorwon
+T137	Location 19666 19673	Gangwon
+T138	Location 19653 19661	Gyeonggi
+T139	Location 19764 19773	Yeoncheon
+T140	Location 19820 19829	Yeoncheon
+T141	Location 19876 19885	Yeoncheon
+T142	Location 19929 19933	Paju
+T143	Location 19977 19981	Paju
+T144	Location 20025 20029	Paju
+T145	Location 20076 20085	Yeoncheon
+T146	Location 20132 20141	Yeoncheon
+T147	Location 20188 20197	Yeoncheon
+T148	Location 20242 20249	Pocheon
+T149	Location 20294 20301	Pocheon
+T150	Location 20347 20354	Pocheon
+T151	Location 20403 20407	Paju
+T152	Location 20456 20460	Paju
+T153	Location 20509 20513	Paju
+T154	Location 20562 20566	Paju
+T155	Location 20615 20619	Paju
+T156	Location 20668 20672	Paju
+T157	Location 20717 20721	Paju
+T158	Location 20766 20770	Paju
+T159	Location 20815 20819	Paju
+T160	Location 20868 20872	Paju
+T161	Location 20921 20925	Paju
+T162	Location 20966 20974	Hwacheon
+T163	Location 21014 21022	Hwacheon
+T164	Location 21062 21070	Cheorwon
+T165	Location 21110 21118	Cheorwon
+T166	Location 21158 21166	Cheorwon
+T167	Location 21206 21212	Yanggu
+T168	Location 21252 21258	Yanggu
+T169	Location 21298 21304	Yanggu
+T170	Location 21344 21350	Yanggu
+T171	Location 21390 21396	Yanggu
+T172	Location 21436 21442	Yanggu
+T173	Location 21800 21807	Pocheon
+T174	Location 21824 21830	Yanggu
+T175	Location 21893 21901	Gyeonggi
+T176	Location 21926 21934	Hwacheon
+T177	Location 21989 21993	Paju
+T178	Location 22087 22095	Cheorwon
+T179	Location 22134 22141	Pocheon
+T180	Location 22186 22192	Yanggu
+T181	Location 22209 22217	Hwacheon
+T182	Location 22233 22240	Gangwon
+T183	Location 22317 22325	Gyeonggi
+T184	Location 22520 22524	Paju
+T185	Location 22599 22607	Hwacheon
+T186	Location 22721 22725	Paju
+T187	Location 22878 22885	Gangwon
+T188	Location 22890 22898	Gyeonggi
+T189	Location 23285 23289	Paju
+T190	Location 23316 23320	Paju
+T191	Location 23394 23398	Paju
+T192	Location 23417 23425	Hwacheon
+T193	Location 23654 23658	Paju
+T194	Location 23787 23795	Hwacheon
+T195	Location 23800 23807	Gangwon
+T196	Location 23881 23885	Paju
+T197	Location 23890 23898	Gyeonggi
+T198	Location 23958 23966	Gyeonggi
+T199	Location 23946 23953	Gangwon
+T200	Location 23978 23981	ROK
+T201	Location 24116 24124	Gyeonggi
+T202	Location 24168 24175	Gangwon
+T203	Location 24306 24313	Gangwon
+T204	Location 24397 24404	Gangwon
+T205	Location 24409 24417	Gyeonggi
+T206	Location 24749 24756	Gangwon
+T207	Location 24774 24782	Gyeonggi
+T208	Location 24847 24854	Gangwon
+T209	Location 24891 24899	Gyeonggi
+T210	Location 25028 25035	Gangwon
+T211	Location 25040 25048	Gyeonggi
+T212	Location 25170 25178	Gyeonggi
+T213	Location 25158 25165	Gangwon
+T214	Location 25755 25762	Gangwon
+T215	Location 25767 25775	Gyeonggi
+T216	Location 26032 26039	Gangwon
+T217	Location 26116 26120;26122 26125	Gang won
+T218	Location 26158 26166	Gyeonggi
+T219	Location 26607 26612	China
+T220	Location 26649 26656	Guizhou
+T221	Location 26774 26787	South America
+T222	Location 26921 26930	Argentina
+T223	Location 26935 26940	Chile
+T224	Location 27031 27034	ROK
+T225	Location 27819 27827	Hwacheon
+T226	Location 29012 29016	Paju
+T227	Location 29333 29340	Gangwon
+T228	Location 29345 29353	Gyeonggi
+T229	Location 29365 29368	ROK
+T230	Location 29644 29651	Gangwon
+T231	Location 29656 29664	Gyeonggi
+T232	Location 30248 30255	Gangwon
+T233	Location 30260 30268	Gyeonggi
+T234	Location 30390 30398	Gyeonggi
+T235	Location 30378 30385	Gangwon
+T236	Location 1126 1129	ROK
+T237	Location 5080 5083	ROK
+T238	Location 6785 6788	ROK
+T239	Location 10952 10955	USA

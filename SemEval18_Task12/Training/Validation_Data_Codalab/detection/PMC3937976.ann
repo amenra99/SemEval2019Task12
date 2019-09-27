@@ -1,0 +1,112 @@
+T1	Protein 0 4	This
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 592 598	dyt231
+#2	AnnotatorNotes T2	END
+T3	Protein 714 720	Sandra
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1434 1438	2013
+#4	AnnotatorNotes T4	END
+T5	Protein 3191 3199	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3340 3348	TANZANIA
+#6	AnnotatorNotes T6	END
+T7	Protein 8772 8775	206
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 8802 8814	EPIDEMIOLOGY
+#8	AnnotatorNotes T8	END
+T9	Protein 9523 9528	CHILD
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9557 9565	TANZANIA
+#10	AnnotatorNotes T10	END
+T11	Protein 15235 15238	208
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15265 15277	EPIDEMIOLOGY
+#12	AnnotatorNotes T12	END
+T13	Protein 20912 20917	CHILD
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20946 20954	TANZANIA
+#14	AnnotatorNotes T14	END
+T15	Protein 23886 23899	INTERNATIONAL
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23911 23923	EPIDEMIOLOGY
+#16	AnnotatorNotes T16	END
+T17	Protein 26050 26055	CHILD
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 26094 26097	211
+#18	AnnotatorNotes T18	END
+T19	Protein 28760 28763	212
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 28790 28802	EPIDEMIOLOGY
+#20	AnnotatorNotes T20	END
+T21	Protein 34673 34678	CHILD
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 34707 34715	TANZANIA
+#22	AnnotatorNotes T22	END
+T23	Protein 38103 38110	Funding
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 39988 40000	EPIDEMIOLOGY
+#24	AnnotatorNotes T24	END
+T25	Protein 40599 40609	References
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 51655 51656	.
+#26	AnnotatorNotes T26	END
+T27	Location 634 642	Tanzania
+#27	AnnotatorNotes T27	<latlng>-6, 35</latlng><geoID>149590</geoID><pop>41892895</pop>
+T28	Location 1592 1600	Tanzania
+#28	AnnotatorNotes T28	<latlng>-6, 35</latlng><geoID>149590</geoID><pop>41892895</pop>
+T29	Location 4781 4789	Tanzania
+#29	AnnotatorNotes T29	<latlng>-6, 35</latlng><geoID>149590</geoID><pop>41892895</pop>
+T30	Location 6990 6998	Tanzania
+#30	AnnotatorNotes T30	<latlng>-6, 35</latlng><geoID>149590</geoID><pop>41892895</pop>
+T31	Location 40158 40166	Tanzania
+#31	AnnotatorNotes T31	<latlng>-6, 35</latlng><geoID>149590</geoID><pop>41892895</pop>
+T32	Location 1544 1553	Kilombero
+#32	AnnotatorNotes T32	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T33	Location 4733 4742	Kilombero
+#33	AnnotatorNotes T33	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T34	Location 6323 6332	Kilombero
+#34	AnnotatorNotes T34	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T35	Location 6942 6951	Kilombero
+#35	AnnotatorNotes T35	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T36	Location 7074 7083	Kilombero
+#36	AnnotatorNotes T36	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T37	Location 8389 8398	Kilombero
+#37	AnnotatorNotes T37	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T38	Location 9469 9478	Kilombero
+#38	AnnotatorNotes T38	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T39	Location 10033 10042	Kilombero
+#39	AnnotatorNotes T39	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T41	Location 24232 24241	Kilombero
+#41	AnnotatorNotes T41	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T43	Location 37174 37183	Kilombero
+#43	AnnotatorNotes T43	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T44	Location 40124 40130	Ulanga
+#44	AnnotatorNotes T44	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T45	Location 40110 40119	Kilombero
+#45	AnnotatorNotes T45	<latlng> -8.24137, 36.33492</latlng><geoID>157408</geoID>
+T46	Location 37188 37194	Ulanga
+#46	AnnotatorNotes T46	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T49	Location 10059 10065	Ulanga
+#49	AnnotatorNotes T49	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T50	Location 9483 9489	Ulanga
+#50	AnnotatorNotes T50	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T51	Location 8403 8409	Ulanga
+#51	AnnotatorNotes T51	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T52	Location 7094 7100	Ulanga
+#52	AnnotatorNotes T52	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T53	Location 6956 6962	Ulanga
+#53	AnnotatorNotes T53	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T54	Location 6337 6343	Ulanga
+#54	AnnotatorNotes T54	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T55	Location 4747 4753	Ulanga
+#55	AnnotatorNotes T55	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T56	Location 12148 12151	USA
+#56	AnnotatorNotes T56	<latlng>39.76, -98.5</latlng><geoID>6252001 </geoID><pop>310232863</pop>
+T57	Location 12144 12146	TX
+#57	AnnotatorNotes T57	<latlng>31.25044, -99.25061</latlng><geoID>4736286</geoID><pop>22875689</pop>
+T58	Location 12127 12142	College Station
+#58	AnnotatorNotes T58	<latlng>30.58572, -96.29594</latlng><pop>93857</pop><geoID>7173209</geoID>
+T40	Location 1558 1564	Ulanga
+#40	AnnotatorNotes T40	<latlng> -8.98886, 36.61331</latlng><geoID>149252</geoID>
+T42	Location 3456 3462	Africa
+#42	AnnotatorNotes T42	<latlng>7.1881, 21.09375</latlng><geoID>6255146</geoID><pop>1031833000</pop>

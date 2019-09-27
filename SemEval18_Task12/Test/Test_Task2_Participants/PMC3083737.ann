@@ -1,0 +1,232 @@
+T1	Protein 0 3	709
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 149 156	Hygiene
+#2	AnnotatorNotes T2	END
+T3	Protein 4597 4604	Gregory
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 5001 5008	Florida
+#4	AnnotatorNotes T4	END
+T5	Protein 6009 6010	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6263 6269	OTHERS
+#6	AnnotatorNotes T6	END
+T7	Protein 16191 16194	712
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 16205 16211	OTHERS
+#8	AnnotatorNotes T8	END
+T9	Protein 22324 22327	713
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 22360 22367	FLORIDA
+#10	AnnotatorNotes T10	END
+T11	Protein 24743 24746	714
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 24757 24763	OTHERS
+#12	AnnotatorNotes T12	END
+T13	Protein 25971 25974	715
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 26007 26014	FLORIDA
+#14	AnnotatorNotes T14	END
+T15	Protein 32853 32856	716
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 32867 32873	OTHERS
+#16	AnnotatorNotes T16	END
+T17	Protein 33451 33454	717
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 33487 33494	FLORIDA
+#18	AnnotatorNotes T18	END
+T19	Protein 33782 33790	Received
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 40161 40162	.
+#20	AnnotatorNotes T20	END
+T21	Location 326 339	United States
+T22	Location 600 613	United States
+T23	Location 845 858	United States
+T24	Location 1203 1216	United States
+T25	Location 1218 1225	Florida
+T26	Location 1301 1308	Florida
+T27	Location 1336 1349	United States
+T28	Location 1977 1990	United States
+T29	Location 1460 1467	Florida
+T30	Location 1507 1514	Florida
+T31	Location 1588 1599	Connecticut
+T32	Location 1601 1614	New Hampshire
+T33	Location 1620 1628	New York
+T34	Location 1649 1655;1656 1662	United States
+T35	Location 2081 2088	Florida
+T36	Location 2423 2430	Florida
+T37	Location 2781 2788	Florida
+T38	Location 3353 3366	United States
+T39	Location 3430 3437	Florida
+T40	Location 3712 3719	Florida
+T41	Location 3497 3502	Tampa
+T42	Location 3854 3861	Alabama
+T43	Location 3965 3972	Alabama
+T44	Location 3924 3948	Tuskegee National Forest
+T46	Location 4589 4596	Florida
+T47	Location 5129 5142	United States
+T48	Location 5257 5264	Florida
+T49	Location 5019 5026	Florida
+T50	Location 5320 5327	Florida
+T51	Location 5451 5458	Florida
+T55	Location 5904 5911	Florida
+T56	Location 5994 6007	United States
+T57	Location 7223 7231	Valencia
+T58	Location 7233 7235	CA
+T59	Location 7332 7334	CA
+T60	Location 7322 7330	Hercules
+T61	Location 8331 8333	NJ
+T62	Location 8313 8318;8319 8329	South Plainfield
+T63	Location 9389 9396	Madison
+T64	Location 9398 9400	WI
+T65	Location 9555 9557	NC
+T66	Location 9549 9553	Cary
+T67	Location 10181 10188	Florida
+T68	Location 10193 10200	Alabama
+T69	Location 11758 11765	Alabama
+T70	Location 10357 10367	Santa Rosa
+T71	Location 10402 10412	Santa Rosa
+T72	Location 10464 10472	Escambia
+T73	Location 10518 10526	Escambia
+T74	Location 10559 10568	Jefferson
+T75	Location 10602 10606	Leon
+T76	Location 10641 10645	Leon
+T77	Location 10681 10688	Gadsden
+T78	Location 10724 10733	Jefferson
+T79	Location 10768 10772	Leon
+T80	Location 10811 10818	Volusia
+T81	Location 10864 10871	Volusia
+T82	Location 10962 10969	Volusia
+T83	Location 11052 11059	Volusia
+T84	Location 11146 11153	Volusia
+T85	Location 11207 11214	Volusia
+T86	Location 11258 11265	Volusia
+T87	Location 10913 10919	Orange
+T88	Location 11012 11018	Orange
+T89	Location 11093 11101	Seminole
+T90	Location 11307 11317	Palm Beach
+T91	Location 11374 11376	AL
+T92	Location 11424 11426	AL
+T93	Location 11476 11478	AL
+T94	Location 11410 11415	Macon
+T95	Location 11462 11467	Macon
+T96	Location 11360 11365	Macon
+T97	Location 11588 11596	Escambia
+T98	Location 11601 11611	Santa Rosa
+T99	Location 11633 11640	Gadsden
+T100	Location 11642 11646	Leon
+T101	Location 11652 11661	Jefferson
+T102	Location 11683 11689	Orange
+T103	Location 11691 11699	Seminole
+T104	Location 11705 11712	Volusia
+T106	Protein 11767 11770	711
+#106	AnnotatorNotes T106	BEGIN
+T107	Protein 11803 11810	FLORIDA
+#107	AnnotatorNotes T107	END
+T109	Location 13154 13167	United States
+T110	Location 14010 14017	Florida
+T111	Location 14144 14151	Florida
+T112	Location 14253 14270;14271 14277	Tuskegee National Forest
+T113	Location 15376 15383	Florida
+T114	Location 15449 15459	Santa Rosa
+T115	Location 15481 15488	Gadsden
+T116	Location 15490 15494	Leon
+T117	Location 15500 15509	Jefferson
+T118	Location 15436 15444	Escambia
+T119	Location 15531 15537	Orange
+T120	Location 15539 15547	Seminole
+T121	Location 15553 15560	Volusia
+T124	Location 15721 15728	Florida
+T127	Location 19576 19583	Florida
+T134	Location 20823 20830	Florida
+T137	Location 20805 20818	United States
+T139	Location 21200 21207	Florida
+T142	Location 21536 21543	Florida
+T150	Location 23260 23267	Florida
+T151	Location 23706 23713	Florida
+T152	Location 24302 24309	Florida
+T153	Location 26563 26570	Florida
+T154	Location 26623 26636	United States
+T155	Location 26696 26703	Florida
+T157	Location 27998 28011	United States
+T158	Location 28072 28085	United States
+T159	Location 28433 28446	United States
+T160	Location 28630 28637	Florida
+T161	Location 28707 28713;28714 28720	United States
+T165	Location 29213 29220	Florida
+T166	Location 29262 29269	Alabama
+T168	Location 29378 29385	Florida
+T169	Location 29585 29592	Florida
+T171	Location 29472 29481	Tennessee
+T172	Location 29486 29493	Georgia
+T173	Location 29564 29577	United States
+T177	Location 30074 30081	Florida
+T179	Location 30327 30334	Florida
+T180	Location 30366 30379	United States
+T181	Location 30502 30509	Florida
+T182	Location 30601 30614	United States
+T183	Location 30716 30722;30723 30729	United States
+T184	Location 30773 30780	Florida
+T185	Location 30931 30938	Florida
+T186	Location 30914 30927	United States
+T187	Location 30971 30979	New York
+T188	Location 31034 31041	Florida
+T189	Location 31246 31253	Florida
+T190	Location 31406 31413	Florida
+T191	Location 31551 31558	Florida
+T192	Location 20215 20228	United States
+T193	Location 32635 32643	Virginia
+T194	Location 32650 32659	Louisiana
+T195	Location 32008 32010	LA
+T196	Location 31978 31980	VA
+T197	Location 32666 32676	New Jersey
+T198	Location 32040 32042	NJ
+T199	Location 32661 32663	NJ
+T200	Location 32645 32647	LA
+T201	Location 32630 32632	VA
+T202	Location 32678 32680	MA
+T203	Location 32683 32696	Massachusetts
+T204	Location 32698 32700	MS
+T205	Location 32703 32714	Mississippi
+T206	Location 32102 32104	MS
+T207	Location 32071 32073	MA
+T208	Location 32136 32138	CT
+T209	Location 32716 32718	CT
+T210	Location 32721 32732	Connecticut
+T211	Location 32439 32441	CT
+T212	Location 32473 32475	CT
+T213	Location 32508 32510	CT
+T214	Location 32543 32545	CT
+T215	Location 32578 32580	CT
+T216	Location 32734 32736	FL
+T217	Location 32739 32746	Florida
+T218	Location 32174 32176	FL
+T219	Location 32212 32214	FL
+T220	Location 32250 32252	FL
+T221	Location 32284 32286	TX
+T222	Location 32346 32348	TX
+T223	Location 32748 32750	TX
+T224	Location 32753 32758	Texas
+T225	Location 32376 32378	MA
+T226	Location 32314 32316	GA
+T227	Location 32760 32762	GA
+T228	Location 32765 32772	Georgia
+T229	Location 32774 32776	TN
+T230	Location 32779 32788	Tennessee
+T231	Location 32790 32792	NY
+T232	Location 32795 32803	New York
+T233	Location 32612 32614	NY
+T234	Location 32953 32960	Florida
+T235	Location 32988 33001	United States
+T236	Location 562 575	South America
+T237	Location 2178 2183	Tampa
+T238	Location 11753 11755	AL
+T239	Location 23767 23780	South America
+T240	Location 27113 27126	North America
+T105	Location 11734 11744	Palm Beach
+T123	Location 15705 15712	Volusia
+T122	Location 15582 15592	Palm Beach
+T45	Location 19509 19522	United States
+T52	Location 25513 25520	Florida
+T53	Location 32406 32408	TN
+T54	Location 3265 3272	Florida
+T108	Location 21826 21833	Volusia

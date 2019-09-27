@@ -1,0 +1,18 @@
+T1	Protein 105 110	Triin
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 651 659	Finlande
+#2	AnnotatorNotes T2	END
+T3	Protein 891 899	Received
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1127 1128	.
+#4	AnnotatorNotes T4	END
+T5	Protein 1129 1133	Full
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 1513 1514	.
+#6	AnnotatorNotes T6	END
+T7	Protein 5532 5547	ACKNOWLEDGMENTS
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7672 7676	from
+#8	AnnotatorNotes T8	END
+T9	Location 773 780	Finland
+T10	Location 5201 5208	Finland

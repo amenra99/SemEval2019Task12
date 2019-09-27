@@ -1,0 +1,82 @@
+T1	Protein 0 8	Clinical
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 135 142	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 312 316	This
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 809 810	1
+#4	AnnotatorNotes T4	END
+T5	Protein 2651 2659	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3056 3059	edu
+#6	AnnotatorNotes T6	END
+T7	Protein 3730 3733	439
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4477 4479	al
+#8	AnnotatorNotes T8	END
+T9	Protein 7133 7136	440
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 7182 7191	Dovepress
+#10	AnnotatorNotes T10	END
+T11	Protein 9710 9718	Clinical
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 9778 9779	5
+#12	AnnotatorNotes T12	END
+T13	Protein 9826 9832	submit
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 9870 9879	Dovepress
+#14	AnnotatorNotes T14	END
+T15	Protein 13727 13740	Comorbidities
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 13774 13776	al
+#16	AnnotatorNotes T16	END
+T17	Protein 16586 16589	442
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 16676 16685	Dovepress
+#18	AnnotatorNotes T18	END
+T19	Protein 20546 20552	submit
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 20617 20620	444
+#20	AnnotatorNotes T20	END
+T21	Protein 22269 22275	submit
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 22313 22322	Dovepress
+#22	AnnotatorNotes T22	END
+T23	Protein 23830 23838	Clinical
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 23889 23892	AMI
+#24	AnnotatorNotes T24	END
+T25	Protein 28927 28933	submit
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 29006 29008	al
+#26	AnnotatorNotes T26	END
+T27	Protein 31577 31580	446
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 31626 31635	Dovepress
+#28	AnnotatorNotes T28	END
+T29	Protein 34203 34211	Clinical
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 34233 34242	Dovepress
+#30	AnnotatorNotes T30	END
+T31	Protein 34492 34507	Acknowledgments
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 42635 42636	5
+#32	AnnotatorNotes T32	END
+T33	Location 1074 1087	Massachusetts
+T34	Location 1344 1357	Massachusetts
+T35	Location 5366 5379	Massachusetts
+T36	Location 33751 33764	Massachusetts
+T37	Location 6024 6026	MA
+T38	Location 6013 6022	Worcester
+T39	Location 6800 6809	Worcester
+T40	Location 7018 7027	Worcester
+T41	Location 11131 11140	Worcester
+T42	Protein 17881 17889	Clinical
+#42	AnnotatorNotes T42	BEGIN
+T43	Protein 17908 17909	5
+#43	AnnotatorNotes T43	END
+T44	Protein 27212 27220	Clinical
+#44	AnnotatorNotes T44	BEGIN
+T45	Protein 27239 27240	5
+#45	AnnotatorNotes T45	END
+T46	Location 33089 33098	Worcester

@@ -1,0 +1,49 @@
+T1	Protein 0 7	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 197 198	.
+#2	AnnotatorNotes T2	END
+T3	Protein 339 344	Erica
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 810 814	2003
+#4	AnnotatorNotes T4	END
+T5	Protein 5584 5585	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5796 5801	13399
+#6	AnnotatorNotes T6	END
+T7	Protein 6758 6763	13400
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 6778 6779	.
+#8	AnnotatorNotes T8	END
+T9	Protein 8277 8280	VOL
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 8297 8302	13401
+#10	AnnotatorNotes T10	END
+T11	Protein 11023 11025	We
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15907 15908	.
+#12	AnnotatorNotes T12	END
+T13	Protein 16278 16283	13402
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 16298 16299	.
+#14	AnnotatorNotes T14	END
+T15	Location 325 338	United States
+T16	Location 982 995	United States
+T17	Location 2175 2188	United States
+T18	Location 2343 2356	United States
+T19	Location 2451 2463	Pennsylvania
+T20	Location 2588 2596	Virginia
+T21	Location 2598 2611	West Virginia
+T22	Location 2617 2631	North Carolina
+T23	Location 2839 2852	United States
+T24	Location 3313 3323	Sunderland
+T25	Location 3325 3329	Mass
+T26	Location 3659 3669;3670 3673	Pennsylva- nia
+T27	Location 3736 3744	Virginia
+T28	Location 3746 3759	West Virginia
+T29	Location 3765 3779	North Carolina
+T30	Location 4278 4292	North Carolina
+T31	Location 4264 4272	Virginia
+T32	Location 4250 4262	Pennsylvania
+T33	Location 7912 7925	United States
+T34	Location 7808 7821	North America
+T35	Location 6365 6373	Americas

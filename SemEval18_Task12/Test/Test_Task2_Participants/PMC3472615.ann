@@ -1,0 +1,66 @@
+T1	Protein 19592 19595	694
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 19606 19607	.
+#2	AnnotatorNotes T2	END
+T3	Protein 24121 24123	Am
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 24186 24189	695
+#4	AnnotatorNotes T4	END
+T5	Protein 26428 26430	Am
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 26460 26463	698
+#6	AnnotatorNotes T6	END
+T7	Protein 27378 27381	696
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 27392 27393	.
+#8	AnnotatorNotes T8	END
+T9	Protein 32548 32563	ACKNOWLEDGMENTS
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 37753 37756	698
+#10	AnnotatorNotes T10	END
+T11	Protein 0 8	American
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 547 559	Contribution
+#12	AnnotatorNotes T12	END
+T13	Protein 676 681	Sunil
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 1059 1060	.
+#14	AnnotatorNotes T14	END
+T15	Protein 4386 4389	689
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 4442 4443	.
+#16	AnnotatorNotes T16	END
+T17	Location 8771 8785	United Kingdom
+T18	Protein 10158 10160	Am
+#18	AnnotatorNotes T18	BEGIN
+T19	Protein 10223 10226	691
+#19	AnnotatorNotes T19	END
+T20	Location 10280 10294	United Kingdom
+T21	Protein 12241 12243	Am
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 12273 12276	698
+#22	AnnotatorNotes T22	END
+T23	Location 12278 12292	United Kingdom
+T24	Location 12460 12467	England
+T25	Location 13146 13160	United Kingdom
+T26	Location 14726 14740	North Carolina
+T27	Location 14720 14724	Cary
+T28	Protein 15889 15891	Am
+#28	AnnotatorNotes T28	BEGIN
+T29	Protein 15954 15957	693
+#29	AnnotatorNotes T29	END
+T30	Location 17320 17327	England
+T31	Protein 18056 18057	A
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 18088 18091	698
+#32	AnnotatorNotes T32	END
+T33	Location 19726 19740	United Kingdom
+T34	Location 20465 20479	United Kingdom
+T35	Location 23099 23113	United Kingdom
+T36	Location 23354 23360;23361 23368	United Kingdom
+T37	Location 24329 24343	United Kingdom
+T38	Location 26056 26070	United Kingdom
+T39	Location 27908 27918	California
+T40	Location 28108 28116	Scotland
+T41	Location 30915 30929	United Kingdom
+T42	Location 22271 22278	England

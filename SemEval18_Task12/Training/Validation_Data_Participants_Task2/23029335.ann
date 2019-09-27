@@ -1,0 +1,43 @@
+T1	Location 46 52	Taiwan
+T51	Location 1361 1367	Taiwan
+T68	Location 4192 4205	North America
+T71	Location 5278 5284	Mexico
+T6	Location 5289 5304	central America
+T77	Location 7602 7608	Taiwan
+T89	Location 8944 8951	Taoyuan
+T90	Location 8953 8959	Taiwan
+T93	Location 10337 10344	Madison
+T97	Location 10487 10495	Carlsbad
+T13	Location 10498 10500	CA
+T100	Location 10661 10664	USA
+T110	Location 13095 13101	Taiwan
+T112	Location 13213 13219	Taiwan
+T116	Location 18235 18241	Taiwan
+T128	Location 24302 24308	Taiwan
+T131	Location 26204 26210	Taiwan
+T132	Location 26217 26222	India
+T133	Location 26229 26235	Russia
+T134	Location 26242 26248	Canada
+T136	Location 30893 30899	Taiwan
+T137	Location 31266 31272	Taiwan
+T138	Location 31942 31948	Taiwan
+T148	Location 36570 36576	Taiwan
+T149	Location 36724 36730	Taiwan
+T150	Location 39184 39190	Taiwan
+T152	Location 40041 40047	Canada
+T7	Location 8353 8360	Taoyuan
+T8	Location 8362 8368	Taiwan
+T9	Location 10346 10348	WI
+T10	Location 33179 33185	Taiwan
+T2	Protein 73 78	Guang
+#2	AnnotatorNotes T2	BEGIN
+T3	Protein 1052 1057	China
+#3	AnnotatorNotes T3	END
+T4	Protein 2982 2990	Citation
+#4	AnnotatorNotes T4	BEGIN
+T5	Protein 4114 4115	.
+#5	AnnotatorNotes T5	END
+T11	Protein 45477 45483	Author
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 50523 50529	e45946
+#12	AnnotatorNotes T12	END

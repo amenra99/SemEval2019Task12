@@ -1,0 +1,112 @@
+T1	Protein 0 6	BioMed
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 97 105	Research
+#2	AnnotatorNotes T2	END
+T3	Protein 233 239	Siamak
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1648 1654	author
+#4	AnnotatorNotes T4	END
+T5	Protein 3749 3758	Published
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 4404 4405	)
+#6	AnnotatorNotes T6	END
+T7	Protein 10001 10009	Virology
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10122 10123	)
+#8	AnnotatorNotes T8	END
+T9	Protein 17029 17037	Virology
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 17150 17151	)
+#10	AnnotatorNotes T10	END
+T11	Protein 17598 17606	Virology
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 17719 17720	)
+#12	AnnotatorNotes T12	END
+T13	Protein 18464 18472	Virology
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 18585 18586	)
+#14	AnnotatorNotes T14	END
+T15	Protein 19411 19419	Virology
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 19532 19533	)
+#16	AnnotatorNotes T16	END
+T17	Protein 24463 24471	Virology
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 24584 24585	)
+#18	AnnotatorNotes T18	END
+T19	Protein 26993 27001	Virology
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 27115 27116	)
+#20	AnnotatorNotes T20	END
+T21	Protein 32610 32618	Virology
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 32732 32733	)
+#22	AnnotatorNotes T22	END
+T23	Protein 38270 38278	Virology
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 38392 38393	)
+#24	AnnotatorNotes T24	END
+T25	Protein 38598 38607	Competing
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 51821 51822	.
+#26	AnnotatorNotes T26	END
+T27	Protein 14393 14401	Virology
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 14514 14515	)
+#28	AnnotatorNotes T28	END
+T29	Location 2042 2057	Northern Europe
+T30	Location 2736 2751	Northern Europe
+T31	Location 3164 3179	Northern Europe
+T32	Location 3403 3418	Northern Europe
+T33	Location 3584 3599	Northern Europe
+T34	Location 9637 9652	Northern Europe
+T35	Location 9787 9802	Northern Europe
+T36	Location 10294 10309	Northern Europe
+T37	Location 11020 11025;11026 11036	West- ern Europe
+T39	Location 11195 11210	Northern Europe
+T40	Location 11619 11634	Northern Europe
+T41	Location 11993 12008	Northern Europe
+T42	Location 12045 12060	Northern Europe
+T43	Location 13996 14008	Boden Island
+T44	Location 14142 14147	Öland
+T45	Location 14170 14176	Sweden
+T46	Location 14330 14335	Öland
+T47	Location 14358 14364	Sweden
+T48	Location 14516 14526	Baltic Sea
+T49	Location 15390 15405	Northern Europe
+T50	Location 16900 16915	Northern Europe
+T51	Location 17004 17019	Northern Europe
+T52	Location 17243 17258	Northern Europe
+T53	Location 17367 17382	Northern Europe
+T54	Location 17812 17827	Northern Europe
+T55	Location 18064 18079	Northern Europe
+T56	Location 18680 18695	Northern Europe
+T57	Location 18971 18986	Northern Europe
+T58	Location 26788 26803	Northern Europe
+T59	Location 28328 28343	Northern Europe
+T60	Location 29097 29112	Northern Europe
+T61	Location 29834 29839	Öland
+T62	Location 29862 29868	Sweden
+T63	Location 31204 31210	Sweden
+T64	Location 32870 32878	Carlsbad
+T65	Location 32880 32882	CA
+T66	Location 34165 34175	Swampscott
+T67	Location 34177 34179	MA
+T68	Location 34181 34184	USA
+T69	Location 34829 34840	Foster City
+T70	Location 34842 34844	CA
+T71	Location 35874 35889	Northern Europe
+T72	Location 209 224	Northern Europe
+T73	Location 10424 10437	North America
+T74	Location 10442 10448	Europe
+T75	Location 8192 8198	Europe
+T76	Location 8292 8298	Europe
+T77	Location 1918 1924	Europe
+T78	Location 12017 12022;12023 12030	North America
+T79	Location 12070 12074	Asia
+T82	Location 15294 15299;15300 15307	Neth- erlands
+T83	Location 24991 25000	Hong-Kong
+T84	Location 27231 27235	Asia
+T85	Location 28709 28715	Europe
+T86	Location 30388 30398	Zoetermeer
+T87	Location 30404 30415	Netherlands

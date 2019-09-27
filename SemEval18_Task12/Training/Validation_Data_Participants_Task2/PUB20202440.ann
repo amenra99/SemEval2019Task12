@@ -1,0 +1,30 @@
+T150	Protein 70 75	Brett
+#150	AnnotatorNotes T150	BEGIN
+T151	Protein 305 309	Nara
+#151	AnnotatorNotes T151	END
+T25	Location 454 458	Iowa
+T34	Location 4430 4439	Westbrook
+T1	Location 4441 4443	ME
+T35	Location 4445 4448	USA
+T7	Protein 4949 4959	DISPATCHES
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 5444 5447	Cat
+#8	AnnotatorNotes T8	END
+T47	Location 6100 6106	Austin
+T2	Location 6108 6110	TX
+T48	Location 6112 6115	USA
+T52	Location 6208 6217	Woodstock
+T3	Location 6219 6221	GA
+T53	Location 6223 6226	USA
+T54	Location 6660 6673	North America
+T63	Location 7486 7490	Ames
+T4	Location 7492 7494	IA
+T64	Location 7496 7499	USA
+T5	Protein 8697 8705	Emerging
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 8773 8776	535
+#6	AnnotatorNotes T6	END
+T152	Protein 11013 11028	Acknowledgments
+#152	AnnotatorNotes T152	BEGIN
+T153	Protein 17062 17063	.
+#153	AnnotatorNotes T153	END

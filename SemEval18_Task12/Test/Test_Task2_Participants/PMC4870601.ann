@@ -1,0 +1,192 @@
+T1	Protein 61 62	C
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 1041 1042	.
+#2	AnnotatorNotes T2	END
+T3	Protein 2977 2980	HHS
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3432 3436	bats
+#4	AnnotatorNotes T4	END
+T5	Protein 5849 5855	TORRES
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 6001 6008	Methods
+#6	AnnotatorNotes T6	END
+T7	Protein 8577 8583	TORRES
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 8718 8728	Manuscript
+#8	AnnotatorNotes T8	END
+T9	Protein 11874 11880	TORRES
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 12015 12025	Manuscript
+#10	AnnotatorNotes T10	END
+T11	Protein 14828 14834	TORRES
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 14969 14979	Manuscript
+#12	AnnotatorNotes T12	END
+T13	Protein 18201 18207	TORRES
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 18342 18352	Manuscript
+#14	AnnotatorNotes T14	END
+T15	Protein 21552 21558	TORRES
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 21693 21703	Manuscript
+#16	AnnotatorNotes T16	END
+T17	Protein 25158 25164	TORRES
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 25299 25309	Manuscript
+#18	AnnotatorNotes T18	END
+T19	Protein 28685 28691	TORRES
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 28826 28836	Manuscript
+#20	AnnotatorNotes T20	END
+T21	Protein 31852 31858	TORRES
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 41875 41885	Manuscript
+#22	AnnotatorNotes T22	END
+T23	Protein 42423 42429	TORRES
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 42565 42575	Manuscript
+#24	AnnotatorNotes T24	END
+T25	Protein 42726 42732	TORRES
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 42868 42878	Manuscript
+#26	AnnotatorNotes T26	END
+T27	Protein 42951 42957	TORRES
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 43093 43103	Manuscript
+#28	AnnotatorNotes T28	END
+T29	Protein 43722 43728	TORRES
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 43864 43874	Manuscript
+#30	AnnotatorNotes T30	END
+T31	Protein 44066 44072	TORRES
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 44208 44218	Manuscript
+#32	AnnotatorNotes T32	END
+T33	Protein 44840 44846	TORRES
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 44982 44992	Manuscript
+#34	AnnotatorNotes T34	END
+T35	Protein 45286 45292	TORRES
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 45428 45438	Manuscript
+#36	AnnotatorNotes T36	END
+T37	Protein 45846 45852	TORRES
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 45988 45998	Manuscript
+#38	AnnotatorNotes T38	END
+T39	Location 51 60	Argentina
+T40	Location 1110 1119	Argentina
+T41	Location 1100 1106	Mexico
+T42	Location 1559 1568	Argentina
+T43	Location 1601 1610	Argentina
+T44	Location 1661 1670	Argentina
+T45	Location 1896 1905	Argentina
+T46	Location 4002 4011	Argentina
+T47	Location 3992 3998	Mexico
+T48	Location 4842 4851	Argentina
+T49	Location 5838 5847	Argentina
+T50	Location 6744 6747	USA
+T51	Location 6731 6738	Atlanta
+T52	Location 6740 6742	GA
+T53	Location 6914 6917	USA
+T54	Location 6910 6912	CA
+T55	Location 6900 6908	Carlsbad
+T56	Location 13343 13346	USA
+T57	Location 13332 13342	California
+T58	Location 13322 13331	San Diego
+T59	Location 14605 14614	Argentina
+T60	Location 15097 15103	Mexico
+T61	Location 15133 15137	Peru
+T62	Location 15142 15150	Colombia
+T63	Location 15388 15394	Mexico
+T64	Location 15646 15655	Argentina
+T65	Location 16527 16535	Misiones
+T66	Location 16580 16588	Paraguay
+T67	Location 16593 16599	Brazil
+T68	Location 16649 16655	Brazil
+T69	Location 16713 16719	Brazil
+T70	Location 16721 16725	Peru
+T71	Location 16730 16737	Uruguay
+T72	Location 16938 16947	Argentina
+T73	Location 17231 17239	Colombia
+T74	Location 17244 17251	Ecuador
+T75	Location 18568 18577	Argentina
+T76	Location 20057 20063	Pirané
+T77	Location 20068 20074	Patiño
+T78	Location 20088 20095	Formosa
+T79	Location 20158 20164	Laishi
+T80	Location 20178 20185	Formosa
+T81	Location 20209 20214	Chaco
+T82	Location 22676 22685	Argentina
+T83	Location 23127 23136	Argentina
+T84	Location 23579 23588	Argentina
+T85	Location 23816 23825	Argentina
+T86	Location 24667 24676	Argentina
+T87	Location 25340 25346	Brazil
+T88	Location 25409 25418	Argentina
+T89	Location 25842 25851	Argentina
+T90	Location 42213 42222	Argentina
+T91	Location 42597 42606	Argentina
+T92	Location 42592 42595	ARG
+T93	Location 42608 42611	BRA
+T94	Location 42613 42619	Brazil
+T95	Location 42621 42624	COL
+T96	Location 42626 42634	Colombia
+T97	Location 42636 42639	ECU
+T98	Location 42641 42648	Ecuador
+T99	Location 42650 42653	ESa
+T100	Location 42655 42657;42658 42666	El Salvador
+T101	Location 42668 42671	GUY
+T102	Location 42673 42686	French Guyana
+T103	Location 42688 42691	MEX
+T104	Location 42693 42699	Mexico
+T105	Location 42701 42704	PER
+T106	Location 42706 42710	Peru
+T107	Location 42712 42715	URU
+T108	Location 42717 42724	Uruguay
+T109	Location 43565 43574	Catamarca
+T110	Location 43560 43563	CAT
+T111	Location 43576 43579	CHA
+T112	Location 43593 43600	Formosa
+T113	Location 43588 43591	FOR
+T114	Location 43581 43586	Chaco
+T115	Location 43607 43612	Salta
+T116	Location 43602 43605	SAL
+T117	Location 43614 43617	TUC
+T118	Location 43619 43626	Tucumán
+T119	Location 44761 44764	CHA
+T120	Location 44766 44771	Chaco
+T121	Location 44779 44789	Corrientes
+T122	Location 44773 44777	CORR
+T123	Location 44791 44794	FOR
+T124	Location 44796 44803	Formosa
+T125	Location 44805 44808	MIS
+T126	Location 44810 44818	Misiones
+T127	Location 44820 44823	SAL
+T128	Location 44825 44830	Salta
+T129	Location 44993 45001	Santa Fe
+T130	Location 44832 44838	STA FE
+T131	Location 1308 1316	Americas
+T132	Location 1364 1373	Argentina
+T133	Location 1921 1927	Brazil
+T134	Protein 2273 2287	Correspondence
+#134	AnnotatorNotes T134	BEGIN
+T135	Protein 2975 2976	.
+#135	AnnotatorNotes T135	END
+T136	Location 11436 11445	Argentina
+T137	Location 15296 15311	Central America
+T138	Location 15329 15342	South America
+T139	Location 17589 17598	Argentina
+T140	Location 25325 25338	South America
+T141	Location 29797 29806	Argentina
+T142	Location 30128 30134	Brazil
+T143	Protein 31286 31299	Supplementary
+#143	AnnotatorNotes T143	BEGIN
+T144	Protein 31850 31851	.
+#144	AnnotatorNotes T144	END
+T145	Location 1160 1173	Latin America
+T146	Location 28632 28645	North America
+T147	Location 4612 4620	Americas
+T148	Location 4788 4796	Americas
+T149	Location 5659 5667	Americas
+T150	Location 5767 5774	America

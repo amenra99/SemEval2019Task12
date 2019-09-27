@@ -1,0 +1,57 @@
+T11	Location 667 672	China
+T14	Location 1335 1340	China
+T15	Location 2736 2740	Asia
+T16	Location 2779 2788	Hong Kong
+T17	Location 2792 2797	China
+T18	Location 2826 2831	China
+T19	Location 3019 3024	China
+T22	Location 3201 3206	China
+T23	Location 3297 3302	China
+T24	Location 3450 3455	China
+T38	Location 5226 5231	China
+T39	Location 6838 6847	Hong Kong
+T40	Location 6864 6869	China
+T41	Location 6952 6961	Hong Kong
+T43	Location 7793 7798	China
+T44	Location 7956 7961	China
+T50	Location 10116 10121	China
+T65	Location 18342 18347	China
+T66	Location 22668 22673	China
+T67	Location 22769 22774	China
+T68	Location 23866 23871	China
+T69	Location 24090 24095	China
+T70	Location 24671 24676	China
+T72	Location 24959 24964	China
+T77	Location 27019 27024	China
+T80	Location 27553 27558	China
+T81	Location 28267 28272	China
+T82	Location 28372 28380	Pakistan
+T87	Location 33810 33815	China
+T88	Location 33919 33924	China
+T89	Location 34101 34106	China
+T90	Location 34864 34869	China
+T97	Location 36237 36242	China
+T98	Location 36400 36405	China
+T99	Location 36547 36550	USA
+T100	Location 36581 36588	Madison
+T3	Location 36590 36592	MI
+T101	Location 36594 36597	USA
+T105	Location 37861 37868	Beijing
+T114	Location 40487 40492	China
+T115	Location 40620 40625	China
+T259	Protein 10 14	Open
+#259	AnnotatorNotes T259	BEGIN
+T260	Protein 15 21	Access
+#260	AnnotatorNotes T260	END
+T261	Protein 120 125	Yuhai
+#261	AnnotatorNotes T261	BEGIN
+T262	Protein 275 276	*
+#262	AnnotatorNotes T262	END
+T263	Protein 40628 40644	Acknowledgements
+#263	AnnotatorNotes T263	BEGIN
+T264	Protein 47658 47660	11
+#264	AnnotatorNotes T264	END
+T1	Protein 3542 3543	*
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 4264 4265	.
+#2	AnnotatorNotes T2	END

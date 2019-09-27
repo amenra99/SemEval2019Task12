@@ -1,0 +1,92 @@
+T1	Protein 0 8	Original
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 9 16	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 150 156	Fumiyo
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 609 618	EuroCoord
+#4	AnnotatorNotes T4	END
+T5	Protein 1166 1175	Submitted
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3564 3568	2016
+#6	AnnotatorNotes T6	END
+T7	Protein 5667 5670	www
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 5854 5855	.
+#8	AnnotatorNotes T8	END
+T9	Protein 8853 8856	248
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 8870 8873	com
+#10	AnnotatorNotes T10	END
+T11	Protein 12027 12033	© 2015
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 12229 12233	2016
+#12	AnnotatorNotes T12	END
+T13	Protein 17150 17151	©
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 17394 17395	.
+#14	AnnotatorNotes T14	END
+T15	Protein 20290 20293	250
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 20307 20310	com
+#16	AnnotatorNotes T16	END
+T17	Protein 23328 23329	©
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 23568 23579	Populations
+#18	AnnotatorNotes T18	END
+T19	Protein 24884 24887	www
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 25068 25072	2016
+#20	AnnotatorNotes T20	END
+T21	Protein 27652 27655	252
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 27914 27925	Populations
+#22	AnnotatorNotes T22	END
+T23	Protein 30397 30398	©
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 30638 30642	2016
+#24	AnnotatorNotes T24	END
+T25	Protein 31875 31881	© 2015
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 32077 32081	2016
+#26	AnnotatorNotes T26	END
+T27	Protein 35227 35228	©
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 35316 35327	Populations
+#28	AnnotatorNotes T28	END
+T29	Protein 36160 36175	ACKNOWLEDGMENTS
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 45323 45324	.
+#30	AnnotatorNotes T30	END
+T31	Location 6037 6043	Europe
+T32	Location 7128 7130	UK
+T33	Location 7922 7924	UK
+T34	Location 8626 8630	Cary
+T35	Location 8632 8634	NC
+T36	Location 15645 15647	UK
+T37	Location 16201 16203	UK
+T38	Location 1025 1027	UK
+T39	Location 3748 3750	UK
+T40	Location 7675 7677	UK
+T41	Location 17055 17057	UK
+T42	Location 18547 18549	UK
+T43	Location 20225 20227	UK
+T44	Location 23635 23637	UK
+T45	Protein 24646 24647	©
+#45	AnnotatorNotes T45	BEGIN
+T46	Protein 24700 24701	.
+#46	AnnotatorNotes T46	END
+T47	Location 25263 25265	UK
+T48	Location 25342 25344	UK
+T49	Location 26446 26448	UK
+T50	Location 26994 26996	UK
+T51	Location 28038 28040	UK
+T52	Location 32811 32813	UK
+T53	Location 33559 33573	Western Europe
+T54	Location 35709 35715	Africa
+T55	Location 4548 4554	Europe
+T56	Protein 31411 31414	254
+#56	AnnotatorNotes T56	BEGIN
+T57	Protein 31428 31431	com
+#57	AnnotatorNotes T57	END
+T58	Location 34744 34750	Europe

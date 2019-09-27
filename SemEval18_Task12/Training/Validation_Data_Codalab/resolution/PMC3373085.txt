@@ -1,0 +1,321 @@
+Introductions of
+West Nile Virus
+Strains to Mexico
+Eleanor Deardorff,* José G. Estrada-Franco,*
+Aaron C. Brault,† Roberto Navarro-Lopez,‡
+Arturo Campomanes-Cortes,‡
+Pedro Paz-Ramirez,‡ Mario Solis-Hernandez,‡
+Wanichaya N. Ramey,† C. Todd Davis,*
+David W.C. Beasley,* Robert B. Tesh,*
+Alan D.T. Barrett,* and Scott C. Weaver*
+Complete genome sequencing of 22 West Nile virus
+isolates suggested 2 independent introductions into
+Mexico. A previously identified mouse-attenuated glycosy-
+lation variant was introduced into southern Mexico through
+the southeastern United States, while a common US geno-
+type appears to have been introduced incrementally into
+northern Mexico through the southwestern United States.
+West Nile virus (WNV), a mosquitoborne flavivirus
+for which birds serve as reservoir and amplification
+hosts, was introduced into New York in 1999 (1) and
+spread across the United States to California by 2003 (2).
+By 2002, serosurveys demonstrated WNV circulation in
+>6 eastern Mexican states and along its northern border
+with the United States (3–5). This pattern of WNV appear-
+ance in Mexico suggested a southwesterly spread across
+the United States and into northeastern Mexico through
+Texas. However, in the spring of 2003, the first WNV iso-
+late found in Mexico was obtained from a raven in the
+southeastern state of Tabasco (3). If WNV reached south-
+ern Mexico by incremental spread through northern
+Mexico from Texas, the index isolate would have been
+expected sooner and in a northern Mexican state.
+Phylogenetic analyses showed the raven isolate to be unex-
+pectedly divergent from contemporary Texas strains, but
+exact relationships and a route of entry could not be deter-
+mined by using premembrane and envelope glycoprotein
+(prM-E) sequences (3).
+The divergence between the southern Mexican raven
+and Texas isolates suggested that WNV arrived in southern
+Mexico by an alternate route, perhaps the Caribbean. After
+its spread throughout the northeastern United States, WNV
+appeared abruptly in Florida in 2001, appearing to bypass
+several mid-Atlantic states. This pattern could be
+explained by spread of migratory birds (6); the Atlantic
+coast flyway overlaps both New York and Florida, while
+the Mississippi Valley flyway overlaps both Louisiana and
+the Yucatan Peninsula of Mexico. Longitudinal avian sero-
+surveys that began in 2000 showed WNV seropositivity in
+at least 3 migratory and 2 resident bird species captured in
+the Yucatan Peninsula from 2002 to 2003 (7). Thus, migra-
+tory birds may have carried WNV from the southeastern
+United States into Mexico, either directly or through the
+Caribbean. Serosurveys have suggested WNV circulation
+among birds in various Caribbean islands since 2002
+(8–10).
+The possibility of a third WNV introduction into
+Mexico at the California border must also be considered. A
+2003 horse isolate from the northern Mexican state of
+Nuevo Leon was closely related to Texas isolates from
+2002 (11), based on its prM-E sequence. We do not know
+whether WNV reached California from Texas and the
+Midwest by crossing the Rocky Mountains or by traveling
+first into northern Mexico and subsequently spreading
+north from Baja California. The latter route is suggested by
+the geographic link with the first detection of WNV in
+southeastern California (2).
+The reported incidence of human West Nile encephali-
+tis is much greater on the US (California) than on the
+Mexican (Baja California and Sonora) side of the common
+border. Possible explanations for this discrepancy include
+differences in disease surveillance and reporting. Another
+possibility is that the WNV strains circulating in Mexico
+are attenuated compared to US strains, and the identifica-
+tion of a murine-attenuated glycosylation variant in
+Tabasco State (12) is consistent with this hypothesis.
+The Study
+To investigate possible routes of WNV entry into
+Mexico from the United States, 9 isolates from Mexico (all
+strains available) and 13 strains isolated in the United
+States from hypothetical points of introduction into
+Mexico (2 from Florida, 2 from Louisiana, 3 from Arizona,
+and 6 from California) were compared. Isolates from sev-
+eral northern Mexican states, 1 from Sonora, 1 from
+Tamaulipas, and 7 from Baja California, were obtained
+from a variety of birds and from a horse (Table, Figure 1)
+by injection of Vero cells. RNA was extracted from first or
+second Vero cell passages by using the QIAamp Viral
+RNA Mini-kit (Qiagen Inc, Valencia, CA, USA). Reverse
+transcription–polymerase chain reactions (RT-PCRs) were
+performed to amplify the complete WNV genome in 6
+overlapping amplicons by using primers described previ-
+ously (12). Amplicons were purified from agarose gels by
+using the QIAquick gel-extraction kit (Qiagen), and both
+strands were sequenced directly by using the PCR primers
+DISPATCHES
+314 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 2, February 2006
+*University of Texas Medical Branch, Galveston, Texas, USA;
+†University of California, Davis, California, USA; and ‡Comisión
+México-Estados Unidos para la Prevención de la Fiebre Aftosa y
+Otras Enfermedades Exóticas de los Animales, Mexico City,
+Mexico
+West Nile Virus Strains, Mexico
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 2, February 2006 315
+and the BigDye Terminator v3.1 Cycle Sequencing Kit
+(Applied BioSystems, Foster City, CA, USA) with a 3100
+Genetic Analyzer (Applied Biosystems).
+Complete genomic sequences excluding the 5′ and 3′
+terminal 20 nucleotides (representing primers incorporated
+into amplicons) were aligned with all homologous WNV
+sequences from the GenBank library by using ClustalW.
+Sequences were analyzed by using maximum parsimony
+and neighbor-joining programs implemented in the PAUP
+4.0 software package (13) as well as Bayesian analysis
+using MRBAYES v3.0 (14) with 100,000 generations, a
+general time-reversible model with empirically estimated
+base frequencies, and either a codon position-specific (for
+the open reading frame alone) or a gamma distribution of
+substitution rates among nucleotide sites.
+All phylogenetic trees placed the North American
+WNV isolates into monophyletic groups with strong boot-
+strap and Bayesian support values; the tree generated using
+the Bayesian analyses is presented in Figure 2. The
+Tabasco 2003 isolate grouped with 3 strains from 2001 and
+2002 in Florida and Louisiana and more distantly with a
+New York isolate from 2000, with strong Bayesian proba-
+bility and bootstrap support; inclusion of the New York
+grouse strain was weakly supported (bootstrap and
+Bayesian probability values <80%). In contrast, a 2004
+Louisiana isolate and other recent strains from Texas were
+positioned basally to the large clade containing all north-
+ern Mexico, California, and Arizona isolates. This
+California/Arizona/northern Mexico group was highly
+conserved, with <0.5% nucleotide and 0.04% amino acid
+sequence divergence. The 2003 Tabasco strain was phylo-
+genetically distinct from all other Mexico isolates, which
+grouped with the California and Arizona isolates.
+Surprisingly, despite the greater geographic distances
+between Tamaulipas and Baja California/Sonora, com-
+pared to the distance between Tamaulipas and Texas, the
+Tamaulipas WNV strains grouped more closely with
+strains from Baja California and Sonora than with those
+from Texas.
+Compared to the Tabasco strain, the other Mexican iso-
+lates differed by 0.55%–0.66% nucleotide sequence diver-
+gence across the genome. The gene with the most sequence
+divergence was prM, with 0.72%–1.4% divergence from
+the Tabasco strain. However, the 5′ untranslated region
+was more variable with 3.0%–4.6% divergence. The most
+conserved gene was NS2B, with 0.0%–0.24% divergence
+from the Tabasco strain. The E gene, often used for phylo-
+genetic analyses, had 0.46%–0.66% sequence divergence.
+Of the Mexican WNV isolates, only the 2003 Tabasco
+raven isolate had the E-156 Pro residue, which ablates the
+N-linked glycosylation site found in most North American
+strains. In addition, 2 other WNV isolates (GenBank
+accession nos. AY490240 and AF260968) share this E-156
+Pro residue despite their geographic diversity (China and
+Egypt, respectively) and their placement in different line-
+ages. Although the paraphyletic nature of this Pro mutation
+suggests that it could be selected either during laboratory
+isolation or passage, its identification in the low-passage
+Tabasco isolate may indicate its presence in nature.
+Conclusions
+Our data support the hypothesis that WNV entered
+Mexico through at least 2 independent introductions. The
+introduction detected by the first virus isolation in May
+2003 from a raven in Tabasco State probably occurred
+from a migratory bird that flew southward from the south-
+eastern United States to the Gulf of Mexico or the
+Caribbean and bypassed northern Mexico. The isolation
+and sequencing of WNV isolates from islands in the
+Caribbean may shed further light on how WNV reached
+southern Mexico. However, the extreme genetic conserva-
+tion of North American WNV strains may preclude identi-
+fying the exact routes of introduction. Independently, other
+WNV strains probably spread incrementally from the
+southwestern United States into northern Mexico. Both
+northward and southward movements of WNV between
+northern Mexico and California or Arizona may also occur.
+Available WNV strains from Mexico indicate that the
+murine-attenuated, E-156 glycosylation-negative variant
+identified in Tabasco state may be limited in its distribu-
+tion to southern Mexico, while the glycosylated variant
+typical of US strains is widespread in northern Mexico.
+However, our sampling was limited and may also be
+biased because many WNV isolates were from sick or
+dying animals; the attenuated E-156 Pro residue phenotype
+DISPATCHES
+316 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 2, February 2006
+Figure 1. Map showing hypothetical routes of West Nile virus intro-
+duction into Mexico. Circles indicate locations of isolates in the
+Florida-Louisiana-Tabasco 2001–2003 clade (Figure 2). Stars indi-
+cate locations of isolates in the California-Arizona-northern Mexico
+clade.
+could be undersampled because relatively benign infec-
+tions are rarely identified.
+The epidemiology of WNV-associated disease in
+Mexico is puzzling. According to the Centers for Disease
+Control and Prevention, 2,470 human cases of WNV infec-
+tion were confirmed during 2004 in the United States, with
+>80% of these from areas of California and Arizona bor-
+dering the northern Mexico states of Baja California and
+Sonora where many of our viral isolations were made. In
+contrast, only 7 human cases of WNV have been con-
+firmed in Mexico. The cases occurred in the border states
+of Chihuahua (n = 4), Sonora (n = 1), and Nuevo Leon
+(n = 1) in 2003, and Sonora (n = 1) in 2004 (15). Our
+results of extremely low sequence divergence between the
+southwestern United States and northern Mexican WNV
+isolates indicate that this epidemiologic discrepancy is
+unlikely to be explained by genetic and phenotypic differ-
+ences among WNV strains. The possibility that WNV cir-
+culating in Mexico has an attenuated phenotype was
+suggested by the murine-attenuating mutation in the
+Tabasco raven isolate (12). However, none of our northern
+Mexico isolates have the E-156-P attenuating mutation,
+and all appear extremely closely related to isolates made in
+southwestern areas of the United States with a high disease
+incidence.
+Another possible explanation for the low incidence of
+WNV disease in Mexico is resistance in the Mexican
+human population, possibly because cross-protective
+immunity from other flavivirus infections such as dengue
+and St. Louis encephalitis viruses. Although St. Louis
+encephalitis virus is common in some areas of the conti-
+nental United States, including California, dengue virus
+infections are rare; only 157 cases of dengue were report-
+ed in the northern states of Mexico in 2004: 25 in Sonora;
+21 in Nuevo Leon; 88 in Tamaulipas; 3 in Coahuila; 0 in
+Chihuahua; and 0 in Baja California (http://www.dgepi.
+salud.gob.mx/boletin/2004/sem52). Of all Mexican states,
+Baja California and Sonora adjacent to the US border have
+the lowest incidence of flaviviral infections. Human fla-
+vivirus serosurveys should be conducted in northern
+Mexico to further evaluate the possibility of cross-protec-
+tive flavivirus immunity. Newer approaches to detect and
+identify flaviviral disease are also needed in Mexico to
+more accurately assess the impact of WNV.
+Acknowledgments
+We thank Igor Romero and many veterinarians from CPA-
+SAGARPA for field support; Emily N. Green for technical assis-
+tance; and Ronald C. Cheshier, Lilian Stark, and Barbara
+Cahoon-Young for providing virus isolates.
+This research was supported by contract N01-AI25489 from
+the National Institutes of Health and by the California Mosquito
+Research Program. E.D. was supported by the T01/CCT622892
+CDC Fellowship Training Grant in Vector-Borne Infectious
+Diseases. C.T.D. was supported by NIH T32 training grant AI
+7256 in Emerging and Tropical Infectious Diseases.
+Ms Deardorff is a graduate student in the experimental
+pathology program at the University of Texas Medical Branch.
+Her research interests include arbovirology, zoonoses, viral ecol-
+ogy, and evolution.
+West Nile Virus Strains, Mexico
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 2, February 2006 317
+Figure 2. Phylogenetic tree generated from
+the complete open reading frame of West
+Nile virus sequences using a Bayesian
+analysis. Virus strains are labeled by
+GenBank accession number followed by the
+state and/or country, year, and host of isola-
+tion. Numbers indicate Bayesian probability
+values followed by neighbor-joining boot-
+strap values for groups to the right. The tree
+was rooted by using an outgroup comprised
+of Old World strains of West Nile virus,
+including a lineage 2 strain (Table).
+References
+1. Lanciotti RS, Roehrig JT, Deubel V, Smith J, Parker M, Steele K, et
+al. Origin of the West Nile virus responsible for an outbreak of
+encephalitis in the northeastern United States. Science.
+1999;286:2333–7.
+2. Reisen W, Lothrop H, Chiles R, Madon M, Cossen C, Woods L, et al.
+West Nile virus in California. Emerg Infect Dis. 2004;10:1369–78.
+3. Estrada-Franco JG, Navarro-Lopez R, Beasley DW, Coffey L, Carrara
+AS, Travassos da Rosa A, et al. West Nile virus in Mexico: evidence
+of widespread circulation since July 2002. Emerg Infect Dis.
+2003;9:1604–7.
+4. Lorono-Pino MA, Blitvich BJ, Farfan-Ale JA, Puerto FI, Blanco JM,
+Marlenee NL, et al. Serologic evidence of West Nile virus infection
+in horses, Yucatan State, Mexico. Emerg Infect Dis. 2003;9:857–9.
+5. Blitvich BJ, Fernandez-Salas I, Contreras-Cordero JF, Marlenee NL,
+Gonzalez-Rojas JI, Komar N, et al. Serologic evidence of West Nile
+virus infection in horses, Coahuila State, Mexico. Emerg Infect Dis.
+2003;9:853–6.
+6. Rappole JH, Hubalek Z. Migratory birds and West Nile virus. J Appl
+Microbiol. 2003;94(Suppl):47S-58S.
+7. Farfan-Ale JA, Blitvich BJ, Lorono-Pino MA, Marlenee NL, Rosado-
+Paredes EP, Garcia-Rejon JE, et al. Longitudinal studies of West Nile
+virus infection in avians, Yucatan State, Mexico. Vector Borne
+Zoonotic Dis. 2004;4:3–14.
+8. Dupuis AP 2nd, Marra PP, Kramer LD. Serologic evidence of West
+Nile virus transmission, Jamaica, West Indies. Emerg Infect Dis.
+2003;9:860–3.
+9. Komar O, Robbins MB, Klenk K, Blitvich BJ, Marlenee NL,
+Burkhalter KL, et al. West Nile virus transmission in resident birds,
+Dominican Republic. Emerg Infect Dis. 2003;9:1299–302.
+10. Quirin R, Salas M, Zientara S, Zeller H, Labie J, Murri S, et al. West
+Nile virus, Guadeloupe. Emerg Infect Dis. 2004;10:706–8.
+11. Blitvich BJ, Fernandez-Salas I, Contreras-Cordero JF, Lorono-Pino
+MA, Marlenee NL, Diaz FJ, et al. Phylogenetic analysis of West Nile
+virus, Nuevo Leon State, Mexico. Emerg Infect Dis. 2004;10:1314–7.
+12. Beasley DW, Davis CT, Estrada-Franco J, Navarro-Lopez R,
+Campomanes-Cortes A, Tesh RB, et al. Genome sequence and atten-
+uating mutations in West Nile virus isolate from Mexico. Emerg
+Infect Dis. 2004;10:2221–4.
+13. Swofford DL. 1998. PAUP*. Phylogenetic Analysis Using Parsimony
+(*and Other Methods). Version 4, Sunderland (MA), Sinauer
+Associates.
+14. Huelsenbeck JP, Ronquist F. MRBAYES: Bayesian inference of phy-
+logenetic trees. Bioinformatics. 2001;17:754–5.
+15. Ramos C, Falcon-Lezama A. La fiebre del Nilo Occidental: una
+enfermedad emergente en Mexico. Salud Publica Mex.
+2004;46:488–90.
+Address for correspondence: Scott C. Weaver, Department of Pathology,
+University of Texas Medical Branch, Galveston, TX 77555-0609, USA;
+fax: 409-747-2415; email: sweaver@utmb.edu
+DISPATCHES
+318 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 12, No. 2, February 2006
+Search
+past issues

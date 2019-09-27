@@ -1,0 +1,310 @@
+DISPATCHES
+272	 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 2, February 2014
+Co-circulation of
+West Nile Virus
+Variants, Arizona,
+USA, 2010
+Jessica A. Plante,1
+Kristen L. Burkhalter,1
+Brian R. Mann, Marvin S. Godsey, Jr.,
+John-Paul Mutebi, and David W. C. Beasley
+Molecular analysis of West Nile virus (WNV) isolates
+obtained during a 2010 outbreak in Maricopa County,
+Arizona, USA, demonstrated co-circulation of 3 distinct ge-
+netic variants, including strains with novel envelope protein
+mutations. These results highlight the continuing evolution
+of WNV in North America and the current complexity of
+WNV dispersal and transmission.
+West Nile virus (WNV) emerged in the Americas in
+1999 after an outbreak of neuroinvasive disease in
+humans, birds, and horses in New York, New York. The vi-
+rus spread rapidly across North America and was detected
+in Arizona in 2003. In 2004, Arizona experienced a large
+outbreak (214 neuroinvasive cases and 16 deaths, second
+only to California in that year), followed by ≈50–60 neuro-
+invasive cases per year during 2005–2008.
+An outbreak in 2010 resulted in 107 neuroinvasive
+cases and 15 deaths, the largest number of cases for a state
+that year. WNV activity in Maricopa County, which in-
+cludes the city of Phoenix and surrounding municipalities,
+where numerous human cases were reported in the town of
+Gilbert, was investigated by a team from the Centers for
+Disease Control and Prevention (Fort Collins, CO, USA)
+working with local and state public health officials. Epide-
+miologic and entomologic findings from those investiga-
+tions have been reported (1,2) We describe the molecular
+and phenotypic characterization of WNV isolates obtained
+from that outbreak.
+The Study
+As part of the Centers for Disease Control and Pre-
+vention investigation, Vero cell culture isolates of WNV
+were obtained from pools of Culex quinquefasciatus (Say)
+mosquitoes collected during August 1–9, 2010, at multiple
+sites in the study areas (Figure 1). Nucleotide sequences
+(GenBank accession nos. KF704145–KF704159) for the
+envelope (E) protein–coding regions were determined
+for 15 strains and subjected to phylogenetic analysis.
+The AZ10 E gene sequences were distributed in 3 robust
+monophyletic clusters (designated A, B, C; posterior prob-
+abilities 0.99) as determined by using applied relaxed clock
+Bayesian coalescent analysis (Figure 2, panel A).
+Isolates from all 3 clusters were detected from the
+Gilbert study sites. All AZ10 isolates encoded the E-159
+Val→Ala mutation that is characteristic of genotypes de-
+scribed since 2002 (4). The 6 strains in cluster A, which
+were only obtained from pools collected in Gilbert, also en-
+coded a conservative Leu→Ile mutation at E-312, a surface
+exposed residue in the putative receptor binding domain III
+(EIII) known to be a variable site in multiple WNV genetic
+lineages, including strains of lineage 2 currently circulat-
+ing in Europe (5–9). The 2 strains in cluster B, collected
+in Glendale and Gilbert, Arizona, encoded a conservative
+Ser→Thr mutation at E-275.
+To further characterize the phylogenetic relation-
+ships of these AZ10 isolates, 1 strain from each clus-
+ter was selected for full-length genomic sequencing
+and comparison of the encoded open reading frames to
+486 additional genomic sequences from North America
+available in GenBank. This analysis also supported the
+concurrent circulation of 3 distinct variants in Gilbert
+and the surrounding areas of Maricopa County during
+the 2010 outbreak (Figure 2, panel B). Strain AZ10-581
+(cluster A) grouped with the recently described SW/
+WN03 genotype (10), and was most closely related to
+a South Dakota 2005 strain and 2 other strains that each
+encoded the E-L312I mutation. Strain AZ10-91 (cluster
+B) grouped with 2004–2005 Arizona and New Mexico
+isolates also belonging to a clade of the SW/WN03
+genotype. Other SW/WN03 genotype viruses did not
+encode the E-275 mutation in AZ10-91 and AZ10-372.
+Strain AZ10-892 grouped with other recently described
+Arizona 2010/2011 isolates (4) and a New York 2004
+strain belonging to the dominant NA/WN02 genotype,
+confirming persistence or reintroduction of that geno-
+type in the southwestern United States (4). Nucleotide
+divergence from NY99 ranged from 0.58% to 0.66% for
+the AZ10 strains and divergence between the 3 clusters
+was up to ≈1.2% (Table 1).
+The presence of the E-312 coding mutation was of par-
+ticular interest. Most sequences for lineage 1 WNV strains
+encode Leu at E-312, whereas lineage 2 strains encode Val
+or Ala. E-312 lies in an exposed loop of EIII, where it may
+contribute to the antigenic and/or putative receptor binding
+activities of the domain (6). To assess the effects of the
+Leu→Ile mutation and tolerance for alternative amino acid
+Author affiliations: University of Texas Medical Branch, Galveston,
+Texas, USA (J.A. Plante, B.R. Mann, D.W.C. Beasley); and Centers
+for Disease Control and Prevention, Fort Collins, Colorado, USA.
+(K.L. Burkhalter, M.S. Godsey, Jr., J.P. Mutebi)
+DOI: http://dx.doi.org/10.3201/eid2002.131008
+1
+These authors contributed equally to this article.
+Co-circulation of WNV Variants, Arizona, USA, 2010
+	 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 2, February 2014	 273
+substitutions at this site, we engineered 5 E-312 mutants by
+using an NY99 infectious clone (NY99ic) encoding alter-
+native amino acids that are each only a single nucleotide
+substitution away from the wild-type Leu codon (CUU)
+(Table 2). (Although Phe also requires only a single nu-
+cleotide change from the Leu codon, it occurs naturally in
+some lineage 1 and 2 WNV strains and was not included
+in this analysis.) Mutagenesis, in vitro ligation, and tran-
+scription of genome equivalent RNA and virus recovery
+were performed as described (11). All mutant viruses were
+readily recovered from transfected Vero cells and grew to
+peak titers comparable to the parental NY99ic virus, and
+the introduced mutations were stable through 3 additional
+Vero cell passages.
+Virulence of AZ10-75 and AZ10-581 (cluster A),
+AZ10-91 (cluster B), AZ10–892 (cluster C), and the
+recovered NY99ic E-312 mutants was compared with
+wild-type NY99ic after intraperitoneal inoculation of 3-
+to 4-week-old female Swiss Webster mice (Table 2) as
+described (11). The AZ10 strains and all E-312 mutants
+had 50% lethal doses (LD50
+s) and average survival times
+comparable with that of NY99ic, with the exception of the
+L312P mutant, which was markedly attenuated (630 PFU/
+LD50
+vs. 0.3 PFU/LD50
+, and prolonged survival time). An-
+tigenic characteristics of viruses encoding L312I muta-
+tions were also compared by assessing their neutralization
+by monoclonal antibodies 7H2 and 5H10 and a polyclonal
+rabbit antiserum against the EIII region as described (5).
+AZ10-75, AZ10-581 and all E-312 variants were effec-
+tively neutralized by the monoclonal antibodies and anti-
+serum (Table 2).
+Conclusions
+Detection of a Leu→Ile mutation at residue 312 in
+EIII and its apparent persistence since first detection in
+the 2005 South Dakota isolate were major findings given
+the variable nature of this residue in other WNV lineages
+and the presumed importance of EIII in antigenicity and
+receptor binding activity of E protein. Although other pa-
+rameters that could contribute to the selection of E-312
+variants in nature remain to be explored, analysis of en-
+gineered E-312 mutants suggested that most nonsynony-
+mous single nucleotide mutations at this site, including
+the Leu→Ile substitution in some AZ10 isolates, have
+no major effect on virulence of NY99-derived WNV
+in mice and were not associated with major changes
+in antigenicity.
+The 2010 epidemic of WNV disease in the Maricopa
+County area was associated with co-circulation of 3 dis-
+tinct WNV variants. The high mouse virulence of all strains
+tested suggests that signature nucleotide and amino acid
+changes associated with the different genotypes involved
+(4,10) were probably not linked to major changes in viru-
+lence for mammalian hosts, and that all 3 variants might
+have contributed to human disease in the 2010 outbreak.
+Some nonstructural protein mutations have been shown to
+influence virulence in avian hosts (12), and that phenotype
+remains to be determined for these strains or other recently
+identified WNV variants.
+Detection of multiple sequence variants has been as-
+sociated with outbreaks in the United States in as early as
+2002 (13), but co-circulation of variants in relatively nar-
+row spatial and temporal contexts, such as that observed in
+Figure 1. Distribution of mosquito
+sampling sites in Maricopa County,
+Arizona, USA, during the 2010 West
+Nile virus (WNV) outbreak investigation
+and collection dates/locations of pools
+yielding indicated WNV isolates used
+for molecular and/or phenotypic
+analysis. Gray lines indicate individual
+zip code boundaries. CDC, Centers for
+Disease Control and Prevention.
+DISPATCHES
+274	 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 2, February 2014
+Maricopa County, has been a feature of recent investiga-
+tions, including WNV transmission in El Paso, Texas, and
+Ciudad Juarez, Mexico, during 2010 (14) and during the
+2012 outbreak in Dallas, Texas (15). These findings high-
+light the current complexity and dynamic nature of WNV
+transmission in the United States and suggest that co-circu-
+lation of multiple variants, with continued introduction or
+reintroduction of variants into disease-endemic areas, will
+be a major feature of future outbreaks.
+Acknowledgments
+We thank the Maricopa County Environmental
+Services Vector Control Division for support and assistance
+during field studies that led to virus isolations; John Townsend,
+Kirk Smith, Dan Damian, K. Cox, and the Maricopa County
+Environmental Services Vector Control Division field crew
+for assistance; Maricopa County residents for allowing
+mosquito collection on their property; and James Colborn for
+preparing Figure 1.
+Figure 2. A) Bayesian phylogenetic tree of envelopes genes of all described Arizona, USA, 2010 isolates of West Nile virus (WNV) (n = 15).
+Isolates grouped in 3 distinct monophyletic clusters designated A (red), B (blue), and C (green). B) Bayesian phylogenetic tree of full-length
+encoded open reading frame for 3 Arizona, USA, 2010 isolates: AZ10.581 (red), AZ10.892 (green), AZ10.91 (blue), and 100 representative
+North American WNV isolates. All applied relaxed clock Bayesian methods used the generalized time reversible + invariant sites + Γ4
+substitution model with a lognormal molecular clock and triplicate 50 million state runs produced in BEAST v1.6.2 (3). Inferred phylogenetic
+trees were edited in FigTree v1.3.1 (http://tree.bio.ed.ac.uk/software/figtree/). Consistent phylogenetic topologies with additional neighbor-
+joining and maximum-likelihood methods further validated these inferred relationships. Posterior probabilities ≥0.90 are indicated for
+highlighted nodes. Scale bars indicate divergence time in years.
+Table	1.	Nucleotide	divergence	for	open	reading	frame	sequences	between	representative	West	Nile	virus	strains	and	other	closely
+related	strains from North	America,	Arizona,	USA,	2010*
+Strain
+Nucleotide	divergence	(%)	from
+NY99 Cluster	A Cluster	B Cluster	C
+AZ10–581 0.58 0.25–0.52 0.66–0.85 0.61–1.10
+AZ10–91 0.66 0.74–1.04 0.49–0.52 0.69–1.16
+AZ10–892 0.65 0.84–1.18 0.92–1.04 0.27–0.62
+*Strains	used	for	analysis	in	each	cluster	are	those	color coded	with	representative	AZ10	strains	and	shown	in	Figure	2,	panel	B.	For	cluster	A:	BSL2–
+2005	(SD	2005;	GenBank	accession	no.	DQ666452),	BSL2–09	(NV	2009,	JF957175),	BSL4–11	(AZ	2011,	JQ700438);	cluster	B:	v4530	(NM	2005,	
+HM756677),	144WG-AZ06PI	(AZ	2006,	GQ507482);	cluster	C:	v4798	(NY	2004,	HM756671),	BSL3–10	(AZ	2010,	JF957186),	BSL2–10	(AZ	2010	
+JF957185),	BSL23–11	(AZ	2011,	JQ700440).
+Co-circulation of WNV Variants, Arizona, USA, 2010
+	 Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 20, No. 2, February 2014	 275
+This study was supported in part by funding to D.W.C.B. from
+the Institute for Human Infections and Immunity at the University of
+TexasMedicalBranch.J.A.P.wassupportedbyfellowshipsfromthe
+Sealy Center for Vaccine Development and the Biodefense Training
+Program (National Institutes of Health grant T32-AI060549).
+Ms Plante is a doctoral student at the University of Texas
+Medical Branch, Galveston, TX. Her research interests include
+molecular biology of flaviviruses.
+References
+1.	 Gibney KB, Colborn J, Baty S, Bunko Patterson AM, Sylvester T,
+Briggs G, et al. Modifiable risk factors for West Nile virus
+infection during an outbreak, Arizona, 2010. Am J Trop Med Hyg.
+2012;86:895–901. http://dx.doi.org/10.4269/ajtmh.2012.11-0502
+2.	 GodseyMSJr,BurkhalterK,YoungG,DeloreyM,SmithK,TownsendJ,
+et al. Entomologic investigations during an outbreak of West Nile
+virus disease in Maricopa County,Arizona, 2010.Am J Trop Med Hyg.
+2012;87:1125–31. http://dx.doi.org/10.4269/ajtmh.2012.11-0700
+3.	 DrummondAJ, RambautA. BEAST: Bayesian evolutionary analysis
+by sampling trees. BMC Evol Biol. 2007;7:214. http://dx.doi.
+org/10.1186/1471-2148-7-214
+4.	 Añez G, Grinev A, Chancey C, Ball C, Akolkar N, Land KJ, et al.
+Evolutionary dynamics of West Nile virus in the United States,
+1999–2011: phylogeny, selection pressure and evolutionary time-
+scale analysis. PLoS Negl Trop Dis. 2013;7:e2245. http://dx.doi.
+org/10.1371/journal.pntd.0002245
+5.	 Bakonyi T, Hubalek Z, Rudolf I, Nowotny N. Novel flavivirus or
+new lineage of West Nile virus, central Europe. Emerg Infect Dis.
+2005;11:225–31. http://dx.doi.org/10.3201/eid1102.041028
+6.	 Li L, Barrett AD, Beasley DW. Differential expression of domain
+III neutralizing epitopes on the envelope proteins of West Nile
+virus strains. Virology. 2005;335:99–105. http://dx.doi.org/10.1016/
+j.virol.2005.02.011
+7.	 McMullen AR, Albayrak H, May FJ, Davis CT, Beasley DW, Barrett
+AD. Molecular evolution of lineage 2 West Nile virus. J Gen Virol.
+2013;94:318–25. http://dx.doi.org/10.1099/vir.0.046888-0
+8.	 Papa A, Bakonyi T, Xanthopoulou K, Vazquez A, Tenorio A,
+Nowotny N. Genetic characterization of West Nile virus lineage
+2, Greece, 2010. Emerg Infect Dis. 2011;17:920–2. http://dx.doi.
+org/10.3201/eid1705.101759
+9.	 Bakonyi T, Ivanics E, Erdelyi K, Ursu K, Ferenczi E, Weissenbock H,
+et al. Lineage 1 and 2 strains of encephalitic West Nile virus,
+central Europe. Emerg Infect Dis. 2006;12:618–23. http://dx.doi.
+org/10.3201/eid1204.051379
+10.	 McMullen AR, May FJ, Li L, Guzman H, Bueno R Jr, Dennett JA,
+et al. Evolution of new genotype of West Nile virus in North
+America. Emerg Infect Dis. 2011;17:785–93. http://dx.doi.
+org/10.3201/eid1705.101707
+11.	 Zhang S, Bovshik EI, Maillard R, Gromowski GD, Volk DE, Schein
+CH, et al. Role of BC loop residues in structure, function and
+antigenicity of the West Nile virus envelope protein receptor-binding
+domain III. Virology. 2010;403:85–91 http://dx.doi.org/10.1016/
+j.virol.2010.03.038
+12.	 Brault AC. Changing patterns of West Nile virus transmission:
+altered vector competence and host susceptibility. Vet Res.
+2009;40:43. http://dx.doi.org/10.1051/vetres/2009026
+13.	 Beasley DW, Davis CT, Guzman H, Vanlandingham DL,
+Travassos da Rosa AP, Parsons RE, et al. Limited evolution of West
+Nile virus has occurred during its southwesterly spread in the United
+States. Virology. 2003;309:190–5. http://dx.doi.org/10.1016/S0042-
+6822(03)00150-8
+14.	 Mann BR, McMullenAR, Guzman H, Tesh RB, BarrettAD. Dynam-
+ic transmission of West Nile virus across the United States–Mexi-
+can border. Virology. 2013;436:75–80. http://dx.doi.org/10.1016/
+j.virol.2012.10.023
+15.	 Duggal NK, D’Anton M, Xiang J, Seiferth R, Day J, Nasci R,
+et al. Sequence analyses of 2012 west nile virus isolates from
+Texas fail to associate viral genetic factors with outbreak magnitude.
+Am J Trop Med Hyg. 2013;89:205–10. http://dx.doi.org/10.4269/
+ajtmh.13-0140
+Address for correspondence: David W. C. Beasley, Department of
+Microbiology and Immunology, University of Texas Medical Branch, 301
+University Blvd, Galveston, TX 77555-0609, USA; email: d.beasley@
+utmb.edu
+Table	2.	Mouse	virulence	and	antigenic	characteristics	of	selected	isolates	of	West	Nile	virus	and	NY99ic-derived	E-312	variants,	
+Arizona,	USA,	2010*
+Strain/variant
+Mouse	neuroinvasiveness Neutralization	indices	 SD
+ip	LD50,	PFU AST	 SD	(days) 7H2 5H10 α-EIII
+NY99ic 0.3 8.7	 1.8 1.5	 0.2 1.5	 0.2 2.4	 0.3
+AZ10–75 0.5 8.7	 2.2 1.3	 0.5 1.3	 0.3 2.1	 0.3
+AZ10–581 0.8 9.8	 2.4 1.2	 0.2 1.3	 0.1 2.5	 0.2
+AZ10–91 0.5 7.8	 0.9 ND ND ND
+AZ10–892 0.3 8.6	 2.0 ND ND ND
+NY99–312F 1.3 9.8	 1.9 1.5	 0.4 1.5	 0.4 2.5	 0.4
+NY99–312H 0.8 8.5	 1.9 2.0	 0.1 1.7	 0.3 2.9	 0.0
+NY99–312I 0.3 8.5	 1.4 1.8	 0.4 1.4	 0.3 2.5	 0.4
+NY99–312P 630 13.0  0.0 2.2	 0.1 2.0	 0.1 2.6	 0.2
+NY99–312R 2.0 8.5	 2.2 1.8	 0.2 1.7	 0.1 2.7	 0.0
+*Average	survival	time	(AST)	for	each	strain/variant	was	determined	on	the	basis	of	animals	in	all	dose	groups	that	did	not	survive.	Value	significantly	
+different	(p<0.05	by	Student	t-test)	from	NY99ic	is	indicated	in	boldface.	ip,	intraperitoneal;	LD50,	50%	lethal	dose;	ND,	not	determined.

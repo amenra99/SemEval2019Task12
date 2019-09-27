@@ -1,0 +1,45 @@
+T2	Location 265 269	Asia
+T3	Location 275 281	Europe
+T12	Location 691 695	Asia
+T13	Location 700 706	Europe
+T24	Location 2956 2966	Bangladesh
+T25	Location 2968 2977	Singapore
+T26	Location 2980 2988	Malaysia
+T27	Location 2994 3005	South Korea
+T28	Location 3071 3085	United Kingdom
+T29	Location 3087 3095	Scotland
+T30	Location 3098 3105	Finland
+T31	Location 3111 3122	Netherlands
+T32	Location 3124 3130	Poland
+T33	Location 3136 3141	Italy
+T34	Location 3577 3588	Foster City
+T37	Location 5071 5075	Asia
+T38	Location 5079 5085	Europe
+T49	Location 7039 7043	Asia
+T50	Location 7048 7054	Europe
+T51	Location 7100 7104	Asia
+T59	Location 9302 9306	Asia
+T60	Location 9393 9399	Europe
+T62	Location 9461 9465	Asia
+T64	Location 9537 9543	Europe
+T66	Location 9622 9626	Asia
+T71	Location 10247 10251	Asia
+T72	Location 10256 10262	Europe
+T73	Location 10311 10323	South Africa
+T9	Location 3590 3592	CA
+T5	Protein 302 303	.
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 581 585	2005
+#6	AnnotatorNotes T6	END
+T7	Protein 11643 11645	We
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 14534 14543	MICROBIOL
+#8	AnnotatorNotes T8	END
+T10	Protein 5647 5648	*
+#10	AnnotatorNotes T10	BEGIN
+T11	Protein 5894 5898	6130
+#11	AnnotatorNotes T11	END
+T74	Protein 0 8	﻿JOURNAL
+#74	AnnotatorNotes T74	BEGIN
+T75	Protein 207 208	.
+#75	AnnotatorNotes T75	END

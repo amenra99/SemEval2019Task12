@@ -1,0 +1,80 @@
+T1	Protein 0 8	Clinical
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 130 137	Article
+#2	AnnotatorNotes T2	END
+T3	Protein 246 250	This
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 864 870	S29470
+#4	AnnotatorNotes T4	END
+T5	Protein 3497 3505	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3572 3580	modeling
+#6	AnnotatorNotes T6	END
+T7	Protein 3812 3820	Clinical
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4061 4066	Mills
+#8	AnnotatorNotes T8	END
+T9	Protein 6427 6429	76
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 6486 6495	Dovepress
+#10	AnnotatorNotes T10	END
+T11	Protein 9285 9293	Clinical
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 9315 9324	Dovepress
+#12	AnnotatorNotes T12	END
+T13	Protein 12770 12778	Clinical
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 12797 12798	4
+#14	AnnotatorNotes T14	END
+T15	Protein 13854 13860	submit
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 13937 13942	Mills
+#16	AnnotatorNotes T16	END
+T17	Protein 17955 17957	78
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 18003 18012	Dovepress
+#18	AnnotatorNotes T18	END
+T19	Protein 18260 18268	Clinical
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 18336 18344	analysis
+#20	AnnotatorNotes T20	END
+T21	Protein 23090 23098	Clinical
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 23203 23208	Mills
+#22	AnnotatorNotes T22	END
+T23	Protein 26883 26885	80
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 26931 26940	Dovepress
+#24	AnnotatorNotes T24	END
+T25	Protein 27991 27999	Clinical
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 28067 28075	analysis
+#26	AnnotatorNotes T26	END
+T27	Protein 31944 31952	Clinical
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 31971 31972	4
+#28	AnnotatorNotes T28	END
+T29	Protein 33037 33043	submit
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 33120 33125	Mills
+#30	AnnotatorNotes T30	END
+T31	Protein 37110 37112	82
+#31	AnnotatorNotes T31	BEGIN
+T32	Protein 37158 37167	Dovepress
+#32	AnnotatorNotes T32	END
+T33	Protein 38349 38357	Clinical
+#33	AnnotatorNotes T33	BEGIN
+T34	Protein 38425 38433	analysis
+#34	AnnotatorNotes T34	END
+T35	Protein 40351 40359	Clinical
+#35	AnnotatorNotes T35	BEGIN
+T36	Protein 40464 40469	Mills
+#36	AnnotatorNotes T36	END
+T37	Protein 42345 42347	84
+#37	AnnotatorNotes T37	BEGIN
+T38	Protein 42434 42443	Dovepress
+#38	AnnotatorNotes T38	END
+T39	Protein 44403 44411	Clinical
+#39	AnnotatorNotes T39	BEGIN
+T40	Protein 47537 47539	85
+#40	AnnotatorNotes T40	END

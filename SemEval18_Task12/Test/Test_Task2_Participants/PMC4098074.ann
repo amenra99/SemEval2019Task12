@@ -1,0 +1,172 @@
+T1	Protein 104 109	Petra
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 307 316	Essbauer2
+#2	AnnotatorNotes T2	END
+T3	Protein 3695 3696	1
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 4372 4373	.
+#4	AnnotatorNotes T4	END
+T5	Protein 9443 9446	524
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 9558 9559	.
+#6	AnnotatorNotes T6	END
+T7	Protein 13941 13953	HANTAVIRUSES
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 14088 14089	.
+#8	AnnotatorNotes T8	END
+T9	Protein 19440 19443	526
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 19555 19556	.
+#10	AnnotatorNotes T10	END
+T11	Protein 22169 22181	HANTAVIRUSES
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 22316 22317	.
+#12	AnnotatorNotes T12	END
+T13	Protein 23918 23921	528
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 24033 24034	.
+#14	AnnotatorNotes T14	END
+T15	Protein 28543 28558	Acknowledgments
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 37446 37447	.
+#16	AnnotatorNotes T16	END
+T17	Location 96 103	Croatia
+T18	Location 329 336	Croatia
+T19	Location 626 633	Croatia
+T20	Location 1891 1898	Croatia
+T21	Location 2150 2157	Croatia
+T22	Location 2380 2387	Croatia
+T23	Location 3039 3046	Croatia
+T24	Location 3541 3548	Croatia
+T25	Location 4374 4381	Croatia
+T26	Location 4830 4837	Croatia
+T27	Location 5111 5118	Croatia
+T28	Location 5487 5494	Croatia
+T29	Location 5549 5556	Croatia
+T30	Location 6026 6033	Croatia
+T31	Location 6151 6159	Slovenia
+T32	Location 6219 6225	Zagreb
+T33	Location 6323 6330	Žutica
+T34	Location 6369 6376	Croatia
+T35	Location 6411 6417	Zagreb
+T36	Location 6069 6075	Gerovo
+T37	Location 6112 6124	Gorski kotar
+T38	Location 6673 6677;6678 6682	Žu- tica
+T39	Location 6742 6748	Gerovo
+T40	Location 6951 6957	Gerovo
+T41	Location 6905 6912	Žutica
+T42	Location 7089 7096	Žutica
+T43	Location 7148 7154	Gerovo
+T44	Location 7625 7632	Lübeck
+T45	Location 7634 7641	Germany
+T46	Location 7723 7732	Fullerton
+T47	Location 7734 7736	CA
+T48	Location 7940 7948	Glostrup
+T49	Location 7950 7957	Denmark
+T50	Location 8015 8029	Marcy l’Etoile
+T51	Location 8031 8037	France
+T52	Location 8124 8129	Japan
+T53	Location 8327 8335	Carlsbad
+T54	Location 8337 8339	CA
+T55	Location 8391 8393	CA
+T56	Location 8380 8389	Santa Ana
+T57	Location 8478 8485	Germany
+T58	Location 8470 8476	Hilden
+T59	Location 8925 8932	Žutica
+T60	Location 9393 9400	Žutica
+T61	Location 9328 9335	Croatia
+T62	Location 9337 9343	Gerovo
+T63	Location 10126 10138	Indianapolis
+T64	Location 10140 10142	IN
+T65	Location 10673 10684	Santa Clara
+T66	Location 10686 10688	CA
+T67	Location 10919 10925	Gerovo
+T68	Location 10958 10965	Žutica
+T69	Location 11299 11306	Žutica
+T70	Location 11263 11270	Croatia
+T71	Location 11527 11533	Gerovo
+T72	Location 11723 11729	Gerovo
+T73	Location 11839 11845	Gerovo
+T74	Location 12218 12224	Gerovo
+T75	Location 12023 12030	Žutica
+T76	Location 12453 12460	Žutica
+T77	Location 15241 15248	Žutica
+T78	Location 14243 14249	Gerovo
+T79	Location 14420 14426	Gerovo
+T80	Location 14529 14535	Gerovo
+T81	Location 14879 14885	Gerovo
+T82	Location 14537 14544	Žutica
+T83	Location 15011 15018	Austria
+T84	Location 15020 15027	Hungary
+T85	Location 15037 15044	Balkans
+T86	Location 15230 15236	Gerovo
+T87	Location 15359 15365	Gerovo
+T88	Location 15415 15422	Žutica
+T89	Location 15479 15486	Austria
+T90	Location 15488 15495	Hungary
+T91	Location 15505 15512	Balkans
+T92	Location 15643 15649	Gerovo
+T93	Location 15812 15819	Žutica
+T94	Location 15971 15977	Gerovo
+T95	Location 16028 16034	Gerovo
+T96	Location 16129 16136	Žutica
+T97	Location 16156 16162	Greece
+T98	Location 16166 16174	Slovakia
+T99	Location 16362 16368	Gerovo
+T100	Location 16373 16380	Žutica
+T101	Location 16494 16500	Gerovo
+T102	Location 16580 16586	Gerovo
+T103	Location 16671 16677	Gerovo
+T104	Location 16752 16758	Gerovo
+T105	Location 16798 16805	Žutica
+T106	Location 16884 16890	Greece
+T107	Location 16895 16903	Slovakia
+T108	Location 16988 16994	Gerovo
+T109	Location 17784 17790	Gerovo
+T110	Location 17795 17802	Žutica
+T111	Location 17914 17920	Gerovo
+T112	Location 17934 17941	Croatia
+T113	Location 18122 18129	Croatia
+T114	Location 18105 18112	Žutica
+T115	Location 18256 18263	Žutica
+T116	Location 18046 18052	Gerovo
+T117	Location 19668 19674	Gerovo
+T118	Location 19938 19944	Gerovo
+T119	Location 20389 20395	Gerovo
+T120	Location 20655 20662	Croatia
+T121	Location 20888 20895	Croatia
+T122	Location 20932 20938	Gerovo
+T123	Location 21142 21148	Gerovo
+T124	Location 21172 21178	Gerovo
+T125	Location 20969 20976	Žutica
+T126	Location 21061 21067;21068 21073	Gorski kotar
+T127	Location 21348 21360	Gorski kotar
+T128	Location 21196 21204	Slovenia
+T129	Location 21539 21545	Gerovo
+T130	Location 21579 21583;21584 21588	Žu- tica
+T131	Location 22322 22329	Žutica
+T132	Location 22446 22452	Gerovo
+T133	Location 22743 22749	Gerovo
+T134	Location 22989 22995	Gerovo
+T135	Location 23000 23007	Žutica
+T136	Location 23397 23404	Žutica
+T137	Location 23378 23384	Gerovo
+T138	Location 24183 24189	Gerovo
+T139	Location 24206 24215	Dinarides
+T140	Location 24217 24229	Dinaric Alps
+T141	Location 24294 24301	Žutica
+T142	Location 24544 24560	Balkan Peninsula
+T143	Location 24707 24719	Fennoscandia
+T144	Location 24934 24941	Croatia
+T145	Location 25071 25078	Croatia
+T146	Location 25290 25296	Gerovo
+T147	Location 25339 25346	Germany
+T148	Location 26045 26052	Croatia
+T149	Location 27000 27006	Gerovo
+T150	Location 27446 27453	Croatia
+T151	Location 28349 28355	Gerovo
+T152	Location 28360 28367	Žutica
+T153	Location 3062 3068	Europe
+T154	Location 3514 3520	Europe
+T155	Location 4409 4416	Croatia
+T158	Location 26385 26391	Europe

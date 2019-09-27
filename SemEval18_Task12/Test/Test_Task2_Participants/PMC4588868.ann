@@ -1,0 +1,76 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 135 142	article
+#2	AnnotatorNotes T2	END
+T3	Protein 273 279	Leanne
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1246 1250	2015
+#4	AnnotatorNotes T4	END
+T5	Protein 2789 2794	C The
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3251 3255	1225
+#6	AnnotatorNotes T6	END
+T7	Protein 10139 10152	International
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10197 10198	4
+#8	AnnotatorNotes T8	END
+T9	Protein 12634 12647	International
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 12692 12693	4
+#10	AnnotatorNotes T10	END
+T11	Protein 20030 20043	International
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 20088 20089	4
+#12	AnnotatorNotes T12	END
+T13	Protein 22504 22517	International
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 22565 22569	1229
+#14	AnnotatorNotes T14	END
+T15	Protein 28748 28761	International
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 28806 28807	4
+#16	AnnotatorNotes T16	END
+T17	Protein 31601 31614	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 31662 31666	1231
+#18	AnnotatorNotes T18	END
+T19	Protein 36288 36292	1232
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 36352 36353	4
+#20	AnnotatorNotes T20	END
+T21	Protein 40454 40467	International
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 40515 40519	1233
+#22	AnnotatorNotes T22	END
+T23	Protein 47499 47512	International
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 47557 47558	4
+#24	AnnotatorNotes T24	END
+T25	Protein 48560 48573	Supplementary
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 64796 64797	.
+#26	AnnotatorNotes T26	END
+T27	Location 5980 5983	USA
+T28	Location 5969 5978	San Diego
+T29	Location 6195 6204	San Diego
+T30	Location 6206 6209	USA
+T31	Location 10314 10317	USA
+T32	Location 10489 10492	USA
+T33	Location 10595 10598	USA
+T34	Location 10757 10760	USA
+T35	Location 10584 10593	San Diego
+T36	Location 10746 10749;10750 10755	San Diego
+T37	Location 10306 10312	Irvine
+T38	Location 10481 10487	Irvine
+T39	Location 12350 12352	TX
+T40	Location 12354 12357	USA
+T41	Location 12333 12348	College Station
+T42	Location 17199 17203	Avon
+T43	Location 17205 17207	UK
+T44	Location 17247 17258	Netherlands
+T45	Location 17232 17241	Rotterdam
+T46	Protein 3861 3870	Key words
+#46	AnnotatorNotes T46	BEGIN
+T47	Protein 3983 3984	R
+#47	AnnotatorNotes T47	END
+T48	Location 43793 43804	Netherlands

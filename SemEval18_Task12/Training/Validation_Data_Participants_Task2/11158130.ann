@@ -1,0 +1,18 @@
+T9	Location 5523 5531	Manassas
+T5	Location 5533 5535	Va
+T1	Protein 1 8	JOURNAL
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 203 204	.
+#2	AnnotatorNotes T2	END
+T3	Protein 307 313	JIPING
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 548 552	2000
+#4	AnnotatorNotes T4	END
+T6	Protein 5933 5934	*
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 6163 6166	696
+#7	AnnotatorNotes T7	END
+T13	Protein 39846 39861	ACKNOWLEDGMENTS
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 45891 45892	.
+#14	AnnotatorNotes T14	END

@@ -1,0 +1,65 @@
+T1	Location 92 97	Japan
+T2	Location 103 108	China
+T18	Location 610 615	China
+T19	Location 861 866	China
+T20	Location 1109 1114	China
+T10	Location 1400 1409	East Asia
+T23	Location 1427 1438	Middle East
+T24	Location 1441 1447	Europe
+T11	Location 1453 1468	Southern Africa
+T27	Location 1709 1718	Hong Kong
+T28	Location 1962 1966	Asia
+T29	Location 2219 2224	China
+T32	Location 2469 2474	China
+T33	Location 2478 2483	Korea
+T34	Location 2780 2785	China
+T45	Location 3432 3437	Japan
+T46	Location 3550 3555	Japan
+T55	Location 5968 5973	Tokyo
+T56	Location 5975 5980	Japan
+T58	Location 6552 6557	China
+T60	Location 6700 6708	Shanghai
+T62	Location 6765 6773	Shenzhen
+T64	Location 6829 6837	Shandong
+T66	Location 6910 6915	Jilin
+T68	Location 6972 6980	Liaoning
+T70	Location 7049 7057	Shanghai
+T72	Location 7119 7124	Jilin
+T74	Location 7187 7195	Shenzhen
+T76	Location 7257 7262	Jilin
+T78	Location 7318 7326	Shandong
+T80	Location 7383 7391	Shandong
+T89	Location 11400 11407	Shantou
+T91	Location 11440 11445	China
+T92	Location 12214 12219	China
+T94	Location 12785 12790	China
+T102	Location 15096 15101	China
+T107	Location 15735 15740	China
+T108	Location 16339 16343	Iran
+T109	Location 16795 16800	China
+T110	Location 16915 16920	China
+T111	Location 17288 17293	China
+T112	Location 17408 17416	Shandong
+T113	Location 17426 17434	Liaoning
+T114	Location 17446 17454	Shanghai
+T115	Location 17472 17477	Jilin
+T116	Location 17520 17528	Shanghai
+T117	Location 17533 17541	Shandong
+T118	Location 17564 17572	Shenzhen
+T119	Location 17576 17581	Jilin
+T120	Location 17912 17920	Shenzhen
+T121	Location 17925 17933	Shandong
+T122	Location 18281 18286	China
+T7	Location 11409 11418	Guangdong
+T3	Protein 110 111	M
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 503 504	)
+#4	AnnotatorNotes T4	END
+T5	Protein 3062 3063	*
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3386 3393	Kingdom
+#6	AnnotatorNotes T6	END
+T8	Protein 18370 18386	ACKNOWLEDGEMENTS
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 23442 23445	391
+#9	AnnotatorNotes T9	END

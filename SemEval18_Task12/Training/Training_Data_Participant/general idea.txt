@@ -1,0 +1,111 @@
+목적
+아직 개념적인 단계이기는 하지만, 나는 나의 전공 캡스톤 프로젝트로 
+1) 비슷한 시기의 뉴스 아티클
+2) 위키피디아
+3) 문서간 연결 고리
+4) 학술연구
+를 돕기위한 소프트웨어를 만들고 싶다.
+
+Intro:
+나는 나의 전공 캡스톤 프로젝트로 '레퍼런스 관리를 위한 다큐먼트 큐레이팅' 시스템을 개발하는 것을 구상중이다.
+이를 위해 지금 인공지능 기반 NER 추출 모델 연구를 진행중이다.
+그러나 모델의 정확성 뿐만아니라 복잡한 문서간 관계를 효율적으로 표현하기 위한 시각화 역시 중요하다.
+따라서 나는 이 수업의 프로젝트를 나의 캡스톤 프로젝트와 연계해서 진행하고 싶다.
+I'm considering to develop a document curating system for reference management as my graduate Capstone project in next semenster. To prepare for this, I'm currently working on research on AI based Named Entity Relation(NER) extraction model in natural language procesing field. However, visualization is also important to represent complex document relationships efficiently, as well as the accuracy of the NER model. So, I would like to proceed the project of this class in conjunction with my Capstone project.
+
+
+Issuse:
+내가 해결하고 싶은 이슈는 '유사 도메인(주제, 타입)에 있는 문서들을 어떻게 효율적으로 표현할 것인가' 이다.
+파일시스템이나 검색엔진에서 보여주는 결과에서 문서는 보통 리스트 형태로 표현된다.
+하지만 리스트 뷰는 제목이나 약간의 서머리를 통해 문서 내용을 유추해야 하기 때문에 많은 양의 목록을 확인할 때 적합하지 않다.
+문서간 관계를 시각적으로 표현한다면 한꺼번에 여러 문서를 처리해야 하는 오버헤드를 줄이고 이해도를 높일 수 있지 않을까?
+The issue I want to solve in this project is how to efficiently express multiple document relationship in a similar domain. Documents are usually shown in the form of lists in file systems or search engine results.
+However, list view is not suitable for viewing large amounts of documents. Although it provides document titles and summaries, it is still difficult to idintify relationship between documents at once unless one reads every document. I think document relationship visualization can be an answer to solve this problem that can improve understanding of multiple documents.
+
+
+Visualization Problem:
+내가 이 이슈에 대해 시각적으로 해결하고 싶은 문제는 2가지 이다.
+1) 문서간 관계를 어떻게 표현할 것인다? 문서간 관계는 네트워크 구조로 표현될 수 있다. 그러나 나는 기존의 네트워크 시각화 외에 문서가 가지는 고유한 특성을 특징적으로 표현할 수 있는 시각화 방법을 이 프로젝트의 결과로 얻기를 원한다.
+문서와 같은 비정형데이터는 순위/속성을 정의하기가 쉽지 않지만, 나는 기본적으로 문서 내에 포함된 인물/기관/장소에 대하여 연결할 것이다. 추가로 문서간 유사도, 문서가 만들어진 시간에 따른 (타임라인), 사용자 입력 검색어 등도 적용되어야 할 것이다.
+2) 레퍼런스 관리 툴이기 떄문에 사용자가 정의한 컨텐트(노트, 메모, 아이디어 등)도 시각화 범위에 포함되어야 한다. 다만, 이런 사용자 컨텍스트는 문서가 내포한 속성(NER)과는 구분되도록 표현되어야 한다. 특히, 사용자 컨텐트는 태그(키워드)나 카테고리(레이블) 뿐만아니라, 문장 또는 문단 이상의 비정형 구조를 가질 수도 있기 때문에 기존의 문서관계를 어지럽게하지 않으면서 readable하도록 표현할 필요가 있다. 나는 이 부분을 단순히 팝업하거나 다른 프레임에 문단을 출력하는 단순한 방법으로 해결하고 싶지는 않다.
+
+There are two visualization problems that I would like to solve on this issue.
+1) How to describe the relationship between documents? Document relationships can be expressed in a network topology. But, I would like to develop a novel visualization as a result of this project that represents unique characteristics of a document rather than traditional network visualizations. Basically, I want to show document relationships as linking people, organizations, location among documents. In addition, document similarity and timeline need be visualized as well.
+2) How to describe user-defined content differently from NER attributes? Because it is a reference management tool, user-defiened contents, such as notes, memos, or outer links, should also be included in the visualization scope. In particular, user contents may have unstructured formats like sentences or paragraphs as well as keywords(tags) and labels(categories). User contents should be readable distinguishing from existing document relationships. I don't want to solve this by simply poping up or showing on the other frame.
+
+
+Data:
+추출 정확도, 문서간 유사도 등은 추후 별도의 알고리즘을 통해 정의되어야 하는 부분이다. 지금 시점에 알고리즘 정확도를 판단할 수 없기 때문에, 이 프로젝트를 위해서는 결과가 정해져있는 데이터를 사용하기를 희망한다. 그래서 NER 학습에 자주 사용되는 CoNLL 2012 데이터를 사용할 것이다. CoNLL 데이터는 뉴스, 웹 등 2,400개 문서에 사람이 분류한 인물/기관/장소가 정의되어 있다.
+Since NER extraction accuracy or document similarity algorithms cannot be determined at this time, I want to use data with fixed results for the project. So, CoNLL 2012 data, which is often used for NER training, will be used. CoNLL data consist of about 2,400 documents including news, magazines, and web articles with manually annotated NER tags.
+
+
+Extraction accuracy, inter-document similarity, etc. should be defined later through a separate algorithm. Since the algorithm accuracy cannot be determined at this time, we hope to use the data with fixed results for this project. So CoNLL 2012 data, which is often used for NER learning, will be used. CoNLL data are defined in 2,400 documents, including news, the Web, and people/organizations/location classified by people.
+
+Evaluation:
+내 지식으로는 벤치마킹하거나 기능을 비교할만한 기존의 소프트웨어가 없는 것으로 알고 있다.
+나는 유사 도메인에 속한 여러 문서에 대한 이해도를 평가하는 태스크와 인터뷰를 통해 시각화 결과를 평가할 수 있을 것으로 기대한다.
+태스크는 기본적인 문서 네트워크 시각화와 새로 개발된 시각화를 비교하는 것이 될 것이지만, 세부 과제는 발전이 필요하다.
+I expect to be able to validate the result of this project through an experiment and interviews that evaluate understanding of multiple documents in similar domains. The experiment will be to compare the traditional network visualization of documents with the new visualization, but the detailed task needs to be developed.
+
+
+
+나는 문서가 가지는 속성을 
+
+문제:
+- 구글 등 검색엔진에서 도출된 검색 결과는 리스트로 표현
+- 문서 관계를 시각적으로 표현한다면 이해도를 수 있지 않을까?
+
+왜? 여러 문서에 대한 이해도를 높이기 위하여.
+
+1) 어떤 사건에 대한 다양한 의견 수렴 (빠르게 스캔)
+2) 위키피디아 등 저작도구 보조
+3) 레퍼런스 관리
+
+
+
+내가 해결하고 싶은 시각화 문제는 크게 2가지다.
+1) 문서간 연결은 복잡한 네트워크 구조.
+어떻게 효율적으로 시각화 할 것인가?
+
+연결고리는 기본적으로 인물/기관/장소 이지만, 사용자가 입력한 키워드도 포함되어야 한다.
+이외에 시간대별 차이도 적용, 문서 유사도, 사용자가 입력 노트 등도 표현되어야 할 것이다.
+
+기존의 네트워크 시각화를 살펴봐야 할 것이지만, 문서만에 특화된 부분이 있을 것이다.
+정량적이거나 비교우위를 표현할 수 없는 부분(키워드 등)에 대한 표현방법을 연구해야 할 것이다.
+
+
+2) 사용자가 입력한 메모를 어떻게 표현할 것인가?
+사용자 정의 컨텐트를 어떻게 표현할 것인가?
+(태그, 레이블) 외 다른 방법은 없는가?
+내가 생각하는 툴은 문서가 자체적으로 가지는 고유한 특징 외에도 사용자가 필요에 따라 개별적으로 정의하는 부분이 포함되어 있다. (분류, 클러서터링)
+메모, 주석, 참조, 아이디어 노트 등
+이런 개념적인 부분은 문서 내용뿐만아니라 사용자의 마음에 따라 변할 수도 있다.
+이런 부분은 사용자 컨택스트에 따라 다르기 때문에 문서가 가지는 고유한 특징과는 다르게 표현되어야 한다.
+태그(키워드)나 카테고리(레이블)처럼 구분하기 편한 필드가 될 수도 있지만, 메모나 노트처럼 문장 또는 문단 이상이 될 수도 있다.
+이런 사용자 정의 컨텐트를 어떻게 문서 연결고리와 다르게 효율적으로 표현할 것인가?
+
+
+
+데이터
+NER 추출에 자주 사용되는 데이터셋인 CoNLL 2012 데이터를 사용할 예정이다.
+2400개의 뉴스, 방송, 웹 문서에 인물/기관/장소가 태그되어 있다.
+
+
+
+평가 방법
+문서 이해도에 대한 정성 평가가 어렵다.
+비교할 수 있는 소프트웨어도 존재하지 않을 것으로 생각한다.
+
+특정 주제에 대한 문서뭉치 vs. 시각화로 제공했을 때와의 태스크 비교. 이해도/시간
+태스크는 이해도?
+무엇이 기억나는가? (Think aloud)
+A: 문서목록, B: 시각화
+그룹당 3개 주제
+
+사용자를 2개 그룹으로. 교차해서 검증
+
+평가방법이 너무 복잡하지 않나?
+태스크의 객관성이 떨어지지 않나?
+
+
+

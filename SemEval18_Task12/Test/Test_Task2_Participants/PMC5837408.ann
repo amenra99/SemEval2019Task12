@@ -1,0 +1,68 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 142 150	Diabetes
+#2	AnnotatorNotes T2	END
+T3	Protein 235 238	Jun
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1703 1707	2017
+#4	AnnotatorNotes T4	END
+T5	Protein 2942 2947	C The
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3492 3496	1411
+#6	AnnotatorNotes T6	END
+T7	Protein 10118 10131	International
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 10176 10177	5
+#8	AnnotatorNotes T8	END
+T9	Protein 12841 12854	International
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 12899 12900	5
+#10	AnnotatorNotes T10	END
+T11	Protein 18241 18245	1414
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 18305 18306	5
+#12	AnnotatorNotes T12	END
+T13	Protein 22039 22052	International
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 22100 22104	1415
+#14	AnnotatorNotes T14	END
+T15	Protein 25260 25264	1416
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 25324 25325	5
+#16	AnnotatorNotes T16	END
+T17	Protein 30420 30433	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 30478 30479	5
+#18	AnnotatorNotes T18	END
+T19	Protein 34919 34923	1418
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 34983 34984	5
+#20	AnnotatorNotes T20	END
+T21	Protein 39540 39553	Supplementary
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 47705 47706	.
+#22	AnnotatorNotes T22	END
+T24	Location 4909 4914	China
+T25	Location 7015 7020	China
+T26	Location 7184 7190	Harbin
+T27	Location 7192 7199	Qingdao
+T28	Location 7201 7207	Suzhou
+T29	Location 7209 7216	Liuzhou
+T30	Location 7221 7227	Haikou
+T31	Location 7251 7256	Gansu
+T32	Location 7258 7263	Henan
+T33	Location 7265 7272	Sichuan
+T34	Location 7274 7282	Zhejiang
+T35	Location 7287 7292	Hunan
+T36	Location 7382 7389	Beijing
+T37	Location 7391 7396	China
+T38	Location 7471 7473	UK
+T39	Location 10232 10237	China
+T40	Location 39187 39192	China
+T42	Location 4092 4095	USA
+T43	Location 29250 29253	USA
+T44	Location 29263 29269	Europe
+T50	Protein 3957 3960	Key
+#50	AnnotatorNotes T50	BEGIN
+T51	Protein 4029 4038	lifestyle
+#51	AnnotatorNotes T51	END

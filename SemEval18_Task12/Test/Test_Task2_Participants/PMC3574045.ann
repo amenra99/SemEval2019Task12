@@ -1,0 +1,89 @@
+T1	Protein 0 8	RESEARCH
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 14 20	Access
+#2	AnnotatorNotes T2	END
+T3	Protein 186 194	Giovanni
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 432 438	Lista1
+#4	AnnotatorNotes T4	END
+T5	Protein 2444 2452	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3187 3190	283
+#6	AnnotatorNotes T6	END
+T7	Protein 7268 7276	Faggioni
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 7363 7366	283
+#8	AnnotatorNotes T8	END
+T9	Protein 9525 9533	Faggioni
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9620 9623	283
+#10	AnnotatorNotes T10	END
+T11	Protein 12503 12511	Faggioni
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 12598 12601	283
+#12	AnnotatorNotes T12	END
+T13	Protein 15134 15142	Faggioni
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 15229 15232	283
+#14	AnnotatorNotes T14	END
+T15	Protein 17032 17040	Faggioni
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 17127 17130	283
+#16	AnnotatorNotes T16	END
+T17	Protein 18104 18112	Faggioni
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 18199 18202	283
+#18	AnnotatorNotes T18	END
+T19	Protein 22141 22149	Faggioni
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 22236 22239	283
+#20	AnnotatorNotes T20	END
+T21	Protein 25152 25160	Faggioni
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 25247 25250	283
+#22	AnnotatorNotes T22	END
+T23	Protein 28660 28668	Faggioni
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 28756 28759	283
+#24	AnnotatorNotes T24	END
+T25	Protein 34156 34164	Faggioni
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 34252 34255	283
+#26	AnnotatorNotes T26	END
+T27	Protein 39293 39301	Faggioni
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 39389 39392	283
+#28	AnnotatorNotes T28	END
+T29	Protein 40922 40931	Competing
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 54443 54446	283
+#30	AnnotatorNotes T30	END
+T31	Location 3922 3925	USA
+T32	Location 32868 32873	Düren
+T33	Location 32875 32882	Germany
+T34	Location 33302 33312	California
+T35	Location 33426 33436	California
+T36	Location 33860 33866	Hilden
+T37	Location 33868 33875	Germany
+T38	Location 35672 35674	UK
+T39	Location 35661 35670	Cambridge
+T40	Location 36052 36055	USA
+T41	Location 37791 37800	Cambridge
+T42	Location 37802 37804	UK
+T47	Location 39503 39510	Bologna
+T48	Location 39512 39517	Italy
+T49	Location 39774 39781	Belgium
+T50	Location 40221 40228	Bologna
+T51	Location 40230 40235	Italy
+T52	Location 40341 40355	Emilia Romagna
+T53	Location 3551 3557	Africa
+T54	Location 3572 3578	Europe
+T55	Location 3584 3595	Middle East
+T56	Location 3738 3744	Europe
+T57	Location 3803 3816	North America
+T43	Location 3559 3570	Australasia
+T58	Location 35849 35851	IT
+T59	Location 35905 35907	IT
+T60	Location 37995 37997	IT
+T61	Location 38051 38053	IT
+T44	Location 29176 29186	Est-Europe

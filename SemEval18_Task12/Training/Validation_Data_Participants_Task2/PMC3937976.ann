@@ -1,0 +1,82 @@
+T1	Protein 0 4	This
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 592 598	dyt231
+#2	AnnotatorNotes T2	END
+T3	Protein 714 720	Sandra
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 1434 1438	2013
+#4	AnnotatorNotes T4	END
+T5	Protein 3191 3199	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3340 3348	TANZANIA
+#6	AnnotatorNotes T6	END
+T7	Protein 8772 8775	206
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 8802 8814	EPIDEMIOLOGY
+#8	AnnotatorNotes T8	END
+T9	Protein 9523 9528	CHILD
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 9557 9565	TANZANIA
+#10	AnnotatorNotes T10	END
+T11	Protein 15235 15238	208
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 15265 15277	EPIDEMIOLOGY
+#12	AnnotatorNotes T12	END
+T13	Protein 20912 20917	CHILD
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 20946 20954	TANZANIA
+#14	AnnotatorNotes T14	END
+T15	Protein 23886 23899	INTERNATIONAL
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 23911 23923	EPIDEMIOLOGY
+#16	AnnotatorNotes T16	END
+T17	Protein 26050 26055	CHILD
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 26094 26097	211
+#18	AnnotatorNotes T18	END
+T19	Protein 28760 28763	212
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 28790 28802	EPIDEMIOLOGY
+#20	AnnotatorNotes T20	END
+T21	Protein 34673 34678	CHILD
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 34707 34715	TANZANIA
+#22	AnnotatorNotes T22	END
+T23	Protein 38103 38110	Funding
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 39988 40000	EPIDEMIOLOGY
+#24	AnnotatorNotes T24	END
+T25	Protein 40599 40609	References
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 51655 51656	.
+#26	AnnotatorNotes T26	END
+T27	Location 634 642	Tanzania
+T28	Location 1592 1600	Tanzania
+T29	Location 4781 4789	Tanzania
+T30	Location 6990 6998	Tanzania
+T31	Location 40158 40166	Tanzania
+T32	Location 1544 1553	Kilombero
+T33	Location 4733 4742	Kilombero
+T34	Location 6323 6332	Kilombero
+T35	Location 6942 6951	Kilombero
+T36	Location 7074 7083	Kilombero
+T37	Location 8389 8398	Kilombero
+T38	Location 9469 9478	Kilombero
+T39	Location 10033 10042	Kilombero
+T41	Location 24232 24241	Kilombero
+T43	Location 37174 37183	Kilombero
+T44	Location 40124 40130	Ulanga
+T45	Location 40110 40119	Kilombero
+T46	Location 37188 37194	Ulanga
+T49	Location 10059 10065	Ulanga
+T50	Location 9483 9489	Ulanga
+T51	Location 8403 8409	Ulanga
+T52	Location 7094 7100	Ulanga
+T53	Location 6956 6962	Ulanga
+T54	Location 6337 6343	Ulanga
+T55	Location 4747 4753	Ulanga
+T56	Location 12148 12151	USA
+T57	Location 12144 12146	TX
+T58	Location 12127 12142	College Station
+T40	Location 1558 1564	Ulanga
+T42	Location 3456 3462	Africa

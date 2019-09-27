@@ -1,0 +1,59 @@
+T3	Protein 0 7	Viruses
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 101 108	Article
+#4	AnnotatorNotes T4	END
+T5	Protein 163 168	LeAnn
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 1279 1283	2013
+#6	AnnotatorNotes T6	END
+T7	Protein 2414 2418	OPEN
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 2442 2446	1965
+#8	AnnotatorNotes T8	END
+T9	Protein 16462 16469	Viruses
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 16478 16482	1970
+#10	AnnotatorNotes T10	END
+T11	Protein 20333 20340	Viruses
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 20349 20353	1971
+#12	AnnotatorNotes T12	END
+T13	Protein 24047 24054	Viruses
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 24063 24067	1972
+#14	AnnotatorNotes T14	END
+T15	Location 1435 1445	California
+T16	Protein 2564 2572	Keywords
+#16	AnnotatorNotes T16	BEGIN
+T17	Protein 2674 2680	genome
+#17	AnnotatorNotes T17	END
+T18	Location 3427 3437	California
+T19	Location 25067 25079	Suisun Marsh
+T20	Location 25085 25098	San Francisco
+T21	Location 25100 25102	CA
+T22	Location 26675 26681	Austin
+T23	Location 26683 26685	TX
+T24	Location 26687 26690	USA
+T25	Location 26987 26990	USA
+T26	Location 26983 26985	CA
+T27	Location 26973 26981	Carlsbad
+T28	Location 27358 27368	Branchburg
+T29	Location 27370 27372	NJ
+T30	Location 27374 27377	USA
+T31	Location 28342 28356	North Franklin
+T32	Location 28358 28360	CT
+T33	Location 28362 28365	USA
+T34	Location 29554 29564	California
+T35	Location 30138 30140	CA
+T36	Location 30468 30470	CA
+T37	Location 30128 30136	Valencia
+T38	Location 30142 30145	USA
+T39	Location 30472 30475	USA
+T40	Location 30461 30466	Davis
+T41	Location 30949 30952	USA
+T42	Location 30945 30947	WI
+T43	Location 30936 30943	Madison
+T1	Protein 32283 32298	Acknowledgments
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 40728 40731	/).
+#2	AnnotatorNotes T2	END

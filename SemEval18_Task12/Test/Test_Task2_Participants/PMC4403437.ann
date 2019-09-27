@@ -1,0 +1,147 @@
+T3	Protein 77 80	Chi
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 820 824	USAe
+#4	AnnotatorNotes T4	END
+T5	Protein 4836 4844	Received
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 5653 5657	from
+#6	AnnotatorNotes T6	END
+T7	Protein 11506 11513	Genesis
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 11712 11716	from
+#8	AnnotatorNotes T8	END
+T9	Protein 16818 16820	Ma
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 16997 16998	.
+#10	AnnotatorNotes T10	END
+T11	Protein 24389 24396	Genesis
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 24595 24599	from
+#12	AnnotatorNotes T12	END
+T13	Protein 30686 30688	Ma
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 30852 30856	from
+#14	AnnotatorNotes T14	END
+T15	Protein 36063 36070	Genesis
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 36269 36273	from
+#16	AnnotatorNotes T16	END
+T19	Location 71 76	China
+T20	Location 934 939	China
+T21	Location 925 932	Jiangxi
+T22	Location 1120 1125	China
+T23	Location 1289 1300	Poyang Lake
+T24	Location 1529 1536	Jiangxi
+T25	Location 2303 2308	China
+T26	Location 2382 2387	China
+T27	Location 2521 2526	China
+T28	Location 2623 2634	Poyang Lake
+T29	Location 3071 3076	China
+T30	Location 3765 3770	China
+T31	Location 3812 3820	Nanchang
+T32	Location 3822 3829	Jiangxi
+T33	Location 4056 4061	China
+T34	Location 4605 4610	Egypt
+T35	Location 4631 4640	Australia
+T36	Location 5881 5886	China
+T37	Location 6138 6143	China
+T38	Location 6427 6431;6432 6437	Nan- chang
+T39	Location 6552 6557	China
+T40	Location 6793 6801	Nanchang
+T41	Location 7087 7092	China
+T42	Location 7473 7478	China
+T43	Location 7620 7625	China
+T44	Location 7671 7678	Jiangxi
+T45	Location 7769 7777	Nanchang
+T46	Location 7984 7995	Poyang Lake
+T47	Location 8139 8150	Poyang Lake
+T48	Location 8553 8559	Fujian
+T49	Location 8561 8570	Guangdong
+T50	Location 8572 8579	Guangxi
+T51	Location 8581 8588	Guizhou
+T52	Location 8590 8597	Jiangxi
+T53	Location 8603 8609	Yunnan
+T54	Location 10454 10459	China
+T55	Location 10559 10561	JX
+T56	Location 10622 10624	JX
+T57	Location 10632 10634	JX
+T58	Location 10635 10637	FJ
+T59	Location 10638 10640	GD
+T60	Location 10641 10643	GX
+T61	Location 10644 10646	GZ
+T62	Location 10647 10649	YN
+T63	Location 10650 10652	JX
+T64	Location 11246 11248	JX
+T65	Location 11250 11257	Jiangxi
+T66	Location 11259 11261	FJ
+T67	Location 11263 11269	Fujian
+T68	Location 11271 11273	GD
+T69	Location 11275 11284	Guangdong
+T70	Location 11286 11288	GX
+T71	Location 11290 11297	Guangxi
+T72	Location 11299 11301	GZ
+T73	Location 11303 11310	Guizhou
+T74	Location 11312 11314	YN
+T75	Location 11316 11322	Yunnan
+T77	Location 11445 11452	Guizhou
+T78	Location 11492 11499	Guizhou
+T79	Location 14324 14329	China
+T80	Location 14364 14371	Jiangxi
+T81	Location 14415 14421;14422 14426	Poyang Lake
+T82	Location 14474 14485	Poyang Lake
+T83	Location 14527 14535	Nanchang
+T84	Location 14556 14567	Poyang Lake
+T85	Location 14795 14802	Jiangxi
+T86	Location 14951 14962	Poyang Lake
+T87	Location 15064 15069	China
+T88	Location 15198 15205	Jiangxi
+T89	Location 15400 15408	Nanchang
+T90	Location 16135 16142	Jiangxi
+T91	Location 16698 16705	Jiangxi
+T92	Location 17566 17573	Jiangxi
+T93	Location 17890 17898	Nanchang
+T94	Location 18473 18480	Jiangxi
+T95	Location 19113 19120	Jiangxi
+T96	Location 19652 19659	Jiangxi
+T97	Location 19275 19286	Poyang Lake
+T98	Location 19975 19978;19979 19984	Ji- angxi
+T99	Location 20080 20085	China
+T100	Location 20324 20329	China
+T101	Location 23646 23651	China
+T102	Location 24097 24102	China
+T103	Location 30632 30634	JX
+T104	Location 30636 30643	Jiangxi
+T105	Location 30649 30656	Shantou
+T106	Location 30645 30647	ST
+T107	Location 30662 30670	Dongguan
+T108	Location 30658 30660	DG
+T109	Location 30676 30684	Shenzhen
+T110	Location 30672 30674	SZ
+T111	Location 31099 31104	China
+T112	Location 31428 31435	Jiangxi
+T113	Location 31520 31531	Poyang Lake
+T114	Location 31922 31933	Poyang Lake
+T115	Location 32061 32065;32066 32071	Nan- chang
+T116	Location 36515 36523	Nanchang
+T117	Location 36960 36965	China
+T118	Location 37431 37436	China
+T119	Location 37461 37466	China
+T120	Location 37745 37752	Jiangxi
+T121	Location 38019 38024	China
+T122	Location 38631 38636	China
+T123	Location 41856 41861	China
+T76	Location 30379 30392	North America
+T124	Location 35551 35558	Jiangxi
+T125	Location 15011 15015	Asia
+T126	Location 8062 8066	Asia
+T127	Location 2683 2687	Asia
+T128	Location 19087 19091	Asia
+T129	Location 30396 30403	Eurasia
+T1	Protein 38638 38653	ACKNOWLEDGMENTS
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 41793 41797	pool
+#2	AnnotatorNotes T2	END
+T17	Protein 42769 42771	Ma
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 51418 51422	from
+#18	AnnotatorNotes T18	END

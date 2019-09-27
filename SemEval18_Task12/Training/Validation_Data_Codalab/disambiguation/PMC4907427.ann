@@ -1,0 +1,78 @@
+T1	Protein 0 8	RESEARCH
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 9 16	ARTICLE
+#2	AnnotatorNotes T2	END
+T3	Protein 133 138	Yaiza
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 770 772	de
+#4	AnnotatorNotes T4	END
+T5	Protein 2629 2633	PLOS
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 3924 3925	.
+#6	AnnotatorNotes T6	END
+T7	Protein 14924 14927	doi
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 15080 15082	18
+#8	AnnotatorNotes T8	END
+T9	Protein 18078 18081	doi
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 18234 18236	18
+#10	AnnotatorNotes T10	END
+T11	Protein 22090 22093	The
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 22208 22210	18
+#12	AnnotatorNotes T12	END
+T13	Protein 24288 24291	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 24444 24446	18
+#14	AnnotatorNotes T14	END
+T15	Protein 25205 25208	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 25361 25363	18
+#16	AnnotatorNotes T16	END
+T17	Protein 27149 27152	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 27305 27307	18
+#18	AnnotatorNotes T18	END
+T19	Protein 29424 29427	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 29581 29583	18
+#20	AnnotatorNotes T20	END
+T21	Protein 33618 33621	The
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 33737 33739	18
+#22	AnnotatorNotes T22	END
+T23	Protein 34723 34726	doi
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 34880 34882	18
+#24	AnnotatorNotes T24	END
+T25	Protein 38966 38969	The
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 39085 39087	18
+#26	AnnotatorNotes T26	END
+T27	Protein 42665 42668	The
+#27	AnnotatorNotes T27	BEGIN
+T28	Protein 42784 42786	18
+#28	AnnotatorNotes T28	END
+T29	Protein 45630 45633	The
+#29	AnnotatorNotes T29	BEGIN
+T30	Protein 59215 59217	18
+#30	AnnotatorNotes T30	END
+T31	Location 5546 5555	Argentina
+#31	AnnotatorNotes T31	<latlng>-34, -64</latlng><geoID>3865483 </geoID><pop>41343201</pop>
+T32	Location 5560 5565	Chile
+#32	AnnotatorNotes T32	<latlng>-30, -71</latlng><geoID>3895114 </geoID><pop>16746491</pop>
+T33	Location 40818 40826	Grenoble
+#33	AnnotatorNotes T33	<latlng>45.08333, 5.83333</latlng><geoID>3014727 </geoID><pop>753752</pop>
+T34	Location 41948 41951;41953 41957	Ham burg
+#34	AnnotatorNotes T34	Hamburg <latlng>53.58333, 10</latlng><geoID>2911297 </geoID><pop>1774224</pop>
+T35	Location 5837 5845	Americas
+#35	AnnotatorNotes T35	<latlng> 26.0173, -104.41406</latlng><geoID>10861432 </geoID>
+T36	Protein 7769 7772	The
+#36	AnnotatorNotes T36	BEGIN
+T37	Protein 8107 8109	".
+#37	AnnotatorNotes T37	END
+T38	Protein 11957 11960	The
+#38	AnnotatorNotes T38	BEGIN
+T39	Protein 12075 12077	18
+#39	AnnotatorNotes T39	END

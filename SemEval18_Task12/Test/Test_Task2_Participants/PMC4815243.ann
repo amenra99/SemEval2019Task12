@@ -1,0 +1,132 @@
+T1	Protein 0 5	SHORT
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 18 24	Access
+#2	AnnotatorNotes T2	END
+T3	Protein 163 169	Andrew
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 310 322	Stallknecht2
+#4	AnnotatorNotes T4	END
+T5	Protein 2271 2279	Keywords
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 2369 2374	Delta
+#6	AnnotatorNotes T6	END
+T7	Protein 3145 3146	*
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 4025 4026	9
+#8	AnnotatorNotes T8	END
+T9	Protein 17230 17235	Ramey
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 17283 17284	6
+#10	AnnotatorNotes T10	END
+T11	Protein 22527 22536	Competing
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 29840 29841	6
+#12	AnnotatorNotes T12	END
+T13	Location 132 138	Alaska
+T14	Location 605 618	United States
+T15	Location 918 939	Yukon-Kuskokwim Delta
+T16	Location 941 947	Alaska
+T17	Location 1216 1222	Alaska
+T18	Location 1905 1926	Yukon-Kuskokwim Delta
+T19	Location 1937 1943	Alaska
+T20	Location 2263 2269	Alaska
+T21	Location 2741 2752	South Korea
+T22	Location 2757 2762	Japan
+T23	Location 4064 4075;4076 4081	Republic of Korea
+T24	Location 5528 5549	Yukon-Kuskokwim Delta
+T25	Location 5821 5836;5837 5842	Yukon-Kuskokwim Delta
+T26	Location 6271 6292	Yukon-Kuskokwim Delta
+T27	Location 5551 5557	Alaska
+T28	Location 5802 5808	Alaska
+T29	Location 6294 6300	Alaska
+T30	Location 6614 6623	Chefornak
+T31	Location 6625 6628	Eek
+T32	Location 6630 6637	Emmonak
+T33	Location 6639 6649	Hooper Bay
+T34	Location 6651 6657	Kipnuk
+T35	Location 6659 6665	Kotlik
+T36	Location 6667 6675	Kwethluk
+T37	Location 6677 6690	Pilot Station
+T38	Location 6692 6701	Quinhagak
+T39	Location 6707 6718	Toksook Bay
+T40	Location 7270 7286	Anerkochik River
+T41	Location 9386 9401;9402 9407	Yukon-Kuskokwim Delta
+T42	Location 10025 10046	Yukon-Kuskokwim Delta
+T43	Location 10048 10054	Alaska
+T44	Location 11031 11044	Pilot Station
+T45	Location 11267 11277	Hooper Bay
+T46	Location 11333 11344	Toksook Bay
+T47	Location 11481 11502	Yukon-Kuskokwim Delta
+T48	Location 12299 12306	Emmonak
+T49	Location 12314 12320	Alaska
+T50	Location 12321 12327	Canada
+T52	Location 12350 12356	Kotlik
+T53	Location 12328 12343;12344 12349	Yukon-Kuskokwim Delta
+T54	Location 12357 12370	Pilot Station
+T55	Location 12371 12381	Hooper Bay
+T56	Location 12382 12393	Toksook Bay
+T57	Location 12394 12403	Chefornak
+T58	Location 12404 12407	Eek
+T59	Location 12408 12424	Anerkochik River
+T60	Location 12425 12431	Kipnuk
+T61	Location 12432 12440	Kwethluk
+T62	Location 12441 12450	Quinhagak
+T63	Location 12469 12489	Yukon-Kuskowim Delta
+T64	Location 12491 12497	Alaska
+T65	Protein 12715 12720	Ramey
+#65	AnnotatorNotes T65	BEGIN
+T66	Protein 12768 12769	6
+#66	AnnotatorNotes T66	END
+T67	Location 13672 13680;13681 13684	Washing- ton
+T68	Location 14139 14145;14146 14161	Yukon- Kuskokwim Delta
+T69	Location 14163 14169	Alaska
+T70	Location 14801 14822	Yukon-Kuskokwim Delta
+T71	Location 14990 15011	Yukon-Kuskokwim Delta
+T72	Location 15013 15019	Alaska
+T73	Location 16823 16829	Alaska
+T74	Location 16800 16821	Yukon-Kuskokwim Delta
+T75	Location 17672 17693	Yukon-Kuskokwim Delta
+T76	Location 18733 18754	Yukon-Kuskokwim Delta
+T77	Location 19383 19399;19400 19415	Izembek National Wildlife Refuge
+T78	Location 19655 19661;19662 19677	Yukon- Kuskokwim Delta
+T79	Location 19926 19932;19933 19948	Yukon- Kuskokwim Delta
+T80	Location 20047 20068	Yukon-Kuskokwim Delta
+T81	Location 20335 20356	Yukon-Kuskokwim Delta
+T82	Location 20411 20417	Alaska
+T83	Location 20451 20457	Alaska
+T84	Location 20483 20504	Yukon-Kuskokwim Delta
+T85	Location 20509 20531;20532 20543	Izembek National Wild- life Refuge
+T86	Location 20808 20829	Yukon-Kuskokwim Delta
+T87	Location 20831 20837	Alaska
+T88	Location 21669 21675	Alaska
+T89	Location 21646 21667	Yukon-Kuskokwim Delta
+T90	Location 21948 21969	Yukon-Kuskokwim Delta
+T91	Location 21971 21977	Alaska
+T92	Location 22314 22320	Alaska
+T93	Location 22291 22312	Yukon-Kuskokwim Delta
+T94	Location 466 479	North America
+T95	Location 1000 1013	North America
+T96	Location 1702 1715	North America
+T97	Location 2984 2997	North America
+T98	Location 4791 4804	North America
+T99	Location 5127 5140	North America
+T100	Location 5509 5522	North America
+T101	Location 9125 9138	North America
+T102	Location 9608 9621	North America
+T103	Location 13605 13618	North America
+T104	Location 18459 18472	North America
+T105	Location 19003 19016	North America
+T106	Location 19179 19184;19185 19192	North America
+T107	Location 21367 21380	North America
+T108	Location 21769 21782	North America
+T109	Location 22436 22449	North America
+T110	Location 20727 20735	Beringia
+T111	Location 2574 2587	North America
+T112	Location 2626 2639	North America
+T113	Location 20128 20141	North America
+T114	Location 20709 20722	North America
+T115	Location 20700 20704	Asia
+T116	Location 22454 22461	Eurasia
+T117	Location 13988 13995	Eurasia
+T118	Location 9596 9603	Eurasia
+T119	Location 3129 3133	Asia

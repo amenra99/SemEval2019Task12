@@ -1,0 +1,50 @@
+T1	Protein 0 13	International
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 157 167	Influences
+#2	AnnotatorNotes T2	END
+T3	Protein 236 241	Denny
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 654 658	2016
+#4	AnnotatorNotes T4	END
+T5	Location 1148 1154	Sweden
+T6	Protein 2236 2245	Key words
+#6	AnnotatorNotes T6	BEGIN
+T7	Protein 2927 2928	1
+#7	AnnotatorNotes T7	END
+T8	Protein 7723 7736	International
+#8	AnnotatorNotes T8	BEGIN
+T9	Protein 7781 7782	1
+#9	AnnotatorNotes T9	END
+T10	Location 9219 9225	Sweden
+T11	Protein 11699 11702	222
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 11762 11763	1
+#12	AnnotatorNotes T12	END
+T13	Protein 14791 14804	International
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 14852 14855	223
+#14	AnnotatorNotes T14	END
+T15	Protein 17686 17689	224
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 17749 17750	1
+#16	AnnotatorNotes T16	END
+T17	Protein 20989 21002	International
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 21047 21048	1
+#18	AnnotatorNotes T18	END
+T19	Protein 26407 26410	226
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 26470 26471	1
+#20	AnnotatorNotes T20	END
+T21	Protein 29897 29910	International
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 29958 29961	227
+#22	AnnotatorNotes T22	END
+T23	Protein 36991 37004	International
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 37049 37050	1
+#24	AnnotatorNotes T24	END
+T25	Protein 37508 37515	Funding
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 44489 44490	.
+#26	AnnotatorNotes T26	END

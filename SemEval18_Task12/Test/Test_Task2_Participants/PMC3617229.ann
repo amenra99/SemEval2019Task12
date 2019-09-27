@@ -1,0 +1,269 @@
+T1	Protein 104 110	Mariko
+#1	AnnotatorNotes T1	BEGIN
+T2	Protein 665 670	Japan
+#2	AnnotatorNotes T2	END
+T3	Protein 2584 2592	Citation
+#3	AnnotatorNotes T3	BEGIN
+T4	Protein 3906 3908	jp
+#4	AnnotatorNotes T4	END
+T5	Protein 12570 12577	Genetic
+#5	AnnotatorNotes T5	BEGIN
+T6	Protein 12705 12710	e2144
+#6	AnnotatorNotes T6	END
+T7	Protein 18294 18297	doi
+#7	AnnotatorNotes T7	BEGIN
+T8	Protein 18467 18472	e2144
+#8	AnnotatorNotes T8	END
+T9	Protein 22409 22412	doi
+#9	AnnotatorNotes T9	BEGIN
+T10	Protein 22582 22587	e2144
+#10	AnnotatorNotes T10	END
+T11	Protein 24196 24199	doi
+#11	AnnotatorNotes T11	BEGIN
+T12	Protein 24229 24233	g001
+#12	AnnotatorNotes T12	END
+T13	Protein 24910 24913	doi
+#13	AnnotatorNotes T13	BEGIN
+T14	Protein 25083 25088	e2144
+#14	AnnotatorNotes T14	END
+T15	Protein 28367 28370	doi
+#15	AnnotatorNotes T15	BEGIN
+T16	Protein 28540 28545	e2144
+#16	AnnotatorNotes T16	END
+T17	Protein 28913 28916	doi
+#17	AnnotatorNotes T17	BEGIN
+T18	Protein 28946 28950	g003
+#18	AnnotatorNotes T18	END
+T19	Protein 29275 29278	doi
+#19	AnnotatorNotes T19	BEGIN
+T20	Protein 29448 29453	e2144
+#20	AnnotatorNotes T20	END
+T21	Protein 33186 33189	doi
+#21	AnnotatorNotes T21	BEGIN
+T22	Protein 33359 33364	e2144
+#22	AnnotatorNotes T22	END
+T23	Protein 35407 35422	Acknowledgments
+#23	AnnotatorNotes T23	BEGIN
+T24	Protein 35808 35809	.
+#24	AnnotatorNotes T24	END
+T25	Protein 36122 36125	doi
+#25	AnnotatorNotes T25	BEGIN
+T26	Protein 40963 40968	e2144
+#26	AnnotatorNotes T26	END
+T27	Location 92 103	Philippines
+T28	Location 752 763	Philippines
+T29	Location 1034 1045	Philippines
+T30	Location 1166 1171	Luzon
+T31	Location 1173 1180	Visayas
+T32	Location 1186 1194	Mindanao
+T33	Location 1722 1727	Luzon
+T34	Location 1729 1736	Visayas
+T35	Location 1742 1750	Mindanao
+T36	Location 2158 2163	Luzon
+T37	Location 2261 2272	Philippines
+T38	Location 2571 2582	Philippines
+T39	Location 4214 4225	Philippines
+T40	Location 4414 4425	Philippines
+T41	Location 4485 4490	Japan
+T42	Location 4509 4516	Finland
+T44	Location 4870 4881	Philippines
+T45	Protein 5574 5578	PLOS
+#45	AnnotatorNotes T45	BEGIN
+T46	Protein 5662 5667	e2144
+#46	AnnotatorNotes T46	END
+T47	Location 6021 6032	Philippines
+T48	Location 6365 6376	Philippines
+T50	Location 6705 6716	Philippines
+T51	Location 7091 7102	Philippines
+T52	Location 7248 7259	Philippines
+T53	Location 7753 7764	Philippines
+T54	Location 8112 8122;8123 8140	Cordillera Autonomous Region
+T55	Location 8142 8145	CAR
+T56	Location 8085 8086	1
+T57	Location 8088 8089	2
+T58	Location 8091 8092	3
+T59	Location 8094 8095	5
+T60	Location 8097 8098	7
+T61	Location 8104 8106	10
+T62	Location 8248 8262	Dumaguete City
+T63	Location 8264 8279	Negros Oriental
+T64	Location 8285 8296	Philippines
+T65	Location 8383 8388	Luzon
+T66	Location 8390 8397	Visayas
+T67	Location 8403 8411	Mindanao
+T68	Location 8527 8528	1
+T69	Location 8530 8531	2
+T70	Location 8533 8534	3
+T71	Location 8540 8542	4B
+T72	Location 8536 8538	4A
+T73	Location 8544 8545	5
+T74	Location 8547 8550	CAR
+T75	Location 8556 8564;8565 8579	National Capital Region
+T76	Location 8581 8584	NCR
+T77	Location 8589 8594	Luzon
+T78	Location 8608 8615	Visayas
+T79	Location 8642 8650	Mindanao
+T80	Location 8596 8604	Region 7
+T81	Location 8629 8631	10
+T82	Location 8636 8638	11
+T83	Location 9195 9202	Malvern
+T84	Location 9204 9206	PA
+T85	Location 9208 9211	USA
+T86	Location 9631 9637	Hilden
+T87	Location 9639 9646	Germany
+T88	Location 10268 10276	Carlsbad
+T89	Location 10278 10280	CA
+T90	Location 10282 10285	USA
+T91	Location 10548 10553	Shiga
+T92	Location 10555 10560	Japan
+T93	Location 11387 11398	Philippines
+T94	Location 11650 11661	Philippines
+T95	Location 11547 11558	Philippines
+T96	Location 11729 11734	Luzon
+T97	Location 11736 11743	Visayas
+T98	Location 11749 11757	Mindanao
+T99	Location 11844 11849	Luzon
+T100	Location 12199 12210	Philippines
+T101	Location 12306 12317	Philippines
+T102	Location 12557 12568	Philippines
+T103	Location 14909 14917	Batangas
+T104	Location 14922 14929	Mindoro
+T105	Location 16065 16070	China
+T106	Location 16275 16282	Mindoro
+T107	Location 16265 16270	Luzon
+T108	Location 16772 16777	Luzon
+T109	Location 16854 16861	Visayas
+T110	Location 16866 16874	Mindanao
+T111	Location 16970 16977	Mindoro
+T112	Location 17250 17260	Pangasinan
+T113	Location 17301 17306	Luzon
+T114	Location 17401 17406	Luzon
+T115	Location 17464 17469	Luzon
+T116	Location 17523 17531	Pampanga
+T117	Location 18473 18478	Rizal
+T118	Location 18483 18489	Cavite
+T119	Location 18505 18518	Laguna de Bay
+T120	Location 18573 18578	Luzon
+T121	Location 18580 18588	Region 5
+T122	Location 18666 18669	NCR
+T123	Location 18811 18816	Luzon
+T124	Location 18972 18977	Luzon
+T125	Location 18993 19001	Pampanga
+T126	Location 19045 19053	Zambales
+T127	Location 19087 19090	NCR
+T128	Location 19168 19179	Nueva Ecija
+T129	Location 19184 19194	Pangasinan
+T130	Location 19304 19308	Cebu
+T131	Location 19362 19368	Negros
+T132	Location 19520 19528	Mindanao
+T133	Location 19553 19558	Davao
+T134	Location 19743 19754	Philippines
+T135	Location 19948 19959	Philippines
+T136	Location 20178 20183	Luzon
+T137	Location 20185 20192	Visayas
+T138	Location 20198 20206	Mindanao
+T139	Location 20332 20340	Mindanao
+T140	Location 20312 20317	Luzon
+T141	Location 20319 20326	Visayas
+T142	Location 20553 20562	Indonesia
+T143	Location 20883 20888	Luzon
+T144	Location 20893 20900	Mindoro
+T145	Location 21039 21047	Sorsogon
+T146	Location 21051 21056	Luzon
+T147	Location 21068 21079	Catanduanes
+T148	Location 21444 21449	China
+T149	Location 21504 21509	China
+T150	Location 21631 21636	China
+T151	Location 21694 21699	China
+T152	Location 21764 21769	China
+T153	Location 21823 21828	China
+T154	Location 21884 21889	China
+T155	Location 21957 21962	China
+T156	Location 21568 21577	Indonesia
+T157	Location 22030 22041	Philippines
+T158	Location 22098 22105	Myanmar
+T159	Location 22227 22235	Thailand
+T160	Location 22163 22170	Vietnam
+T161	Location 23046 23051	Luzon
+T162	Location 23079 23086	Mindoro
+T163	Location 23260 23271	Philippines
+T164	Location 23308 23313	China
+T165	Location 24335 24340	Luzon
+T166	Location 24341 24348	Visayas
+T167	Location 24349 24357	Mindanao
+T168	Location 24733 24744	Philippines
+T169	Location 25207 25218	Philippines
+T170	Location 25287 25298	Philippines
+T171	Location 25274 25279	China
+T172	Location 25365 25376	Philippines
+T173	Location 25607 25615	Mountain
+T174	Location 25629 25635	Ifugao
+T175	Location 25904 25907	NCR
+T176	Location 25912 25921	Region 4A
+T177	Location 25980 25988	Region 3
+T178	Location 26184 26187	NCR
+T179	Location 26256 26264	Pampanga
+T180	Location 26269 26280	Nueva Ecija
+T181	Location 26333 26343	Pangasinan
+T182	Location 26358 26361	NCR
+T183	Location 26626 26637	Philippines
+T184	Location 26642 26650	Region 5
+T185	Location 26654 26659	Luzon
+T186	Location 26757 26765	Region 5
+T187	Location 26817 26820	NCR
+T188	Location 27015 27018	NCR
+T189	Location 27022 27030	Region 5
+T190	Location 27085 27092;27093 27094	Regions 3
+T191	Location 27099 27100	5
+T192	Location 27172 27175	CAR
+T193	Location 27180 27187	Visayas
+T194	Location 27245 27249	Cebu
+T195	Location 27254 27260	Negros
+T196	Location 27459 27467	Mindanao
+T197	Location 27512 27517	Davao
+T198	Location 27592 27606	Cagayan de Oro
+T199	Location 27897 27908	Philippines
+T200	Location 28200 28207	Mindoro
+T201	Location 28218 28223	Luzon
+T202	Location 29175 29180	Luzon
+T203	Location 29479 29487	Mindanao
+T204	Location 29516 29524	Mindanao
+T205	Location 29581 29592	Philippines
+T206	Location 29997 30008	Philippines
+T207	Location 30105 30107	UK
+T208	Location 30112 30117	Japan
+T209	Location 30195 30206	Philippines
+T210	Location 30568 30579	Philippines
+T211	Location 30887 30898	Philippines
+T212	Location 31597 31602	Luzon
+T213	Location 31607 31614	Mindoro
+T214	Location 31659 31670	Catanduanes
+T215	Location 31649 31654	Luzon
+T216	Location 31697 31705	Thailand
+T217	Location 32102 32110	Thailand
+T218	Location 32171 32176	Luzon
+T219	Location 32220 32231	Philippines
+T220	Location 32439 32450	Philippines
+T221	Location 33378 33389	Philippines
+T222	Location 33736 33747	Philippines
+T223	Location 34009 34014	Luzon
+T224	Location 34024 34031	Visayas
+T225	Location 34044 34052	Mindanao
+T231	Location 12747 12758	Foster City
+T232	Location 12760 12762	CA
+T233	Location 12764 12767	USA
+T237	Location 20265 20272	Visayas
+T246	Location 4041 4045	Asia
+T43	Location 19095 19104	Region 4A
+T49	Location 24358 24366	Region 1
+T226	Location 24379 24381	4A
+T227	Location 24375 24378	NCR
+T228	Location 24369 24372	CAR
+T229	Location 24367 24368	2
+T230	Location 24373 24374	3
+T234	Location 24385 24386	5
+T235	Location 24387 24388	7
+T236	Location 24389 24391	10
+T238	Location 24392 24394	11
+T239	Location 24382 24384	4B
+T240	Location 19575 19580;19581 19585	Mind- anao
