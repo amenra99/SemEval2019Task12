@@ -14,9 +14,9 @@ val_inputs, val_tags, val_masks = loadData.getData(val_path, tokenizer)
 
 
 
-val_inputs = val_inputs[:10]
-val_masks = val_masks[:10]
-val_tags = val_tags[:10]
+# val_inputs = val_inputs[:10]
+# val_masks = val_masks[:10]
+# val_tags = val_tags[:10]
 
 
 # create inputs
@@ -38,22 +38,33 @@ results = tf_model(val_x['input_ids'], token_type_ids=val_x['token_type_ids'])[0
 def flat_accuracy(preds, labels):
 	pred_flat = np.argmax(preds, axis=-1).flatten()
 	labels_flat = labels.flatten()
-	return np.sum(pred_flat == labels_flat) / len(labels_flat)
+	
+	correct = np.sum(pred_flat == labels_flat)
+
+	accuracy = correct / len(labels_flat)
+	precision = correct / np.sum(pred_flat)
+	recall = correct / np.sum(labels)
+
+	return accuracy, precision, recall
 
 
-nb_eval_steps, eval_accuracy = 0, 0
+nb_eval_steps, eval_accuracy, eval_precision, eval_recall = 0, 0, 0, 0
 predictions , true_labels = [], []
 
-for result in results:
+for i, result in enumerate(results):
 	# pred = [list(p) for p in np.argmax(result, axis=-1)]
 	pred = np.argmax(result, axis=-1)
-	print(np.array(pred).flatten())
+	# print(np.array(pred).flatten())
 
-	predictions.extend(pred)
-	true_labels.append(np.array(val_tags))
+	# predictions.extend(pred)
+	true_labels.append(np.array(val_tags[i]))
 
-	tmp_eval_accuracy = flat_accuracy(result, np.array(val_tags))
+	tmp_eval_accuracy, tmp_eval_precision, tmp_eval_recall = flat_accuracy(result, np.array(val_tags))
 	eval_accuracy += tmp_eval_accuracy
+	eval_precision += tmp_eval_precision
+	eval_recall += tmp_eval_recall
 	nb_eval_steps += 1
 
 print("Validation Accuracy: {}".format(eval_accuracy/nb_eval_steps))
+print("Validation Accuracy: {}".format(eval_precision/nb_eval_steps))
+print("Validation Accuracy: {}".format(eval_recall/nb_eval_steps))
