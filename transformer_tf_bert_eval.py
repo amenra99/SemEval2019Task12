@@ -66,5 +66,5 @@ for i, result in enumerate(results):
 	nb_eval_steps += 1
 
 print("Validation Accuracy: {}".format(eval_accuracy/nb_eval_steps))
-print("Validation Accuracy: {}".format(eval_precision/nb_eval_steps))
-print("Validation Accuracy: {}".format(eval_recall/nb_eval_steps))
+print("Validation Precision: {}".format(eval_precision/nb_eval_steps))
+print("Validation Recall: {}".format(eval_recall/nb_eval_steps))
