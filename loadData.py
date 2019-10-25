@@ -80,12 +80,14 @@ def getInputData(tokenizer, normalizer):
         tokens = tokenizer.tokenize(item[0])
         spans = getSpans(item[0], tokens)
 
-#         labels = [False] * len(tokens)
         labels = [0] * len(tokens)
+        # labels = []  # one-hot encoding
         for i, span in enumerate(spans):
             if span in item[1]:
-#                 labels[i] = True
-                labels[i] = 1                
+                labels[i] = 1
+                # labels.append([0, 1])  # one-hot encoding
+            # else:
+                # labels.append([1, 0])  # one-hot encoding
 
     # 		yield tokens, labels, spans
         docs.append([tokens, labels, spans])
@@ -127,6 +129,8 @@ def chunk_data(data, tokenizer, max_token):
 
         tokens[-1] = pad_sequence(tokens[-1], 0, max_token)
         labels[-1] = pad_sequence(labels[-1], 0, max_token)
+        # labels[-1] = pad_sequence(labels[-1], [1, 0], max_token) # one-hot encoding
+        
         
         tot_tokens.extend(tokens)
         tot_labels.extend(labels)        
