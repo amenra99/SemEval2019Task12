@@ -19,7 +19,7 @@ val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
 MAX_TOKEN = 256
 PRETRAINED_MODEL = 'bert-base-uncased'
 EPOCHS = 30
-BATCH_SIZE = 64
+BATCH_SIZE = 16
 
 tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
 
@@ -109,8 +109,8 @@ bertModel.compile(optimizer=optimizer, loss=loss)
 bertModel.fit(x=train_x, y=train_y,
               validation_data=(val_x, val_y),
               epochs=EPOCHS,
-              steps_per_epoch=115,
-              validation_steps=7,
+              # steps_per_epoch=115,
+              # validation_steps=7,
               batch_size=BATCH_SIZE)
 
 
