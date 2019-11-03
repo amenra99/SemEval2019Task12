@@ -79,9 +79,9 @@ class EvaluateModel(tf.keras.callbacks.Callback):
         # testPred, testRecall, recallF1 = self.getEvalSummary(self.val_x, self.val_tags)
         # self.reports.append([[trainPred, trainRecall, trainF1], [testPred, testRecall, recallF1]])
 
-        print('\nEpoch {0}\tTr_Precision: {1}\t Tr_Recall: {2}\t Tr_F1: {3}\tVal_Precision: {4}\t Val_Recall: {5}\t Val_F1: {6}'.format(
+        print('\nEpoch {0}\tTr_Precision: {1}\tTr_Recall: {2}\tTr_F1: {3}\tVal_Precision: {4}\tVal_Recall: {5}\tVal_F1: {6}'.format(
             epoch, tr_eval[0], tr_eval[1], tr_eval[2], val_eval[0], val_eval[1], val_eval[2]))
-        print(self.reports)
+        # print(self.reports)
 
 
     def getEvalSummary(self, x, y):
@@ -96,7 +96,7 @@ class EvaluateModel(tf.keras.callbacks.Callback):
           preds += tmp_preds
           trues += tmp_trues
 
-          print(corrects, preds, trues)
+          # print(corrects, preds, trues)
 
       precision = corrects/preds if corrects > 0 else 0
       recall = corrects/trues  if corrects > 0 else 0
