@@ -18,7 +18,7 @@ val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
 
 MAX_TOKEN = 256
 PRETRAINED_MODEL = 'bert-base-uncased'
-EPOCHS = 2
+EPOCHS = 20
 BATCH_SIZE = 16
 
 tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
@@ -28,13 +28,13 @@ tr_inputs, tr_tags, tr_masks = loadData.getData(train_path, tokenizer, MAX_TOKEN
 val_inputs, val_tags, val_masks = loadData.getData(val_path, tokenizer, MAX_TOKEN)
 
 ## reduce data train / dev for test training
-tr_inputs = tr_inputs[:10]
-tr_masks = tr_masks[:10]
-tr_tags = tr_tags[:10]
+# tr_inputs = tr_inputs[:10]
+# tr_masks = tr_masks[:10]
+# tr_tags = tr_tags[:10]
 
-val_inputs = val_inputs[:3]
-val_masks = val_masks[:3]
-val_tags = val_tags[:3]
+# val_inputs = val_inputs[:3]
+# val_masks = val_masks[:3]
+# val_tags = val_tags[:3]
 
 
 # create inputs
