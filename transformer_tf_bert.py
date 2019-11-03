@@ -18,7 +18,7 @@ val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
 
 MAX_TOKEN = 256
 PRETRAINED_MODEL = 'bert-base-uncased'
-EPOCHS = 20
+EPOCHS = 2
 BATCH_SIZE = 16
 
 tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
@@ -28,13 +28,13 @@ tr_inputs, tr_tags, tr_masks = loadData.getData(train_path, tokenizer, MAX_TOKEN
 val_inputs, val_tags, val_masks = loadData.getData(val_path, tokenizer, MAX_TOKEN)
 
 ## reduce data train / dev for test training
-# tr_inputs = tr_inputs[:10]
-# tr_masks = tr_masks[:10]
-# tr_tags = tr_tags[:10]
+tr_inputs = tr_inputs[:10]
+tr_masks = tr_masks[:10]
+tr_tags = tr_tags[:10]
 
-# val_inputs = val_inputs[:3]
-# val_masks = val_masks[:3]
-# val_tags = val_tags[:3]
+val_inputs = val_inputs[:3]
+val_masks = val_masks[:3]
+val_tags = val_tags[:3]
 
 
 # create inputs
@@ -73,14 +73,15 @@ class EvaluateModel(tf.keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs={}):
 
         tr_result, tr_eval = self.getEvalSummary(self.train_x, self.tr_tags)
-        val_result, val_eval = self.getEvalSummary(self.train_x, self.tr_tags)
+        val_result, val_eval = self.getEvalSummary(self.val_x, self.val_tags)
         self.reports.append([[tr_result, tr_eval], [val_result, val_eval]])
         # trainPred, trainRecall, trainF1 = self.getEvalSummary(self.train_x, self.tr_tags)
         # testPred, testRecall, recallF1 = self.getEvalSummary(self.val_x, self.val_tags)
         # self.reports.append([[trainPred, trainRecall, trainF1], [testPred, testRecall, recallF1]])
 
-        print('Epoch {0}\tTrain - Precision: {1}\t Recall: {2}\t F1: {3}'.format(epoch, tr_eval[0], tr_eval[1], tr_eval[2]))
-        print('Epoch {0}\tValidation - Precision: {1}\t Recall: {2}\t F1: {3}'.format(epoch, val_eval[0], val_eval[1], val_eval[2]))
+        print('\nEpoch {0}\tTr_Precision: {1}\t Tr_Recall: {2}\t Tr_F1: {3}\tVal_Precision: {4}\t Val_Recall: {5}\t Val_F1: {6}'.format(
+            epoch, tr_eval[0], tr_eval[1], tr_eval[2], val_eval[0], val_eval[1], val_eval[2]))
+        print(self.reports)
 
 
     def getEvalSummary(self, x, y):
@@ -95,7 +96,7 @@ class EvaluateModel(tf.keras.callbacks.Callback):
           preds += tmp_preds
           trues += tmp_trues
 
-          # print(corrects, preds, trues)
+          print(corrects, preds, trues)
 
       precision = corrects/preds if corrects > 0 else 0
       recall = corrects/trues  if corrects > 0 else 0
@@ -155,6 +156,16 @@ print('[tr_result, tr_eval], [val_result, val_eval]')
 for report in reports:
   print(report)
 
+with open('bert_result.csv', 'w') as f:
+  f.write('tr_corr, tr_pred, tr_true, tr_precision, tr_recall, tr_f1, val_corr, val_pred, val_true, val_precision, val_recall, val_f1\n')
+  for tr_val in reports:  # [0]training   [1]validation
+    for result_eval in tr_val:  # [0]result   [1]eval data
+      for item in result_eval: # [0]corrects, preds, trues   [1]precision, recall, f1
+        for val in item:
+          f.write(str(val))
+          f.write(',')
+    f.write('\n')
+    
 
 # save bert model
 bertModel.save_pretrained('./save/')
