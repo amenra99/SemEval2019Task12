@@ -17,8 +17,9 @@ train_path = './SemEval18_Task12/Training/Training_Data_Participant'
 val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
 
 MAX_TOKEN = 256
-PRETRAINED_MODEL = 'bert-base-uncased'
-EPOCHS = 20
+PRETRAINED_MODEL = 'bert-base-multilingual-cased' # 'bert-base-uncased' 'bert-base-multilingual-cased' 'bert-large-uncased'
+
+EPOCHS = 10
 BATCH_SIZE = 16
 
 tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
