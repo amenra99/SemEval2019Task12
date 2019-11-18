@@ -38,7 +38,7 @@ with open('./result/result.html', 'w') as out:
         results = tf_model(val_x['input_ids'], token_type_ids=val_x['token_type_ids'])[0]
 
         with open(txtFile, 'r') as tFile:
-            txt = tFile.read()
+            txt = tFile.read().decode("utf-8", "surrogatepass")
             out.write('<h3>')
             out.write(txtFile)
             out.write('</h3><p>')
