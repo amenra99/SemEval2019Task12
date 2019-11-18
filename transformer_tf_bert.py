@@ -25,8 +25,8 @@ BATCH_SIZE = 64
 tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
 
 # obtain data train / dev
-tr_inputs, tr_tags, tr_masks = loadData.getData(train_path, tokenizer, MAX_TOKEN)
-val_inputs, val_tags, val_masks = loadData.getData(val_path, tokenizer, MAX_TOKEN)
+tr_inputs, tr_tags, tr_masks, tr_spans = loadData.getData(train_path, tokenizer, MAX_TOKEN)
+val_inputs, val_tags, val_masks, val_spans = loadData.getData(val_path, tokenizer, MAX_TOKEN)
 
 ## reduce data train / dev for test training
 # tr_inputs = tr_inputs[:10]
