@@ -72,8 +72,10 @@ def readTextAndGeoIdSpansFile(annFile):
 
 
 def readTextAndGeoIdSpans(annFiles):
+    docs = []
     for annFile in annFiles:
-        yield readTextAndGeoIdSpansFile(annFile)
+        docs.append(readTextAndGeoIdSpansFile(annFile))
+    return docs
 
 
 def getInputData(tokenizer, normalizer):
@@ -97,7 +99,7 @@ def getInputData(tokenizer, normalizer):
 
 
 def getSpans(text, tokens):
-    text = text.lower()
+    # text = text.lower()
     spans = []
     end = 0
 
@@ -161,3 +163,16 @@ def getDataFile(file, tokenizer, max_token=512):
     attention_masks = [[float(i>0) for i in ii] for ii in tokens]
 
     return tokens, labels, attention_masks, spans
+
+
+
+# from transformers import BertTokenizer
+# MAX_TOKEN = 256
+
+# val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
+# tokenizer = BertTokenizer.from_pretrained('bert-large-cased')
+
+# val_inputs, val_tags, val_masks, val_spans = getData(val_path, tokenizer, max_token=MAX_TOKEN)
+
+# print(val_tags[0])
+
