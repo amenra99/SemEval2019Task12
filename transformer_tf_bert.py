@@ -17,10 +17,10 @@ train_path = './SemEval18_Task12/Training/Training_Data_Participant'
 val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
 
 MAX_TOKEN = 256
-PRETRAINED_MODEL = 'bert-base-multilingual-cased' # 'bert-base-uncased' 'bert-base-multilingual-cased' 'bert-large-uncased'
+PRETRAINED_MODEL = 'bert-base-cased' # 'bert-base-uncased' 'bert-base-multilingual-cased' 'bert-large-uncased'
 
-EPOCHS = 10
-BATCH_SIZE = 16
+EPOCHS = 20
+BATCH_SIZE = 64
 
 tokenizer = BertTokenizer.from_pretrained(PRETRAINED_MODEL)
 
@@ -139,15 +139,16 @@ bertModel.compile(optimizer=optimizer, loss=loss)
 
 
 # training
-bertModel.fit(x=train_x, y=train_y, epochs=EPOCHS, callbacks=[eval_metrics])
+# bertModel.fit(x=train_x, y=train_y, epochs=EPOCHS, callbacks=[eval_metrics])
 
 # batch training
-# bertModel.fit(x=train_x, y=train_y,
-#               validation_data=(val_x, val_y),
-#               epochs=EPOCHS,
-#               # steps_per_epoch=115,
-#               # validation_steps=7,
-#               batch_size=BATCH_SIZE)
+bertModel.fit(x=train_x, y=train_y,
+              validation_data=(val_x, val_y),
+              epochs=EPOCHS,
+              # steps_per_epoch=115,
+              # validation_steps=7,
+              batch_size=BATCH_SIZE,
+              callbacks=[eval_metrics])
 
 
 reports = eval_metrics.get()
