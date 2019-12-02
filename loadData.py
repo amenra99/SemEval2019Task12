@@ -8,6 +8,23 @@ import itertools
 
 GeoIdMatch = ".*<geoID>\s*(\S+)\s*</geoID>.*"
 
+# word span calculate
+def getSpanWord(span, text):
+    locs = text.split()
+    start = int(span[0])
+    end = int(span[1])
+    spans = []
+    if len(locs) > 1:
+        for loc in locs:
+            result = getSpanWord([start, start + len(loc)], loc)
+            start = start + len(loc) + 1
+            spans.append(result)
+    else:
+        spans.append(((start, end), text))
+        # print(text)
+    return spans
+
+
 def readTextAndGeoIdSpansFile(annFile):
     txtFile = annFile.replace('.ann', '.txt')
 
@@ -17,6 +34,8 @@ def readTextAndGeoIdSpansFile(annFile):
     annIdToSpan = {}
     spanToGeoID = {}
 
+
+    # read file
     with open(annFile, 'r') as file:
         annText = file.read()
         annText = re.sub(r"\n([^T#])", r" ", annText)
@@ -29,19 +48,26 @@ def readTextAndGeoIdSpansFile(annFile):
             if len(row) > 0:
                 if row[0].startswith('T'):
                     if row[1].startswith('Location'):
-                        position = row[1].replace(';', ' ').split()
-                        startP = int(position[1])
-                        endP = int(position[-1])
 
-                        locationText = text[startP:endP]
-
-                        if re.sub(r'\s+', '', locationText) != re.sub(r'\s+', '', row[2]):
-                            print("WARNING: {0}({1}) from .txt != {2}({3}:{4}) from {5}".format(
-                                list(locationText), str(text).find(row[2], pos+1), row[2], startP, endP, annFile[-14:]))
-
-                        pos = endP
-                        span = (startP, endP)
-                        annIdToSpan[row[0]] = span
+                        row[1] = row[1][9:] # after location
+                        positions = []
+                        if ';' in row[1]:
+                            spans = row[1].split(';')
+                            lastPos = 0
+                            for span in spans:
+                                span = span.split()
+                                result = getSpanWord(span, row[2][lastPos:lastPos + int(span[1]) - int(span[0])])
+                                lastPos = int(span[1]) - int(span[0]) + 1
+                                positions.extend(result)
+                        else:
+                            spans = row[1].split()
+                            result = getSpanWord(spans, row[2])
+                            positions.extend(result)
+                            
+                        for i, pos in enumerate(positions):
+                            if type(pos) is list:
+                                pos = pos[0]
+                            annIdToSpan["{0}-{1}".format(row[0], i)] = pos[0]
 
                     elif row[1].startswith('Protein'):
                         pass
@@ -59,16 +85,9 @@ def readTextAndGeoIdSpansFile(annFile):
 
 
     spans = sorted(annIdToSpan.items(), key=operator.itemgetter(1))
-    geoIds = sorted(spanToGeoID.items(), key=lambda i:[j[0] for j in spans].index(i[0]))
+    # geoIds = sorted(spanToGeoID.items(), key=lambda i:[j[0] for j in spans].index(i[0]))
 
-    # try:
-    #   geoIds = sorted(spanToGeoID.items(), key=lambda i:[j[0] for j in spans].index(i[0]))
-    # # print(geoIds)
-    # except:
-    #   print("error in {0}".format(annFile))
-        # exit(0)
-
-    return text, [i[1] for i in spans], [i[1] for i in geoIds]
+    return text, [i[1] for i in spans] #, [i[1] for i in geoIds]
 
 
 def readTextAndGeoIdSpans(annFiles):
@@ -93,13 +112,13 @@ def getInputData(tokenizer, normalizer):
             # else:
                 # labels.append([1, 0])  # one-hot encoding
 
-    # 		yield tokens, labels, spans
+    #       yield tokens, labels, spans
         docs.append([tokens, labels, spans])
     return docs
 
 
 def getSpans(text, tokens):
-    # text = text.lower()
+    text = text.lower()
     spans = []
     end = 0
 
@@ -167,12 +186,19 @@ def getDataFile(file, tokenizer, max_token=512):
 
 
 # from transformers import BertTokenizer
+# import numpy as np
 # MAX_TOKEN = 256
 
-# val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
-# tokenizer = BertTokenizer.from_pretrained('bert-large-cased')
+# # val_path = './SemEval18_Task12/Training/Validation_Data_Codalab/detection'
+# val_path = './SemEval18_Task12/temp'
+# tokenizer = BertTokenizer.from_pretrained('bert-large-uncased')
 
 # val_inputs, val_tags, val_masks, val_spans = getData(val_path, tokenizer, max_token=MAX_TOKEN)
 
-# print(val_tags[0])
+# # print(val_tags[0:5])
+# # print(val_spans)
+
+# for i, val in enumerate(val_tags[1]):
+#     if val == 1:
+#         print(val_spans[i + MAX_TOKEN])
 
